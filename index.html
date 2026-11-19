@@ -3374,12 +3374,17 @@ body.mb-on .controls{padding-top:8px}
       ${histLinks(d)}`;
     openM('mDeal');
   }
+  function autoImg(d){
+    if (d.img) return d.img;
+    const a = asin(d); if (!a) return null;
+    return 'https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN='+a+'&Format=_SL350_&ID=AsinImage&MarketPlace=ES&ServiceVersion=20070822&WS=1';
+  }
   function media(d, cls=''){
     const C = CAT[d.cat] || {c:'#444',i:''};
     const ph = `<div class="ph"><svg viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${C.i}</svg>${esc(d.store)}</div>`;
-    return `<div class="media ${cls} ${d.img?'':'noimg'}" style="--c:${C.c}">
-      ${d.img ? `<img src="${esc(d.img)}" alt="${esc(d.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('noimg');this.remove()">` : ''}
-      ${ph.replace('class="ph"', d.img ? 'class="ph" style="z-index:0"' : 'class="ph"')}
+    return `<div class="media ${cls} ${autoImg(d)?'':'noimg'}" style="--c:${C.c}">
+      ${autoImg(d) ? `<img src="${esc(autoImg(d))}" alt="${esc(d.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('noimg');this.remove()" onload="if(this.naturalWidth<20){this.parentNode.classList.add('noimg');this.remove()}">` : ''}
+      ${ph.replace('class="ph"', autoImg(d) ? 'class="ph" style="z-index:0"' : 'class="ph"')}
     </div>`;
   }
   function priceBlock(d){
