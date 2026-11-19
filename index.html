@@ -557,6 +557,13 @@ body.mb-on .controls{padding-top:8px}
   .minibar{padding:5px 8px}
   .mb-btn{padding:0;width:40px}
 }
+
+.chips.stores{margin-top:10px}
+.chip.st{display:inline-flex;align-items:center;gap:6px}
+.chip.st .sd{width:10px;height:10px;border-radius:50%;background:var(--sc,#888);border:1.5px solid var(--line);flex:0 0 auto}
+.chip.st.on{background:var(--sc,var(--hot));color:#fff}
+.chip.st.on .sd{background:#fff}
+.chips.stores + .chips{margin-top:8px}
 </style>
 </head>
 <body>
@@ -614,6 +621,7 @@ body.mb-on .controls{padding-top:8px}
       </label>
       <button class="fbtn" data-open="mFilters">⚙️ Filtros<i class="fcount" hidden></i></button>
     </div>
+    <div class="chips stores" id="storeChips"></div>
     <div class="chips" id="chips"></div>
   </div>
 
@@ -3420,8 +3428,16 @@ body.mb-on .controls{padding-top:8px}
   setStamp(); ticker();
 
   // controls
-  const stores = ['Todas', ...new Set(D.deals.map(d=>d.store))];
-  document.getElementById('store').innerHTML = stores.map(s=>`<option>${esc(s)}</option>`).join('').replace('<option>Todas</option>','<option value="Todas">Todas las tiendas</option>');
+  function storeOpts(){
+    const cnt={}; D.deals.forEach(d=>{const b=d.store.split(' ·')[0]; cnt[b]=(cnt[b]||0)+1;});
+    const list=Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]);
+    const sel=document.getElementById('store'), cur=sel.value||'Todas';
+    sel.innerHTML='<option value="Todas">Todas las tiendas</option>'+list.map(s=>`<option>${esc(s)}</option>`).join('');
+    sel.value = list.includes(cur)?cur:'Todas';
+    document.getElementById('storeChips').innerHTML = `<button class="chip st ${sel.value==='Todas'?'on':''}" data-st="Todas">🛍️ Todas</button>` +
+      list.map(s=>`<button class="chip st ${sel.value===s?'on':''}" data-st="${esc(s)}" style="--sc:${stc(s)}"><i class="sd"></i>${esc(s)}<span class="n">${cnt[s]}</span></button>`).join('');
+  }
+  storeOpts();
   const cats = ['Todas', ...Object.keys(CAT).filter(k=>D.deals.some(d=>d.cat===k))];
   function chips(){
     document.getElementById('chips').innerHTML = cats.map(c=>{
@@ -3466,7 +3482,7 @@ body.mb-on .controls{padding-top:8px}
     const u150 = document.getElementById('under150').checked;
     const onlyCm = document.getElementById('onlyCm').checked;
     let list = D.deals.filter(d =>
-      (cat==='Todas'||d.cat===cat) && (cat!=='Juguetes'||sub==='Todos'||d.sub===sub) && (st==='Todas'||d.store===st) &&
+      (cat==='Todas'||d.cat===cat) && (cat!=='Juguetes'||sub==='Todos'||d.sub===sub) && (st==='Todas'||d.store===st||d.store.split(' ·')[0]===st) &&
       (!onlyMin||d.min||(d.hist&&d.hist.verdict==='low')) && (!onlyCm||d.src==='Chollómetro') && (!u150||can(d.price)<=IGIC_LIMIT) &&
       (!q || (d.name+' '+d.store+' '+d.cat).toLowerCase().includes(q)));
     const f = {score:(a,b)=>score(b)-score(a), pct:(a,b)=>pct(b)-pct(a), save:(a,b)=>saving(b)-saving(a), asc:(a,b)=>shown(a.price,a.store)-shown(b.price,b.store), desc:(a,b)=>shown(b.price,b.store)-shown(a.price,a.store)}[so];
@@ -3559,6 +3575,8 @@ body.mb-on .controls{padding-top:8px}
     document.querySelectorAll('.fcount').forEach(el=>{el.hidden=!n;el.textContent=n}); document.getElementById('fres').textContent=document.querySelectorAll('#grid .card').length; }
   ['store','sort','onlyMin','under150','onlyCm','q'].forEach(id=>document.getElementById(id).addEventListener('input',()=>setTimeout(fcount)));
   setTimeout(fcount,50);
+  document.getElementById('storeChips').addEventListener('click',e=>{ const b=e.target.closest('[data-st]'); if(!b) return; document.getElementById('store').value=b.dataset.st; storeOpts(); render(); if(typeof fcount==='function') fcount(); });
+  document.getElementById('store').addEventListener('input',()=>storeOpts());
   chips(); stats(); hero(); render(); calc();
 
 
@@ -3573,7 +3591,7 @@ body.mb-on .controls{padding-top:8px}
       L.deals.forEach(x=>{ if(!x.img && imgs[x.id]) x.img = imgs[x.id]; if(!x.img && x.id && /^[\w-]+$/.test(x.id)) x.img = null; });
       D.deals = L.deals; D.updated = L.updated || D.updated; D.edition = L.edition || D.edition;
       if(Array.isArray(L.campaigns)) D.campaigns = L.campaigns;
-      setStamp(); ticker(); chips(); stats(); hero(); render(); if(typeof fcount==='function') fcount();
+      setStamp(); ticker(); storeOpts(); chips(); stats(); hero(); render(); if(typeof fcount==='function') fcount();
     }catch(e){}
   })();
   // ---- datos en vivo (los actualiza la tarea programada)
@@ -3589,7 +3607,7 @@ body.mb-on .controls{padding-top:8px}
       L.deals.forEach(x=>{ if(!x.img && imgs[x.id]) x.img = imgs[x.id]; if(x.img && !/^(data:|img\/)/.test(x.img)) x.img = imgs[x.id] || null; });
       D.deals = L.deals; D.updated = L.updated; D.edition = L.edition || D.edition;
       if(Array.isArray(L.campaigns)) D.campaigns = L.campaigns;
-      setStamp(); ticker(); chips(); stats(); hero(); render(); if(typeof fcount==='function') fcount();
+      setStamp(); ticker(); storeOpts(); chips(); stats(); hero(); render(); if(typeof fcount==='function') fcount();
     }catch(e){ /* sin conexión: se quedan los datos incluidos en la página */ }
   })();
 
