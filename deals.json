@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:28:00+00:00",
- "edition": 4,
+ "updated": "2026-11-19T23:06:00+00:00",
+ "edition": 5,
  "campaigns": [
   {
    "name": "Amazon · Semana Black Friday",
@@ -2854,7 +2854,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/atornillador-a-bateria-bosch-ixo-8-adaptador-angular-set-de-10-puntas-luz-led-y-bateria-2071427",
    "was": null,
-   "why": "Bricolaje: el atornillador de bolsillo más vendido, con accesorios."
+   "why": "Bricolaje: el atornillador de bolsillo más vendido, con accesorios.",
+   "prevDay": 34.99
   },
   {
    "cat": "Hogar",
@@ -2868,7 +2869,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/taladro-atornillador-bosch-easydrill-1200-12v-bateria-20-ah-32-puntas-11-brocas-y-funda-2072389",
    "was": null,
-   "why": "Bricolaje: kit completo con batería 2 Ah y funda."
+   "why": "Bricolaje: kit completo con batería 2 Ah y funda.",
+   "prevDay": 61.99
   },
   {
    "cat": "Hogar",
@@ -2882,7 +2884,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/bosch-taladro-percutor-a-bateria-easyimpact-18v-40-2073148",
    "was": null,
-   "why": "Bricolaje: percutor 18 V para hormigón y madera."
+   "why": "Bricolaje: percutor 18 V para hormigón y madera.",
+   "prevDay": 72.99
   },
   {
    "cat": "Hogar",
@@ -2896,7 +2899,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/bruder-mannesmann-juego-de-vasos-y-puntas-130-pzs-cv-tuvgs-2077702",
    "was": null,
-   "why": "Bricolaje: maletín de carraca con 130 piezas."
+   "why": "Bricolaje: maletín de carraca con 130 piezas.",
+   "prevDay": 17.99
   },
   {
    "cat": "Cuidado personal",
@@ -2909,7 +2913,8 @@
    "src": "Chollómetro",
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/oral-b-io-3n-cepillo-de-dientes-electrico-con-1-cabezal-negro-2070753",
-   "was": null
+   "was": null,
+   "prevDay": 59.95
   },
   {
    "cat": "Cuidado personal",
@@ -2923,7 +2928,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/2-x-oral-b-vitality-pro-2070290",
    "was": null,
-   "why": "Dos cepillos por unos 17,6 € cada uno."
+   "why": "Dos cepillos por unos 17,6 € cada uno.",
+   "prevDay": 35.25
   },
   {
    "cat": "Cuidado personal",
@@ -2937,7 +2943,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/cabezales-oral-b-io-ultimate-clean-negro-pack-de-6-2072897",
    "was": null,
-   "why": "Unos 4,7 € por cabezal original."
+   "why": "Unos 4,7 € por cabezal original.",
+   "prevDay": 28
   },
   {
    "cat": "Hogar",
@@ -2951,7 +2958,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/panales-dodot-sensitive-talla-5-11-16-kg-168-unidades-4-pants-2071205",
    "was": null,
-   "why": "Bebé: pack mensual a unos 0,36 € el pañal."
+   "why": "Bebé: pack mensual a unos 0,36 € el pañal.",
+   "prevDay": 61.19
   },
   {
    "cat": "Cuidado personal",
@@ -2965,7 +2973,8 @@
    "store": "Flaconi",
    "url": "https://www.chollometro.com/ofertas/paco-rabanne-1-million-black-eau-de-parfum-50-ml-2068033",
    "was": null,
-   "why": "Perfume para regalar en Navidad."
+   "why": "Perfume para regalar en Navidad.",
+   "prevDay": 42.46
   },
   {
    "cat": "Cuidado personal",
@@ -2979,7 +2988,8 @@
    "store": "Primor",
    "url": "https://www.chollometro.com/ofertas/carolina-herrera-estuche-212-woman-eau-de-toilette-2068351",
    "was": null,
-   "why": "Perfume en estuche de regalo."
+   "why": "Perfume en estuche de regalo.",
+   "prevDay": 74.94
   },
   {
    "cat": "Cuidado personal",
@@ -2993,7 +3003,8 @@
    "store": "Primor",
    "url": "https://www.chollometro.com/ofertas/dolce-gabbana-set-light-blue-eau-de-toilette-2068289",
    "was": null,
-   "why": "Perfume en estuche de regalo."
+   "why": "Perfume en estuche de regalo.",
+   "prevDay": 73.52
   },
   {
    "cat": "Cuidado personal",
@@ -3007,7 +3018,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/biodance-serum-facial-de-colageno-y-peptidos-minimiza-poros-y-reafirma-la-piel-prebase-de-maquillaje-primer-hidratante-y-corrector-2068362",
    "was": null,
-   "why": "Belleza: cosmética coreana muy popular."
+   "why": "Belleza: cosmética coreana muy popular.",
+   "prevDay": 16
   },
   {
    "cat": "Cuidado personal",
@@ -3020,7 +3032,8 @@
    "src": "Chollómetro",
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/cerave-skin-renewing-crema-serum-con-peptidos-y-3-ceramidas-48-g-2070486",
-   "was": null
+   "was": null,
+   "prevDay": 20.8
   },
   {
    "cat": "Cuidado personal",
@@ -3033,7 +3046,8 @@
    "src": "Chollómetro",
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/maybelline-new-york-instant-anti-age-corrector-de-ojeras-01-light-2068700",
-   "was": null
+   "was": null,
+   "prevDay": 6.79
   },
   {
    "cat": "Juguetes",
@@ -3047,7 +3061,8 @@
    "store": "Amazon",
    "sub": "LEGO",
    "url": "https://www.chollometro.com/ofertas/lego-creator-3-en-1-caballo-noble-31166-2067046",
-   "was": null
+   "was": null,
+   "prevDay": 29.39
   },
   {
    "cat": "Juguetes",
@@ -3062,7 +3077,8 @@
    "sub": "Otros",
    "url": "https://www.chollometro.com/ofertas/scalextric-circuito-classic-pista-de-carreras-completa-coches-y-mandos-incluidos-escala-132-circuito-classic-formula-gp-2076432",
    "was": null,
-   "why": "Pista completa con coches y mandos."
+   "why": "Pista completa con coches y mandos.",
+   "prevDay": 185.63
   },
   {
    "cat": "Juguetes",
@@ -3076,7 +3092,8 @@
    "store": "Amazon",
    "sub": "Juegos de mesa",
    "url": "https://www.chollometro.com/ofertas/juego-de-mesa-catan-2068684",
-   "was": null
+   "was": null,
+   "prevDay": 28.7
   },
   {
    "cat": "Juguetes",
@@ -3090,7 +3107,8 @@
    "store": "Amazon",
    "sub": "Juegos de mesa",
    "url": "https://www.chollometro.com/ofertas/juego-de-mesa-sushi-go-party-2069586",
-   "was": null
+   "was": null,
+   "prevDay": 16
   },
   {
    "cat": "Juguetes",
@@ -3104,7 +3122,8 @@
    "store": "Amazon",
    "sub": "Hot Wheels",
    "url": "https://www.chollometro.com/ofertas/pack-ferrari-de-hot-wheels-2059242",
-   "was": null
+   "was": null,
+   "prevDay": 8.57
   },
   {
    "cat": "Juguetes",
@@ -3118,7 +3137,8 @@
    "store": "Playmobil",
    "sub": "Playmobil",
    "url": "https://www.chollometro.com/ofertas/playmobil-junior-disney-mickey-y-minnie-casa-en-las-nubes-2067340",
-   "was": null
+   "was": null,
+   "prevDay": 24.99
   },
   {
    "cat": "Juguetes",
@@ -3132,7 +3152,8 @@
    "store": "Amazon",
    "sub": "Playmobil",
    "url": "https://www.chollometro.com/ofertas/playmobil-collector-cars-ferrari-250-gto-2069121",
-   "was": null
+   "was": null,
+   "prevDay": 13.99
   },
   {
    "cat": "Juguetes",
@@ -3146,7 +3167,8 @@
    "store": "Amazon",
    "sub": "Playmobil",
    "url": "https://www.chollometro.com/ofertas/set-playmobil-pinguinos-2070459",
-   "was": null
+   "was": null,
+   "prevDay": 13.99
   },
   {
    "cat": "TV y audio",
@@ -3160,7 +3182,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/xiaomi-tv-pro-55-pulgadas-2026-4k-uhd-qled-smart-fire-tv-l55mb-fpveu-alexa-voice-control-hdr10-game-boost-mode-120hz-memc-2079245",
    "was": null,
-   "why": "55\" QLED a 120 Hz por menos de 300 €."
+   "why": "55\" QLED a 120 Hz por menos de 300 €.",
+   "prevDay": 293.39
   },
   {
    "cat": "TV y audio",
@@ -3173,7 +3196,8 @@
    "src": "Chollómetro",
    "store": "MediaMarkt",
    "url": "https://www.chollometro.com/ofertas/tcl-c6k-pro-65-2077347",
-   "was": null
+   "was": null,
+   "prevDay": 519.83
   },
   {
    "cat": "Gaming",
@@ -3186,7 +3210,8 @@
    "src": "Chollómetro",
    "store": "Miravia",
    "url": "https://www.chollometro.com/ofertas/playstation-auriculares-inalambricos-pulse-elite-con-microfono-retractil-y-cancelacion-de-ruido-por-ia-2078259",
-   "was": null
+   "was": null,
+   "prevDay": 69.98
   },
   {
    "cat": "Gaming",
@@ -3199,7 +3224,8 @@
    "src": "Chollómetro",
    "store": "MediaMarkt",
    "url": "https://www.chollometro.com/ofertas/videojuego-the-legend-of-zelda-ocarina-of-time-para-nintendo-switch-2-edicion-fisica-rediseno-hd-doblado-espanol-aventura-2077429",
-   "was": null
+   "was": null,
+   "prevDay": 54.46
   },
   {
    "cat": "Gaming",
@@ -3212,7 +3238,8 @@
    "src": "Chollómetro",
    "store": "PcComponentes",
    "url": "https://www.chollometro.com/ofertas/cyberpunk-2077-ultimate-edition-nintendo-switch-2-2075866",
-   "was": null
+   "was": null,
+   "prevDay": 43.99
   },
   {
    "cat": "Tecnología",
@@ -3225,7 +3252,8 @@
    "src": "Chollómetro",
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/dji-osmo-pocket-3-camara-con-cmos-1-y-video-4k120-fps-estabilizacion-en-3-ejes-2075496",
-   "was": null
+   "was": null,
+   "prevDay": 255
   },
   {
    "cat": "Hogar",
@@ -3239,7 +3267,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/parker-jotter-stainless-steel-ct-boligrafo-de-acero-inoxidable-recargable-con-estuche-2077291",
    "was": null,
-   "why": "Detalle para regalar por menos de 10 €."
+   "why": "Detalle para regalar por menos de 10 €.",
+   "prevDay": 9.69
   },
   {
    "cat": "Hogar",
@@ -3253,7 +3282,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/whiskas-comida-humeda-para-gatos-adultos-seleccion-aves-en-gelatina-13x-4-bolsitas-x85g-2069213",
    "was": null,
-   "why": "Mascotas: unos 0,38 € por sobre."
+   "why": "Mascotas: unos 0,38 € por sobre.",
+   "prevDay": 19.88
   },
   {
    "cat": "Hogar",
@@ -3267,7 +3297,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/catit-cuisine-dinner-surtido-alta-proteina-sin-granos-con-taurina-vitaminas-y-verduras-y-calabaza-2066816",
    "was": null,
-   "why": "Mascotas: comida húmeda alta en proteína."
+   "why": "Mascotas: comida húmeda alta en proteína.",
+   "prevDay": 11.13
   },
   {
    "cat": "Hogar",
@@ -3281,7 +3312,8 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/iams-alimento-seco-para-gatos-senior-con-pollo-fresco-3kg-para-gatos-de-mas-de-7-anospara-gatos-de-edad-avanzada-con-pollo-fresco-2068927",
    "was": null,
-   "why": "Mascotas: pienso para gatos de más de 7 años."
+   "why": "Mascotas: pienso para gatos de más de 7 años.",
+   "prevDay": 14.72
   }
  ]
 }
