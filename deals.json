@@ -1,73 +1,90 @@
 {
- "updated": "2026-11-19T23:06:00+00:00",
- "edition": 5,
+ "updated": "2026-11-20T06:26:00+00:00",
+ "edition": 6,
  "campaigns": [
   {
    "name": "Amazon · Semana Black Friday",
    "note": "más de 1 millón de ofertas",
-   "until": "2026-11-30"
+   "until": "2026-11-30",
+   "urgent": false
   },
   {
    "name": "Chollómetro · lo más votado",
    "note": "los chollos con más temperatura, cada día",
-   "until": "2026-11-30"
+   "until": "2026-11-30",
+   "urgent": false
   },
   {
    "name": "MediaMarkt · Día sin IVA",
-   "note": "acaba mañana a las 9:00",
+   "note": "acaba hoy a las 9:00 (8:00 en Canarias)",
    "until": "2026-11-20T09:00",
    "urgent": true
   },
   {
    "name": "Amazon · Juguetes",
    "note": "hasta -40 % en LEGO y juegos Hasbro",
-   "until": "2026-11-30"
-  },
-  {
-   "name": "Fnac · Black Days",
-   "note": "último día, acaba a medianoche",
-   "until": "2026-11-19T23:59",
-   "urgent": true
+   "until": "2026-11-30",
+   "urgent": false
   },
   {
    "name": "Decathlon · Black Friday",
    "note": "ofertas flash 24 h en la app",
-   "until": "2026-12-01"
+   "until": "2026-12-01",
+   "urgent": false
   },
   {
    "name": "El Corte Inglés · Adelántate",
    "note": "teles, robots y belleza hasta -55 %",
-   "until": "2026-11-22"
+   "until": "2026-11-22",
+   "urgent": false
   },
   {
    "name": "Carrefour · Folleto Black Friday",
    "note": "-30 % juguetes y bicis · -25 % ropa hasta el 22",
-   "until": "2026-11-29"
+   "until": "2026-11-29",
+   "urgent": false
   },
   {
    "name": "PcComponentes · Black Friday",
    "note": "campaña larga",
-   "until": "2026-11-29"
+   "until": "2026-11-29",
+   "urgent": false
   },
   {
    "name": "Black Friday oficial",
    "note": "viernes 27 de noviembre",
-   "until": "2026-11-27"
+   "until": "2026-11-27",
+   "urgent": false
   },
   {
    "name": "AliExpress · Black Friday",
-   "note": "usa vendedores con envío desde España",
-   "until": "2026-11-30"
+   "note": "cupones XATAKAES hasta el 3-dic; usa envío desde España",
+   "until": "2026-11-30",
+   "urgent": false
   },
   {
    "name": "El Corte Inglés · Black Week",
    "note": "día fuerte: viernes 27",
-   "until": "2026-11-30"
+   "until": "2026-11-30",
+   "urgent": false
   },
   {
    "name": "Miravia · Cupones Black Friday",
    "note": "hasta 40 € de descuento con cupón",
-   "until": "2026-12-03"
+   "until": "2026-12-03",
+   "urgent": false
+  },
+  {
+   "name": "TP-Link · Black Friday",
+   "until": "2026-11-30",
+   "note": "hasta -40 % en mesh y routers WiFi 7",
+   "urgent": false
+  },
+  {
+   "name": "Carrefour · Folleto 3x2",
+   "until": "2026-12-10",
+   "note": "del 24 de noviembre al 10 de diciembre",
+   "urgent": false
   }
  ],
  "deals": [
@@ -98,7 +115,6 @@
    "why": "Buen precio, pero en junio llegó a 399 € en Amazon y MediaMarkt."
   },
   {
-   "canUrl": "https://canarias.mediamarkt.es/search?q=Google+Pixel+11+256+GB",
    "cat": "Móviles",
    "hist": {
     "low": 698.35,
@@ -115,12 +131,12 @@
     "PcComponentes": 809.01
    },
    "prevDay": 698.35,
-   "price": 698.35,
-   "store": "MediaMarkt",
-   "url": "https://www.mediamarkt.es/es/product/_google-pixel-11-obsidiana-256gb-12gb-ram-63-oled-google-tensor-g6-4985-mah-1671342.html",
+   "price": 699,
+   "store": "Google Store",
+   "url": "https://store.google.com/es/",
    "was": 999,
    "wasSrc": "PVP",
-   "why": "Día sin IVA: 300 € por debajo de su PVP. Acaba mañana a las 9:00."
+   "why": "Black Friday de Google: 699 € (también 699 € en Amazon). El Día sin IVA de MediaMarkt ya acabó."
   },
   {
    "cat": "Tecnología",
@@ -317,41 +333,23 @@
    "wasSrc": "precio en El Corte Inglés"
   },
   {
-   "canUrl": "https://canarias.mediamarkt.es/search?q=Samsung+Galaxy+S26+Ultra+256+GB",
    "cat": "Móviles",
    "id": "s26u",
    "img": "img/s26u.webp",
    "min": false,
    "name": "Samsung Galaxy S26 Ultra 256 GB",
    "others": {
-    "PcComponentes": 1099,
-    "Samsung": 1249
+    "El Corte Inglés": 1099.9,
+    "PcComponentes": 1139,
+    "Samsung": 1149
    },
    "prevDay": 1098.35,
    "price": 1098.35,
-   "store": "MediaMarkt",
-   "url": "https://www.mediamarkt.es/es/product/_movil-samsung-galaxy-s26-ultra-negro-256-gb-12-gb-ram-69-qhd-qualcomm-snapdragon-8-elite-gen-5-5000-mah-android-16-1620277.html",
+   "store": "Amazon",
+   "url": "https://www.amazon.es/dp/B0G4Z5FS4J",
    "was": 1249,
    "wasSrc": "precio en Samsung",
-   "why": "Día sin IVA de MediaMarkt, hasta mañana 9:00."
-  },
-  {
-   "canUrl": "https://canarias.mediamarkt.es/search?q=TV+LG+OLED+B6+55\"+4K+120+Hz",
-   "cat": "TV y audio",
-   "id": "oledb6",
-   "img": "img/oledb6.webp",
-   "min": false,
-   "name": "TV LG OLED B6 55\" 4K 120 Hz",
-   "others": {
-    "PcComponentes": 899
-   },
-   "prevDay": 858.68,
-   "price": 858.68,
-   "store": "MediaMarkt",
-   "url": "https://www.mediamarkt.es/es/product/_tv-oled-55-lg-oled55b6elc-oled-4k-procesador-inteligente-a8-ai-processor-4k-gen3-smart-tv-dvb-t2-h265-negro-1625858.html",
-   "was": 899,
-   "wasSrc": "precio en PcComponentes",
-   "why": "Día sin IVA de MediaMarkt, hasta mañana 9:00."
+   "why": "Su precio más bajo en Amazon; ninguna otra tienda lo mejora (Xataka, 19-nov)."
   },
   {
    "cat": "TV y audio",
@@ -498,9 +496,9 @@
    "prevDay": 189.05,
    "price": 189.05,
    "store": "Amazon",
-   "url": "https://www.amazon.es/Ninja-CRISPi-Freidora-Dorado-AS090EUSD/dp/B0GL27XFXV",
-   "was": 202.99,
-   "wasSrc": "precio en PcComponentes"
+   "url": "https://www.amazon.es/dp/B0GL27XFXV",
+   "was": 249.99,
+   "wasSrc": "precio anterior en Amazon (Compradicción)"
   },
   {
    "cat": "Cocina",
@@ -540,24 +538,6 @@
    "store": "Amazon",
    "url": "https://www.amazon.es/dp/B0BPZNG9JQ",
    "was": 83.99
-  },
-  {
-   "canUrl": "https://canarias.mediamarkt.es/search?q=Cafetera+superautomática+Philips+Serie+4400+LatteGo",
-   "cat": "Cocina",
-   "id": "philips4400",
-   "img": "img/philips4400.webp",
-   "min": false,
-   "name": "Cafetera superautomática Philips Serie 4400 LatteGo",
-   "others": {
-    "PcComponentes": 614.54
-   },
-   "prevDay": 466.94,
-   "price": 466.94,
-   "store": "MediaMarkt",
-   "url": "https://www.mediamarkt.es/es/product/_cafetera-superautomatica-philips-ep444150-lattego-pantalla-tactil-12-ajustes-funcion-quickstart-15-bar-230-w-filtro-aquaclean-18-l-negro-1570020.html",
-   "was": 614.54,
-   "wasSrc": "precio en PcComponentes",
-   "why": "Día sin IVA de MediaMarkt, hasta mañana 9:00."
   },
   {
    "cat": "Cocina",
@@ -2293,22 +2273,6 @@
    "wasSrc": "precio de referencia en Chollómetro"
   },
   {
-   "cat": "Gaming",
-   "deg": 370,
-   "id": "cm-2079318",
-   "img": "img/cm-2079318.webp",
-   "min": false,
-   "name": "Portátil gaming Gigabyte EAGLE RTX 4050 16\"",
-   "others": {},
-   "prevDay": 685.12,
-   "price": 685.12,
-   "src": "Chollómetro",
-   "store": "MediaMarkt",
-   "url": "https://www.chollometro.com/ofertas/portatil-gaming-gigabyte-eagle-9mj-16-wuxga-amd-ryzen-5-7533hs-16gb-ram-512gb-ssd-geforce-rtx-4050-sin-sistema-operativo-2079318",
-   "was": null,
-   "wasSrc": "precio de referencia en Chollómetro"
-  },
-  {
    "cat": "TV y audio",
    "deg": 226,
    "id": "cm-2078540",
@@ -2322,28 +2286,6 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/smart-tv-tcl-55v6d-55-4k-uhd-dolby-vision-hdr10-dolby-atmos-fire-tv-2078540",
    "was": 499,
-   "wasSrc": "precio de referencia en Chollómetro"
-  },
-  {
-   "cat": "Gaming",
-   "deg": 221,
-   "hist": {
-    "low": 82.64,
-    "src": "La comunidad de Chollómetro lo marca como mínimo histórico",
-    "verdict": "low",
-    "when": "hoy"
-   },
-   "id": "cm-2079046",
-   "img": "img/cm-2079046.webp",
-   "min": false,
-   "name": "Auriculares HyperX Cloud III S inalámbricos",
-   "others": {},
-   "prevDay": 82.64,
-   "price": 82.64,
-   "src": "Chollómetro",
-   "store": "MediaMarkt",
-   "url": "https://www.chollometro.com/ofertas/minimo-historico-hyperx-cloud-iii-s-inalambricos-hasta-120-h-de-bateria-microfono-extraible-pcconsolasmovil-negroazul-2079046",
-   "was": 149.99,
    "wasSrc": "precio de referencia en Chollómetro"
   },
   {
@@ -2542,22 +2484,6 @@
    "store": "Amazon",
    "url": "https://www.chollometro.com/ofertas/dragons-dogma-2-dark-arisen-ps5-2079274",
    "was": 49,
-   "wasSrc": "precio de referencia en Chollómetro"
-  },
-  {
-   "cat": "Gaming",
-   "deg": 188,
-   "id": "cm-2078795",
-   "img": "img/cm-2078795.webp",
-   "min": false,
-   "name": "Zelda: Link's Awakening (Switch)",
-   "others": {},
-   "prevDay": 42.89,
-   "price": 42.89,
-   "src": "Chollómetro",
-   "store": "MediaMarkt",
-   "url": "https://www.chollometro.com/ofertas/nintendo-switch-the-legend-of-zelda-links-awakening-2078795",
-   "was": null,
    "wasSrc": "precio de referencia en Chollómetro"
   },
   {
@@ -3186,20 +3112,6 @@
    "prevDay": 293.39
   },
   {
-   "cat": "TV y audio",
-   "id": "cm-2077347",
-   "img": "https://static.chollometro.com/threads/raw/8OynK/2077347_1/re/300x300/qt/60/2077347_1.jpg",
-   "min": false,
-   "name": "TV TCL 65C6K Pro QD-Mini LED 65\"",
-   "others": {},
-   "price": 519.83,
-   "src": "Chollómetro",
-   "store": "MediaMarkt",
-   "url": "https://www.chollometro.com/ofertas/tcl-c6k-pro-65-2077347",
-   "was": null,
-   "prevDay": 519.83
-  },
-  {
    "cat": "Gaming",
    "id": "cm-2078259",
    "img": "https://static.chollometro.com/threads/raw/o5bWr/2078259_1/re/300x300/qt/60/2078259_1.jpg",
@@ -3212,20 +3124,6 @@
    "url": "https://www.chollometro.com/ofertas/playstation-auriculares-inalambricos-pulse-elite-con-microfono-retractil-y-cancelacion-de-ruido-por-ia-2078259",
    "was": null,
    "prevDay": 69.98
-  },
-  {
-   "cat": "Gaming",
-   "id": "cm-2077429",
-   "img": "https://static.chollometro.com/threads/raw/azx4R/2077429_1/re/300x300/qt/60/2077429_1.jpg",
-   "min": false,
-   "name": "Zelda: Ocarina of Time (Switch 2, físico)",
-   "others": {},
-   "price": 54.46,
-   "src": "Chollómetro",
-   "store": "MediaMarkt",
-   "url": "https://www.chollometro.com/ofertas/videojuego-the-legend-of-zelda-ocarina-of-time-para-nintendo-switch-2-edicion-fisica-rediseno-hd-doblado-espanol-aventura-2077429",
-   "was": null,
-   "prevDay": 54.46
   },
   {
    "cat": "Gaming",
@@ -3314,6 +3212,379 @@
    "was": null,
    "why": "Mascotas: pienso para gatos de más de 7 años.",
    "prevDay": 14.72
+  },
+  {
+   "id": "amz-b0gypyskgw",
+   "name": "TV LG OLED evo G6 65\" (OLED65G64LW)",
+   "cat": "TV y audio",
+   "store": "Amazon",
+   "price": 1709,
+   "was": 2599,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0GYPYSKGW",
+   "img": "https://i.blogs.es/7cd1fb/51fza-ptobl._sl500_/original.webp",
+   "others": {},
+   "why": "-34 % en la gama alta OLED de LG; también la de 55\" a 1.385 €.",
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2071093",
+   "name": "TV LG OLED evo G6 55\" (OLED55G64LW)",
+   "cat": "TV y audio",
+   "store": "Amazon",
+   "price": 1385,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/lg-oled55g64lw-smart-tv-oled-evo-ai-55-4k-sin-reflejos-2026-2071093",
+   "img": "https://static.chollometro.com/threads/raw/61rLQ/2071093_1/re/300x300/qt/60/2071093_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "amz-b0gmh56trh",
+   "name": "Robot aspirador Roborock Qrevo Edge 2",
+   "cat": "Hogar",
+   "store": "Amazon",
+   "price": 499.99,
+   "was": 899.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0GMH56TRH",
+   "img": "https://i.blogs.es/c6be14/418l4vef9dl._sl500_/original.webp",
+   "others": {},
+   "why": "400 € menos: friega y se vacía solo."
+  },
+  {
+   "id": "amz-b0hhns4jsf",
+   "name": "Cafetera superautomática Cecotec Cremmaet Stretta Steam",
+   "cat": "Cocina",
+   "store": "Amazon",
+   "price": 179,
+   "was": 229,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0HHNS4JSF",
+   "img": "https://i.blogs.es/c18816/31qojsj6ell._sl500_/original.webp",
+   "others": {}
+  },
+  {
+   "id": "eci-tnf-offtrail",
+   "name": "Zapatillas The North Face Offtrail Gore-Tex (mujer)",
+   "cat": "Moda",
+   "store": "El Corte Inglés",
+   "price": 101.99,
+   "was": 169.99,
+   "min": false,
+   "url": "https://www.elcorteingles.es/deportes/MP_0538405_NF0A8AEH-gris-claro-pr-zapatillas-de-senderismo-de-mujer-offtrail-gore-tex-the-north-face/",
+   "img": "https://i.blogs.es/546975/zapatillas-the-north-face-offtrail-gore-tex/450_1000.webp",
+   "others": {},
+   "why": "-40 %, impermeables; tallas 37 a 41."
+  },
+  {
+   "id": "fnac-macminim6",
+   "name": "Mac mini M6 16 GB / 256 GB",
+   "cat": "Apple",
+   "store": "Fnac",
+   "price": 969,
+   "was": null,
+   "min": false,
+   "url": "https://www.fnac.es/Apple-Mac-mini-M6-CPU-12-GPU-12-16GB-RAM-256GB-SSD-Plata-Ordenador-sobremesa-Mac-de-sobremesa/a13446278",
+   "img": "https://i.blogs.es/bc3848/11dti-4-epl._sl500_/original.jpeg",
+   "others": {
+    "MediaMarkt": 978,
+    "Amazon": 979,
+    "El Corte Inglés": 979,
+    "PcComponentes": 979.9
+   },
+   "why": "Fnac es la más barata de todas las tiendas."
+  },
+  {
+   "id": "ali-buds4pro",
+   "name": "Samsung Galaxy Buds4 Pro",
+   "cat": "Móviles",
+   "store": "AliExpress",
+   "price": 159.79,
+   "was": null,
+   "min": false,
+   "url": "https://es.aliexpress.com/item/1005012844921066.html",
+   "img": "https://i.blogs.es/ba32eb/31d5ostttzl._sl500_/original.jpeg",
+   "others": {
+    "Amazon": 175
+   }
+  },
+  {
+   "id": "amz-b0cjj733w3",
+   "name": "TP-Link Deco BE65 WiFi 7 mesh (pack 2)",
+   "cat": "Tecnología",
+   "store": "Amazon",
+   "price": 290.94,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0CJJ733W3",
+   "img": "https://i.blogs.es/b522fb/deco-be65-sistema-wifi-7-mesh-pack-2-unidades/450_1000.jpeg",
+   "others": {
+    "TP-Link": 290.04,
+    "MediaMarkt": 349,
+    "El Corte Inglés": 360.9
+   },
+   "why": "Oferta de TP-Link hasta el 30 de noviembre."
+  },
+  {
+   "id": "amz-b0fdwmzmmy",
+   "name": "TP-Link Deco BE25 WiFi 7 mesh (pack 3)",
+   "cat": "Tecnología",
+   "store": "Amazon",
+   "price": 219.99,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0FDWMZMMY",
+   "img": "https://i.blogs.es/0c6717/41oubynnfll._sl500_/original.jpeg",
+   "others": {
+    "TP-Link": 211.95,
+    "PcComponentes": 289.99,
+    "MediaMarkt": 316
+   }
+  },
+  {
+   "id": "mm-archerbe230",
+   "name": "Router TP-Link Archer BE230 WiFi 7",
+   "cat": "Tecnología",
+   "store": "MediaMarkt",
+   "price": 78.98,
+   "was": null,
+   "min": false,
+   "url": "https://www.mediamarkt.es/es/product/_router-tp-link-archer-be230-3570-mbps-mu-mimo-wi-fi-7-doble-banda-4-antenas-beamforming-negro-1602391.html",
+   "img": "https://i.blogs.es/50c050/41u8vj6j2gl._sl500_/original.jpeg",
+   "others": {
+    "El Corte Inglés": 81.9,
+    "Amazon": 111.5
+   }
+  },
+  {
+   "id": "amz-b0dt1l6r8n",
+   "name": "Router 5G TP-Link Archer NX600 (con SIM)",
+   "cat": "Tecnología",
+   "store": "Amazon",
+   "price": 277.87,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0DT1L6R8N",
+   "img": "https://i.blogs.es/3fcf8b/31kishmub9l._sl500_/original.jpeg",
+   "others": {
+    "TP-Link": 299.99,
+    "PcComponentes": 405.99
+   },
+   "why": "Internet sin fibra: útil en casas sin cobertura."
+  },
+  {
+   "id": "amz-b0fgjyc3fx",
+   "name": "Repetidor TP-Link RE225BE WiFi 7",
+   "cat": "Tecnología",
+   "store": "Amazon",
+   "price": 82.99,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0FGJYC3FX",
+   "img": "https://i.blogs.es/43e0a6/41ylu35l84l._sl500_/original.jpeg",
+   "others": {
+    "MediaMarkt": 82.99,
+    "PcComponentes": 82.99,
+    "El Corte Inglés": 89.9
+   }
+  },
+  {
+   "id": "ali-switch2",
+   "name": "Nintendo Switch 2 (AliExpress, envío desde España)",
+   "cat": "Gaming",
+   "store": "AliExpress",
+   "price": 346.4,
+   "was": 499.99,
+   "wasSrc": "PVP Nintendo Store",
+   "min": true,
+   "url": "https://es.aliexpress.com/item/1005011552643630.html",
+   "img": "https://i.blogs.es/2c10bc/41lcdvj8mal._sl500_/original.jpeg",
+   "others": {
+    "Amazon": 439,
+    "MediaMarkt": 476,
+    "PcComponentes": 479.99
+   },
+   "coupon": "XATAKAES68",
+   "why": "Con el cupón XATAKAES68 (pedidos de más de 419 €), válido hasta el 3-dic o fin de stock.",
+   "hist": {
+    "low": 399,
+    "when": "junio 2026",
+    "src": "Nintenderos / Amazon.es",
+    "verdict": "best"
+   }
+  },
+  {
+   "id": "amz-b0h44wgvqj",
+   "name": "Elden Ring Tarnished Edition",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 51.99,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0H44WGVQJ",
+   "img": "https://i.blogs.es/601ddb/41tcu6k-epl._sl500_/original.jpeg",
+   "others": {}
+  },
+  {
+   "id": "amz-b0dtq35nh6",
+   "name": "Tarjeta SanDisk microSD Express 512 GB (Switch 2)",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 119.9,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0DTQ35NH6",
+   "img": "https://i.blogs.es/fa594a/41odhu2fy2l._sl500_/original.jpeg",
+   "others": {}
+  },
+  {
+   "id": "amz-b07fnhv4mw",
+   "name": "Ratón ergonómico Logitech MX Vertical",
+   "cat": "Tecnología",
+   "store": "Amazon",
+   "price": 51.85,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B07FNHV4MW",
+   "img": "https://i.blogs.es/c84a28/31ig2yzi5il._sl500_/original.jpeg",
+   "others": {}
+  },
+  {
+   "id": "amz-b07w6jpm9r",
+   "name": "Teclado Logitech MX Keys S",
+   "cat": "Tecnología",
+   "store": "Amazon",
+   "price": 77.6,
+   "was": null,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B07W6JPM9R",
+   "img": "https://i.blogs.es/941311/419vyveiuyl._sl500_/original.jpeg",
+   "others": {}
+  },
+  {
+   "id": "cm-2079796",
+   "name": "Flipper Zero",
+   "cat": "Tecnología",
+   "store": "Amazon.de",
+   "price": 152.15,
+   "was": null,
+   "min": true,
+   "url": "https://www.chollometro.com/ofertas/black-friday-big-deal-en-amazon-flipper-zero-al-precio-minimo-2079796",
+   "img": "https://static.chollometro.com/threads/raw/btkRp/2079796_1/re/300x300/qt/60/2079796_1.jpg",
+   "others": {},
+   "src": "Chollómetro",
+   "why": "Precio mínimo en Amazon Alemania (Black Friday Big Deal)."
+  },
+  {
+   "id": "cm-2079069",
+   "name": "Marvel's Spider-Man 2 PS5 (físico)",
+   "cat": "Gaming",
+   "store": "Miravia",
+   "price": 31.72,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/marvels-spider-man-2-ps5-playstation-5-pal-espana-formato-fisico-nuevo-precintado-2079069",
+   "img": "https://static.chollometro.com/threads/raw/s49jW/2079069_1/re/300x300/qt/60/2079069_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2074121",
+   "name": "LEGO Minecraft Aldea del Globo de Ghast 21273",
+   "cat": "Juguetes",
+   "sub": "LEGO",
+   "store": "Amazon",
+   "price": 41.99,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/lego-minecraft-el-ataque-a-la-aldea-del-globo-de-ghast-21273-2074121",
+   "img": "https://static.chollometro.com/threads/raw/AEoT5/2074121_1/re/300x300/qt/60/2074121_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2066579",
+   "name": "LEGO Ninjago Exposición de Personajes Ninja",
+   "cat": "Juguetes",
+   "sub": "LEGO",
+   "store": "Amazon",
+   "price": 25.9,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/lego-ninjago-exposicion-de-personajes-ninja-2066579",
+   "img": "https://static.chollometro.com/threads/raw/JFG7t/2066579_1/re/300x300/qt/60/2066579_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2067343",
+   "name": "Playmobil Junior Disney Mickey y Minnie Tren Nube",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Playmobil",
+   "price": 12.49,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/playmobil-junior-disney-mickey-y-minnie-tren-nube-2067343",
+   "img": "https://static.chollometro.com/threads/raw/sBxhU/2067343_1/re/300x300/qt/60/2067343_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2071766",
+   "name": "Auriculares Sony WH-CH530 Bluetooth",
+   "cat": "TV y audio",
+   "store": "Amazon",
+   "price": 45,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/sony-wh-ch530-auriculares-inalambricos-bluetooth-todos-los-colores-2071766",
+   "img": "https://static.chollometro.com/threads/raw/RLl83/2071766_1/re/300x300/qt/60/2071766_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2070309",
+   "name": "Freidora Cosori Dual Blaze TwinFry 8,6 L",
+   "cat": "Cocina",
+   "store": "Amazon",
+   "price": 149.98,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/cosori-freidora-de-aire-86l-dual-blaze-twinfry-compact-sin-pfas-ni-teflon-2070309",
+   "img": "https://static.chollometro.com/threads/raw/o8CSW/2070309_1/re/300x300/qt/60/2070309_1.jpg",
+   "others": {},
+   "src": "Chollómetro",
+   "why": "Doble cesta y sin PFAS ni teflón."
+  },
+  {
+   "id": "cm-2072189",
+   "name": "Freidora de aire Amazon Basics 4,2 L",
+   "cat": "Cocina",
+   "store": "Amazon",
+   "price": 42.7,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/amazon-basics-freidora-de-aire-42l-2072189",
+   "img": "https://static.chollometro.com/threads/raw/1scH0/2072189_1/re/300x300/qt/60/2072189_1.jpg",
+   "others": {},
+   "src": "Chollómetro"
+  },
+  {
+   "id": "cm-2076103",
+   "name": "Zapatillas Nike Zoom Vomero 18 (hombre)",
+   "cat": "Deporte",
+   "store": "Foot Locker",
+   "price": 75,
+   "was": null,
+   "min": false,
+   "url": "https://www.chollometro.com/ofertas/nike-zoom-vomero-18-hombre-zapatillas-tallas-de-la-40-a-la-475-menos-455-recogida-en-tienda-2076103",
+   "img": "https://static.chollometro.com/threads/raw/dFDRR/2076103_1/re/300x300/qt/60/2076103_1.jpg",
+   "others": {},
+   "src": "Chollómetro",
+   "why": "Tallas 40 a 47,5; recogida en tienda."
   }
  ]
 }
