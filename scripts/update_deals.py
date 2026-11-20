@@ -36,7 +36,7 @@ END = dt.datetime(2026, 12, 3, 0, 0, tzinfo=dt.timezone.utc)   # tras el 2-dic n
 NOW = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
 TODAY = NOW.date().isoformat()
 
-MAX_DEALS = int(os.environ.get("MAX_DEALS", "700"))
+MAX_DEALS = int(os.environ.get("MAX_DEALS", "1000"))
 STALE_DAYS = float(os.environ.get("STALE_DAYS", "4"))        # sin verse en ninguna fuente
 CHECKS_PER_RUN = int(os.environ.get("CHECKS_PER_RUN", "220"))
 MAX_ARTICLES = int(os.environ.get("MAX_ARTICLES", "18"))
@@ -631,7 +631,10 @@ def source_mediamarkt_canarias():
                 price, was = num(v.get("price")), num(v.get("compare_at_price"))
                 if not price or not was or was < price * 1.12:       # solo descuentos de verdad
                     continue
-                name = short(p.get("title"), 60)
+                title = p.get("title") or ""
+                if " - " in title:                      # "Freidora de aire - Cecotec X, 8 l, ..."
+                    title = title.split(" - ", 1)[1]
+                name = short(title.split(",")[0], 60)
                 cat, sub = classify(name + " " + (p.get("product_type") or ""))
                 c = {"id": "mmc-" + (str(p.get("id"))[-8:]), "name": name, "cat": cat,
                      "store": "MediaMarkt Canarias", "price": price, "was": was, "min": False,
