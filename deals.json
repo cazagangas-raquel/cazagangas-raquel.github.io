@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T07:12:00+00:00",
-"edition": 7,
+"updated": "2026-11-20T07:28:00+00:00",
+"edition": 8,
 "campaigns": [
 {
 "name": "Amazon · Semana Black Friday",
@@ -84,6 +84,18 @@
 "name": "Carrefour · Folleto 3x2",
 "until": "2026-12-10",
 "note": "del 24 de noviembre al 10 de diciembre",
+"urgent": false
+},
+{
+"name": "MediaMarkt Canarias · Semanas Black",
+"until": "2026-11-27T09:00",
+"note": "web y tiendas de Canarias, IGIC incluido",
+"urgent": false
+},
+{
+"name": "Druni Canarias · Black Week",
+"until": "2026-11-30",
+"note": "perfumes y cosmética hasta -70 %",
 "urgent": false
 }
 ],
@@ -3623,7 +3635,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0G671HMMC",
 "img": "https://m.media-amazon.com/images/I/41KpWAebvqL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 36.69
 },
 {
 "id": "toy-B0DYG1HLJV",
@@ -3636,7 +3649,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0DYG1HLJV",
 "img": "https://m.media-amazon.com/images/I/41yiarSma1L._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 13.49
 },
 {
 "id": "toy-B0GTTW451Y",
@@ -3649,7 +3663,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0GTTW451Y",
 "img": "https://m.media-amazon.com/images/I/41-0h6mvSYL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 13.99
 },
 {
 "id": "toy-B09KHF5YJ1",
@@ -3663,7 +3678,8 @@
 "url": "https://www.amazon.es/dp/B09KHF5YJ1",
 "img": "https://m.media-amazon.com/images/I/51gNb90guYL._SL400_.jpg",
 "others": {},
-"age": "4+"
+"age": "4+",
+"prevDay": 31.99
 },
 {
 "id": "toy-B07P581CK8",
@@ -3677,7 +3693,8 @@
 "url": "https://www.amazon.es/dp/B07P581CK8",
 "img": "https://m.media-amazon.com/images/I/61BxSo35flL._SL400_.jpg",
 "others": {},
-"age": "4+"
+"age": "4+",
+"prevDay": 149.99
 },
 {
 "id": "toy-B08175VGYQ",
@@ -3690,7 +3707,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B08175VGYQ",
 "img": "https://m.media-amazon.com/images/I/510UliqnUiL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 107.97
 },
 {
 "id": "toy-B0F1NBKRDX",
@@ -3703,7 +3721,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0F1NBKRDX",
 "img": "https://m.media-amazon.com/images/I/517rBhKZoGL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 12.99
 },
 {
 "id": "toy-B0CFWWHZW6",
@@ -3716,7 +3735,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0CFWWHZW6",
 "img": "https://m.media-amazon.com/images/I/51R0lZytf8L._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 21.94
 },
 {
 "id": "toy-B0C816CSRW",
@@ -3729,7 +3749,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0C816CSRW",
 "img": "https://m.media-amazon.com/images/I/51qQhgYzSyL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 18.51
 },
 {
 "id": "toy-B0922BL1DD",
@@ -3742,7 +3763,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0922BL1DD",
 "img": "https://m.media-amazon.com/images/I/41A+NYZW3TL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 16.08
 },
 {
 "id": "toy-B08GMD6ZGK",
@@ -3755,7 +3777,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B08GMD6ZGK",
 "img": "https://m.media-amazon.com/images/I/51eOx638-XL._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 30.69
 },
 {
 "id": "toy-B0CZ7HGLXG",
@@ -3768,7 +3791,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0CZ7HGLXG",
 "img": "https://m.media-amazon.com/images/I/611HKcWzQ7L._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 39.99
 },
 {
 "id": "toy-B0FGK4RTC1",
@@ -3781,7 +3805,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B0FGK4RTC1",
 "img": "https://m.media-amazon.com/images/I/51FvNBFpB1L._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 17.99
 },
 {
 "id": "toy-B093PYYM6V",
@@ -3794,7 +3819,8 @@
 "min": false,
 "url": "https://www.amazon.es/dp/B093PYYM6V",
 "img": "https://m.media-amazon.com/images/I/51FGCV6W+nS._SL400_.jpg",
-"others": {}
+"others": {},
+"prevDay": 25.99
 },
 {
 "id": "amz-b0hnpc5qq3",
@@ -3810,7 +3836,8 @@
 "others": {
 "MediaMarkt": 479,
 "PcComponentes": 499.99
-}
+},
+"prevDay": 479.99
 },
 {
 "id": "amz-b0flf4cbqh",
@@ -3830,7 +3857,8 @@
 "when": "2026",
 "src": "Nintenduo",
 "verdict": "low"
-}
+},
+"prevDay": 32.99
 },
 {
 "id": "amz-b0h7k1xgbs",
@@ -3844,7 +3872,8 @@
 "url": "https://www.amazon.es/dp/B0H7K1XGBS",
 "img": "https://nintenduo.com/wp-content/uploads/2026/07/EA-Sports-FC-27-1024x576.avif",
 "others": {},
-"why": "Primera bajada de precio del año."
+"why": "Primera bajada de precio del año.",
+"prevDay": 34.9
 },
 {
 "id": "amz-b0f2n8lbqn",
@@ -3863,7 +3892,8 @@
 "when": "2026",
 "src": "Nintenduo",
 "verdict": "low"
-}
+},
+"prevDay": 52.99
 },
 {
 "id": "amz-b0f2n91dq8",
@@ -3884,7 +3914,424 @@
 "when": "2026",
 "src": "Nintenduo",
 "verdict": "higher"
-}
+},
+"prevDay": 51.99
+},
+{
+"id": "drc-1796003",
+"name": "Elizabeth Arden Visible Difference crema hidratante",
+"cat": "Cuidado personal",
+"store": "Druni Canarias",
+"price": 14.95,
+"was": 52,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/visible-difference-refining-complex-elizabeth-arden-crema-hidratante-rostro",
+"img": "https://www.druni.es/media/catalog/product/1/7/1796003.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "-71 % en Druni Canarias, IGIC incluido.",
+"others": {},
+"min": false
+},
+{
+"id": "drc-367",
+"name": "Lancôme Tonique Confort tónico facial",
+"cat": "Cuidado personal",
+"store": "Druni Canarias",
+"price": 24.95,
+"was": 47,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/tonique-confort-lancome-tonico-facial-reconfortante",
+"img": "https://www.druni.es/media/catalog/product/3/6/367.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "Precio \"desde\" (según tamaño), casi a mitad de precio.",
+"others": {},
+"min": false
+},
+{
+"id": "drc-3787629",
+"name": "Clinique set High Impact (máscara)",
+"cat": "Cuidado personal",
+"store": "Druni Canarias",
+"price": 19.95,
+"was": 34,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-black-honey-clinique",
+"img": "https://www.druni.es/media/catalog/product/3/7/3787629.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "drc-3731518",
+"name": "Clinique set High Impact Hi-Fi máscara",
+"cat": "Cuidado personal",
+"store": "Druni Canarias",
+"price": 23.95,
+"was": 38.5,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-high-fi-volume-impact-black-clinique",
+"img": "https://www.druni.es/media/catalog/product/3/7/3731518.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "drc-3729472",
+"name": "Urban Decay All Nighter Duo spray fijador",
+"cat": "Cuidado personal",
+"store": "Druni Canarias",
+"price": 39.95,
+"was": 67,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/cofre-more-for-you-urban-decay-spray-fijador-maquillaje",
+"img": "https://www.druni.es/media/catalog/product/3/7/3729472.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "drc-2729047",
+"name": "Clarins estuche Lisse Minute prebase",
+"cat": "Cuidado personal",
+"store": "Druni Canarias",
+"price": 22.95,
+"was": 36,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-lisse-minute-clarins-prebase-maquillaje-hidratante",
+"img": "https://www.druni.es/media/catalog/product/2/7/2729047.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "amz-b0h9sp87r7",
+"name": "Portátil LG gram Pro",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 979,
+"url": "https://www.amazon.es/dp/B0H9SP87R7",
+"img": "https://i.blogs.es/bed61e/41rukd96vul._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0cx9ct3zf",
+"name": "Monitor Philips 24E1N1100A 24\"",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 69,
+"url": "https://www.amazon.es/dp/B0CX9CT3ZF",
+"img": "https://i.blogs.es/f494c3/317qqpmmgbl._sl500_/original.jpeg",
+"others": {
+"PcComponentes": 89.9
+},
+"why": "20 € menos que en PcComponentes.",
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0dl78lc7v",
+"name": "Apple iMac M4",
+"cat": "Apple",
+"store": "Amazon",
+"price": 1719,
+"url": "https://www.amazon.es/dp/B0DL78LC7V",
+"img": "https://i.blogs.es/2623e8/41-durbc4ql._sl500_/original.jpeg",
+"others": {
+"El Corte Inglés": 1769
+},
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0dz75rkzh",
+"name": "Apple iPad 11\" (2025) WiFi 128 GB",
+"cat": "Apple",
+"store": "Amazon",
+"price": 459,
+"url": "https://www.amazon.es/dp/B0DZ75RKZH",
+"img": "https://i.blogs.es/dbf52a/31-nvy2tw8l._sl500_/original.jpeg",
+"others": {
+"PcComponentes": 469
+},
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0ggc9fjm7",
+"name": "Google Pixel 10a",
+"cat": "Móviles",
+"store": "Amazon",
+"price": 499,
+"url": "https://www.amazon.es/dp/B0GGC9FJM7",
+"img": "https://i.blogs.es/5f18db/31ibvnlec1l._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0h2w1265x",
+"name": "Samsung Galaxy Z Flip8",
+"cat": "Móviles",
+"store": "Amazon",
+"price": 1099,
+"url": "https://www.amazon.es/dp/B0H2W1265X",
+"img": "https://i.blogs.es/4e4080/31gpanjmxgl._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0h4gyhgzq",
+"name": "Xiaomi REDMI Note 17",
+"cat": "Móviles",
+"store": "Amazon",
+"price": 249,
+"url": "https://www.amazon.es/dp/B0H4GYHGZQ",
+"img": "https://i.blogs.es/f5106a/412mx0-vcul._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0h6xtp3wl",
+"name": "POCO X8",
+"cat": "Móviles",
+"store": "Amazon",
+"price": 279.9,
+"url": "https://www.amazon.es/dp/B0H6XTP3WL",
+"img": "https://i.blogs.es/84797a/41uozlph-ll._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0f457mqcq",
+"name": "TV Xiaomi TV F 65\" 4K",
+"cat": "TV y audio",
+"store": "Amazon",
+"price": 339,
+"url": "https://www.amazon.es/dp/B0F457MQCQ",
+"img": "https://i.blogs.es/e836ef/41j9echmbol._sl500_/original.jpeg",
+"others": {
+"Xiaomi": 439
+},
+"why": "100 € menos que en la tienda de Xiaomi: tele de 65\" por 339 €.",
+"min": false,
+"was": null
+},
+{
+"id": "amz-b09y2myl5c",
+"name": "Auriculares Sony WH-1000XM5",
+"cat": "TV y audio",
+"store": "Amazon",
+"price": 239,
+"url": "https://www.amazon.es/dp/B09Y2MYL5C",
+"img": "https://i.blogs.es/365120/21m0yjkusyl._sl500_/original.jpeg",
+"others": {
+"PcComponentes": 235.29
+},
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"min": false,
+"was": null
+},
+{
+"id": "amz-b08gdc3534",
+"name": "Router TP-Link Archer C6 WiFi",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 42.8,
+"url": "https://www.amazon.es/dp/B08GDC3534",
+"img": "https://i.blogs.es/47aaf8/416nnsvyj0l._sl500_/original.jpeg",
+"others": {
+"PcComponentes": 42.99
+},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0dyf82545",
+"name": "Pulsera Xiaomi Smart Band 10",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 39.99,
+"url": "https://www.amazon.es/dp/B0DYF82545",
+"img": "https://i.blogs.es/101236/41xky6a0afl._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0dy1jkjrd",
+"name": "Pulsera HUAWEI Band 10",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 34.9,
+"url": "https://www.amazon.es/dp/B0DY1JKTRD",
+"img": "https://i.blogs.es/cd4450/41ohpu0jbxl._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0ctcxkl52",
+"name": "Robot aspirador Xiaomi Robot Vacuum X20+",
+"cat": "Hogar",
+"store": "Amazon",
+"price": 350,
+"url": "https://www.amazon.es/dp/B0CTCXKL52",
+"img": "https://i.blogs.es/123475/211h4iftr-l._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b0cwh3fx31",
+"name": "LEGO Star Wars 75389 Halcón Oscuro",
+"cat": "Juguetes",
+"sub": "LEGO",
+"age": "10+",
+"store": "Amazon",
+"price": 129.99,
+"url": "https://www.amazon.es/dp/B0CWH3FX31",
+"img": "https://i.blogs.es/f3ff49/51mv7774uvl._sl500_/original.jpeg",
+"why": "Precio visto hoy en el especial Black Friday de Xataka.",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "amz-b09wdprvjj",
+"name": "Juego Throw Throw Burrito (Exploding Kittens)",
+"cat": "Juguetes",
+"sub": "Juegos de mesa",
+"age": "7+",
+"store": "Amazon",
+"price": 22.49,
+"url": "https://www.amazon.es/dp/B09WDPRVJJ",
+"img": "https://i.blogs.es/17f1ec/51ke4qsm-nl._sl500_/original.jpeg",
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2072985",
+"img": "https://static.chollometro.com/threads/raw/A1WgA/2072985_1/re/300x300/qt/60/2072985_1.jpg",
+"url": "https://www.chollometro.com/ofertas/playmobil-miraculous-panaderia-francesa-2072985",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "PLAYMOBIL Miraculous Panadería Francesa",
+"sub": "Playmobil",
+"store": "Amazon",
+"price": 29.39,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2069123",
+"img": "https://static.chollometro.com/threads/raw/OILtr/2069123_1/re/300x300/qt/60/2069123_1.jpg",
+"url": "https://www.chollometro.com/ofertas/playmobil-collector-cars-ford-f-150-raptor-2069123",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "PLAYMOBIL Collector Cars Ford F-150 Raptor",
+"sub": "Playmobil",
+"store": "Amazon",
+"price": 12.99,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2054411",
+"img": "https://static.chollometro.com/threads/raw/WhCdV/2054411_1/re/300x300/qt/60/2054411_1.jpg",
+"url": "https://www.chollometro.com/ofertas/set-de-construccion-lego-pokemon-rayquaza-72168-1083-piezas-2054411",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "LEGO Pokémon Rayquaza 72168 (1083 piezas)",
+"sub": "LEGO",
+"store": "Miravia",
+"price": 87.49,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2069584",
+"img": "https://static.chollometro.com/threads/raw/N3LQG/2069584_1/re/300x300/qt/60/2069584_1.jpg",
+"url": "https://www.chollometro.com/ofertas/juego-de-mesa-carcassone-juego-base-2069584",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "Juego de mesa Carcassonne (base)",
+"sub": "Juegos de mesa",
+"age": "7+",
+"store": "Amazon",
+"price": 19.5,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2069602",
+"img": "https://static.chollometro.com/threads/raw/tpBY2/2069602_1/re/300x300/qt/60/2069602_1.jpg",
+"url": "https://www.chollometro.com/ofertas/juego-de-mesa-de-cartas-devir-skull-king-batallas-de-bazas-piratas-2069602",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "Juego de cartas Skull King (Devir)",
+"sub": "Juegos de mesa",
+"age": "8+",
+"store": "Amazon",
+"price": 11.5,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2028598",
+"img": "https://static.chollometro.com/threads/raw/Fnug9/2028598_1/re/300x300/qt/60/2028598_1.jpg",
+"url": "https://www.chollometro.com/ofertas/funko-bitty-pop-town-los-simpson-bart-simpson-y-kwik-e-mart-2028598",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "Funko Bitty Pop! Town Bart Simpson y Kwik-E-Mart",
+"sub": "Funko",
+"store": "Amazon",
+"price": 4.5,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2068938",
+"img": "https://static.chollometro.com/threads/raw/YfXJO/2068938_1/re/300x300/qt/60/2068938_1.jpg",
+"url": "https://www.chollometro.com/ofertas/pokemon-pkw4198-zorua-peluche-oficial-de-20-cm-2068938",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "Peluche oficial Pokémon Zorua 20 cm",
+"sub": "Otros",
+"store": "Amazon",
+"price": 15.37,
+"others": {},
+"min": false,
+"was": null
+},
+{
+"id": "cm-2064607",
+"img": "https://static.chollometro.com/threads/raw/2elkQ/2064607_1/re/300x300/qt/60/2064607_1.jpg",
+"url": "https://www.chollometro.com/ofertas/recopliacion-lego-en-toys-r-us-40-de-descuento-2064607",
+"src": "Chollómetro",
+"cat": "Juguetes",
+"name": "Sets LEGO -40 % en Toys 'R' Us (desde 19,79 €)",
+"sub": "LEGO",
+"store": "Toys 'R' Us",
+"price": 19.79,
+"others": {},
+"min": false,
+"was": null
 }
 ]
 }
