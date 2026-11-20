@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T14:34:00+00:00",
-"edition": 14,
+"updated": "2026-11-20T15:17:00+00:00",
+"edition": 15,
 "campaigns": [
 {
 "name": "MediaMarkt Canarias · Semanas Black",
@@ -132,6 +132,12 @@
 "name": "Leroy Merlin · Black Friday",
 "until": "2026-11-30",
 "note": "herramientas y bricolaje rebajados",
+"urgent": false
+},
+{
+"name": "MediaMarkt Canarias · Cyber Monday",
+"until": "2026-12-02T09:00",
+"note": "-15 % extra online, del 1-dic 9 h al 2-dic 9 h",
 "urgent": false
 }
 ],
@@ -1727,11 +1733,13 @@
 "name": "LEGO Super Mario Donkey Kong Arcade",
 "others": {},
 "prevDay": 144.99,
-"price": 144.99,
+"price": 135.99,
 "store": "Amazon",
 "sub": "LEGO",
 "url": "https://www.amazon.es/dp/B0GGSCN1Q1",
-"was": 169.99
+"was": 169.99,
+"src": "Chollómetro",
+"why": "Baja a 135,99 € en Amazon según Chollómetro hoy."
 },
 {
 "age": "8+",
@@ -9859,6 +9867,187 @@
 "url": "https://www.amazon.es/dp/B0DN6LZGBW",
 "img": "https://i.blogs.es/b554d7/tapo-d210/450_1000.jpeg",
 "others": {}
+},
+{
+"id": "pc-55qned82",
+"name": "TV LG QNED 55QNED82A6B 55\" 4K",
+"cat": "TV y audio",
+"store": "PcComponentes",
+"price": 369,
+"was": 899,
+"wasSrc": "PVPR",
+"url": "https://www.pccomponentes.com/tv-lg-qned-55qned82a6b-55-4k-ultra-hd-magic-remote-hdmi-2-1-ai-sound-pro",
+"img": "https://img.pccomponentes.com/articles/1089/10891038/1804-lg-qned-55qned82a6b-55-4k-ultra-hd-magic-remote-hdmi-21-ai-sound-pro.jpg",
+"others": {
+"Carrefour": 515,
+"Fnac": 521
+},
+"why": "El precio más bajo del mercado hoy según Comprasmartphone (369 €).",
+"hist": {
+"low": 369,
+"when": "20 nov 2026",
+"src": "Comprasmartphone",
+"verdict": "low"
+},
+"min": false
+},
+{
+"id": "pc-mxmaster3s",
+"name": "Ratón Logitech MX Master 3S grafito",
+"cat": "Tecnología",
+"store": "PcComponentes",
+"price": 69,
+"was": 99.99,
+"wasSrc": "PVPR",
+"url": "https://www.pccomponentes.com/raton-logitech-mx-master-3s-inalambrico-bluetooth-8000-dpi-grafito-silencioso-ergonomico",
+"img": "https://img.pccomponentes.com/articles/1095/10959675/1867-raton-logitech-mx-master-3s-inalambrico-rf-bluetooth-8000-dpi-grafito-silencioso-ergonomico-5f08d17a-ef82-491b-91cc-6277b802ef15.jpg",
+"src": "Chollómetro",
+"why": "-30 % en el ratón de productividad más recomendado.",
+"others": {},
+"min": false
+},
+{
+"id": "pc-elysium270",
+"name": "Monitor PcCom Elysium Pro 27\" QHD 270 Hz",
+"cat": "Gaming",
+"store": "PcComponentes",
+"price": 139.99,
+"was": 215.99,
+"wasSrc": "PVPR",
+"url": "https://www.pccomponentes.com/monitor-pccom-elysium-pro-27-ips-qhd-270hz",
+"img": "https://img.pccomponentes.com/articles/1101/11015168/1909-pccom-elysium-pro-27-ips-qhd-270hz.jpg",
+"why": "QHD a 270 Hz por menos de 140 €.",
+"others": {},
+"min": false
+},
+{
+"id": "mm-qn74h65",
+"name": "TV Samsung Neo QLED 65\" QN74H Mini LED",
+"cat": "TV y audio",
+"store": "MediaMarkt",
+"price": 589,
+"was": 1199,
+"url": "https://www.mediamarkt.es/es/product/_tv-neo-qled-65-samsung-tq65qn74hauxxc-uhd-4k-mini-led-nq4-ai-processor-smart-tv-full-ai-negro-1674863.html",
+"img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_185404934/?direct",
+"why": "Mitad de precio: Neo QLED de 65\" por 589 €.",
+"others": {},
+"min": false
+},
+{
+"id": "mm-oled77c6",
+"name": "TV LG OLED evo 77\" C6 (OLED77C65LA)",
+"cat": "TV y audio",
+"store": "MediaMarkt",
+"price": 1899,
+"was": 3499,
+"url": "https://www.mediamarkt.es/es/product/_tv-oled-77-lg-oled77c65la-oled-4k-procesador-inteligente-a11-ai-processor-4k-gen3-smart-tv-dvb-t2-h265-negro-1627656.html",
+"img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_176136467/?direct",
+"why": "-46 % en OLED de 77\".",
+"others": {},
+"min": false
+},
+{
+"id": "mm-tcl55c6k",
+"name": "TV TCL QD-Mini LED 55\" 55C6K Pro",
+"cat": "TV y audio",
+"store": "MediaMarkt",
+"price": 479,
+"was": 699,
+"url": "https://www.mediamarkt.es/es/product/_tv-qd-mini-led-55-tcl-55c6k-pro-uhd-4k-tcl-aipq-pro-processor-mt9653-smart-tv-con-google-tv-dolby-vision-atmos-negro-1626007.html",
+"img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_177205167/?direct",
+"others": {},
+"min": false
+},
+{
+"id": "mm-tcl65c6k",
+"name": "TV TCL QD-Mini LED 65\" 65C6K Pro",
+"cat": "TV y audio",
+"store": "MediaMarkt",
+"price": 579,
+"was": 899,
+"url": "https://www.mediamarkt.es/es/product/_tv-qd-mini-led-65-tcl-65c6k-pro-uhd-4k-tcl-aipq-pro-processor-mt9653-smart-tv-con-google-tv-dolby-vision-atmos-negro-1626008.html",
+"img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_177205171/?direct",
+"others": {},
+"min": false
+},
+{
+"id": "mm-xiaomifpro43",
+"name": "TV Xiaomi TV F Pro 43\" 2026 QLED 4K",
+"cat": "TV y audio",
+"store": "MediaMarkt",
+"price": 249,
+"was": 299,
+"url": "https://www.mediamarkt.es/es/product/_tv-qled-43-xiaomi-tv-f-pro-43-2026-uhd-4k-quad-core-cortex-a55-smart-tv-dvb-t2-h265-gris-oscuro-1674815.html",
+"img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_184580033/?direct",
+"others": {},
+"min": false
+},
+{
+"id": "mm-chiq50",
+"name": "TV CHiQ QLED 50\" U50QST 4K",
+"cat": "TV y audio",
+"store": "MediaMarkt",
+"price": 299.99,
+"was": 369.99,
+"url": "https://www.mediamarkt.es/es/product/_tv-qled-50-chiq-u50qst-qled-4k-smart-tv-dvb-t2-h265-negro-162495174.html",
+"img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MP_173366164/?direct",
+"others": {},
+"min": false
+},
+{
+"id": "amz-b0dklfhzdh",
+"name": "Amazon Echo Dot Max grafito",
+"cat": "Hogar",
+"store": "Amazon",
+"price": 74.99,
+"was": 129.99,
+"url": "https://www.amazon.es/dp/B0DKLFHZDH",
+"img": "https://m.media-amazon.com/images/I/315gy0GawAL._SL400_.jpg",
+"why": "-42 % en dispositivos Amazon (ofertas hasta el 30-nov).",
+"others": {},
+"min": false
+},
+{
+"id": "amz-b0f7zfwvtc",
+"name": "Fire TV Stick 4K Plus",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 37.99,
+"was": 84.99,
+"url": "https://www.amazon.es/dp/B0F7ZFWVTC",
+"img": "https://m.media-amazon.com/images/I/313P8S5TmjL._SL400_.jpg",
+"why": "-55 %.",
+"others": {},
+"min": false
+},
+{
+"id": "amz-b0cw4hd359",
+"name": "Fire TV Stick 4K Max (última generación)",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 52.99,
+"was": 114.99,
+"url": "https://www.amazon.es/dp/B0CW4HD359",
+"img": "https://m.media-amazon.com/images/I/31llxOy7uqL._SL400_.jpg",
+"why": "-54 %.",
+"others": {},
+"min": false
+},
+{
+"id": "cm-2075266",
+"name": "Juego La Tripulación: En busca del noveno planeta",
+"cat": "Juguetes",
+"sub": "Juegos de mesa",
+"age": "10+",
+"store": "Amazon",
+"price": 16.14,
+"was": null,
+"url": "https://www.chollometro.com/ofertas/juego-de-mesa-cooperativo-devir-la-tripulacion-en-busca-del-noveno-planeta-edicion-en-espanol-2075266",
+"img": "https://static.chollometro.com/threads/raw/JzFem/2075266_1/re/300x300/qt/60/2075266_1.jpg",
+"src": "Chollómetro",
+"why": "Cooperativo de cartas premiado, a precio de chollo.",
+"others": {},
+"min": false
 }
 ]
 }
