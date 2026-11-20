@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:26:00+00:00",
- "edition": 6,
+ "updated": "2026-11-20T07:12:00+00:00",
+ "edition": 7,
  "campaigns": [
   {
    "name": "Amazon · Semana Black Friday",
@@ -103,7 +103,7 @@
    "others": {
     "Carrefour": 449,
     "El Corte Inglés": 499.9,
-    "MediaMarkt": 439,
+    "MediaMarkt": 449,
     "PcComponentes": 479.99
    },
    "prevDay": 439,
@@ -130,7 +130,7 @@
     "Amazon": 699,
     "PcComponentes": 809.01
    },
-   "prevDay": 698.35,
+   "prevDay": 699,
    "price": 699,
    "store": "Google Store",
    "url": "https://store.google.com/es/",
@@ -340,7 +340,7 @@
    "name": "Samsung Galaxy S26 Ultra 256 GB",
    "others": {
     "El Corte Inglés": 1099.9,
-    "PcComponentes": 1139,
+    "PcComponentes": 1099,
     "Samsung": 1149
    },
    "prevDay": 1098.35,
@@ -3225,7 +3225,8 @@
    "img": "https://i.blogs.es/7cd1fb/51fza-ptobl._sl500_/original.webp",
    "others": {},
    "why": "-34 % en la gama alta OLED de LG; también la de 55\" a 1.385 €.",
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 1709
   },
   {
    "id": "cm-2071093",
@@ -3238,7 +3239,8 @@
    "url": "https://www.chollometro.com/ofertas/lg-oled55g64lw-smart-tv-oled-evo-ai-55-4k-sin-reflejos-2026-2071093",
    "img": "https://static.chollometro.com/threads/raw/61rLQ/2071093_1/re/300x300/qt/60/2071093_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 1385
   },
   {
    "id": "amz-b0gmh56trh",
@@ -3251,7 +3253,8 @@
    "url": "https://www.amazon.es/dp/B0GMH56TRH",
    "img": "https://i.blogs.es/c6be14/418l4vef9dl._sl500_/original.webp",
    "others": {},
-   "why": "400 € menos: friega y se vacía solo."
+   "why": "400 € menos: friega y se vacía solo.",
+   "prevDay": 499.99
   },
   {
    "id": "amz-b0hhns4jsf",
@@ -3263,7 +3266,8 @@
    "min": false,
    "url": "https://www.amazon.es/dp/B0HHNS4JSF",
    "img": "https://i.blogs.es/c18816/31qojsj6ell._sl500_/original.webp",
-   "others": {}
+   "others": {},
+   "prevDay": 179
   },
   {
    "id": "eci-tnf-offtrail",
@@ -3276,7 +3280,8 @@
    "url": "https://www.elcorteingles.es/deportes/MP_0538405_NF0A8AEH-gris-claro-pr-zapatillas-de-senderismo-de-mujer-offtrail-gore-tex-the-north-face/",
    "img": "https://i.blogs.es/546975/zapatillas-the-north-face-offtrail-gore-tex/450_1000.webp",
    "others": {},
-   "why": "-40 %, impermeables; tallas 37 a 41."
+   "why": "-40 %, impermeables; tallas 37 a 41.",
+   "prevDay": 101.99
   },
   {
    "id": "fnac-macminim6",
@@ -3294,7 +3299,8 @@
     "El Corte Inglés": 979,
     "PcComponentes": 979.9
    },
-   "why": "Fnac es la más barata de todas las tiendas."
+   "why": "Fnac es la más barata de todas las tiendas.",
+   "prevDay": 969
   },
   {
    "id": "ali-buds4pro",
@@ -3308,7 +3314,8 @@
    "img": "https://i.blogs.es/ba32eb/31d5ostttzl._sl500_/original.jpeg",
    "others": {
     "Amazon": 175
-   }
+   },
+   "prevDay": 159.79
   },
   {
    "id": "amz-b0cjj733w3",
@@ -3325,7 +3332,8 @@
     "MediaMarkt": 349,
     "El Corte Inglés": 360.9
    },
-   "why": "Oferta de TP-Link hasta el 30 de noviembre."
+   "why": "Oferta de TP-Link hasta el 30 de noviembre.",
+   "prevDay": 290.94
   },
   {
    "id": "amz-b0fdwmzmmy",
@@ -3341,7 +3349,8 @@
     "TP-Link": 211.95,
     "PcComponentes": 289.99,
     "MediaMarkt": 316
-   }
+   },
+   "prevDay": 219.99
   },
   {
    "id": "mm-archerbe230",
@@ -3356,7 +3365,8 @@
    "others": {
     "El Corte Inglés": 81.9,
     "Amazon": 111.5
-   }
+   },
+   "prevDay": 78.98
   },
   {
    "id": "amz-b0dt1l6r8n",
@@ -3372,7 +3382,8 @@
     "TP-Link": 299.99,
     "PcComponentes": 405.99
    },
-   "why": "Internet sin fibra: útil en casas sin cobertura."
+   "why": "Internet sin fibra: útil en casas sin cobertura.",
+   "prevDay": 277.87
   },
   {
    "id": "amz-b0fgjyc3fx",
@@ -3388,7 +3399,8 @@
     "MediaMarkt": 82.99,
     "PcComponentes": 82.99,
     "El Corte Inglés": 89.9
-   }
+   },
+   "prevDay": 82.99
   },
   {
    "id": "ali-switch2",
@@ -3413,7 +3425,8 @@
     "when": "junio 2026",
     "src": "Nintenderos / Amazon.es",
     "verdict": "best"
-   }
+   },
+   "prevDay": 346.4
   },
   {
    "id": "amz-b0h44wgvqj",
@@ -3425,7 +3438,8 @@
    "min": false,
    "url": "https://www.amazon.es/dp/B0H44WGVQJ",
    "img": "https://i.blogs.es/601ddb/41tcu6k-epl._sl500_/original.jpeg",
-   "others": {}
+   "others": {},
+   "prevDay": 51.99
   },
   {
    "id": "amz-b0dtq35nh6",
@@ -3437,7 +3451,8 @@
    "min": false,
    "url": "https://www.amazon.es/dp/B0DTQ35NH6",
    "img": "https://i.blogs.es/fa594a/41odhu2fy2l._sl500_/original.jpeg",
-   "others": {}
+   "others": {},
+   "prevDay": 119.9
   },
   {
    "id": "amz-b07fnhv4mw",
@@ -3449,7 +3464,8 @@
    "min": false,
    "url": "https://www.amazon.es/dp/B07FNHV4MW",
    "img": "https://i.blogs.es/c84a28/31ig2yzi5il._sl500_/original.jpeg",
-   "others": {}
+   "others": {},
+   "prevDay": 51.85
   },
   {
    "id": "amz-b07w6jpm9r",
@@ -3461,7 +3477,8 @@
    "min": false,
    "url": "https://www.amazon.es/dp/B07W6JPM9R",
    "img": "https://i.blogs.es/941311/419vyveiuyl._sl500_/original.jpeg",
-   "others": {}
+   "others": {},
+   "prevDay": 77.6
   },
   {
    "id": "cm-2079796",
@@ -3475,7 +3492,8 @@
    "img": "https://static.chollometro.com/threads/raw/btkRp/2079796_1/re/300x300/qt/60/2079796_1.jpg",
    "others": {},
    "src": "Chollómetro",
-   "why": "Precio mínimo en Amazon Alemania (Black Friday Big Deal)."
+   "why": "Precio mínimo en Amazon Alemania (Black Friday Big Deal).",
+   "prevDay": 152.15
   },
   {
    "id": "cm-2079069",
@@ -3488,7 +3506,8 @@
    "url": "https://www.chollometro.com/ofertas/marvels-spider-man-2-ps5-playstation-5-pal-espana-formato-fisico-nuevo-precintado-2079069",
    "img": "https://static.chollometro.com/threads/raw/s49jW/2079069_1/re/300x300/qt/60/2079069_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 31.72
   },
   {
    "id": "cm-2074121",
@@ -3502,7 +3521,8 @@
    "url": "https://www.chollometro.com/ofertas/lego-minecraft-el-ataque-a-la-aldea-del-globo-de-ghast-21273-2074121",
    "img": "https://static.chollometro.com/threads/raw/AEoT5/2074121_1/re/300x300/qt/60/2074121_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 41.99
   },
   {
    "id": "cm-2066579",
@@ -3516,7 +3536,8 @@
    "url": "https://www.chollometro.com/ofertas/lego-ninjago-exposicion-de-personajes-ninja-2066579",
    "img": "https://static.chollometro.com/threads/raw/JFG7t/2066579_1/re/300x300/qt/60/2066579_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 25.9
   },
   {
    "id": "cm-2067343",
@@ -3530,7 +3551,8 @@
    "url": "https://www.chollometro.com/ofertas/playmobil-junior-disney-mickey-y-minnie-tren-nube-2067343",
    "img": "https://static.chollometro.com/threads/raw/sBxhU/2067343_1/re/300x300/qt/60/2067343_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 12.49
   },
   {
    "id": "cm-2071766",
@@ -3543,7 +3565,8 @@
    "url": "https://www.chollometro.com/ofertas/sony-wh-ch530-auriculares-inalambricos-bluetooth-todos-los-colores-2071766",
    "img": "https://static.chollometro.com/threads/raw/RLl83/2071766_1/re/300x300/qt/60/2071766_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 45
   },
   {
    "id": "cm-2070309",
@@ -3557,7 +3580,8 @@
    "img": "https://static.chollometro.com/threads/raw/o8CSW/2070309_1/re/300x300/qt/60/2070309_1.jpg",
    "others": {},
    "src": "Chollómetro",
-   "why": "Doble cesta y sin PFAS ni teflón."
+   "why": "Doble cesta y sin PFAS ni teflón.",
+   "prevDay": 149.98
   },
   {
    "id": "cm-2072189",
@@ -3570,7 +3594,8 @@
    "url": "https://www.chollometro.com/ofertas/amazon-basics-freidora-de-aire-42l-2072189",
    "img": "https://static.chollometro.com/threads/raw/1scH0/2072189_1/re/300x300/qt/60/2072189_1.jpg",
    "others": {},
-   "src": "Chollómetro"
+   "src": "Chollómetro",
+   "prevDay": 42.7
   },
   {
    "id": "cm-2076103",
@@ -3584,7 +3609,282 @@
    "img": "https://static.chollometro.com/threads/raw/dFDRR/2076103_1/re/300x300/qt/60/2076103_1.jpg",
    "others": {},
    "src": "Chollómetro",
-   "why": "Tallas 40 a 47,5; recogida en tienda."
+   "why": "Tallas 40 a 47,5; recogida en tienda.",
+   "prevDay": 75
+  },
+  {
+   "id": "toy-B0G671HMMC",
+   "name": "Playmobil Space ESA Cohete de investigación a Marte",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Amazon",
+   "price": 36.69,
+   "was": 59.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0G671HMMC",
+   "img": "https://m.media-amazon.com/images/I/41KpWAebvqL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0DYG1HLJV",
+   "name": "Playmobil Collector Cars Volkswagen T1 Camper",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Amazon",
+   "price": 13.49,
+   "was": 19.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0DYG1HLJV",
+   "img": "https://m.media-amazon.com/images/I/41yiarSma1L._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0GTTW451Y",
+   "name": "Playmobil Furgoneta Volkswagen T1 Edición ESP",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Amazon",
+   "price": 13.99,
+   "was": 19.12,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0GTTW451Y",
+   "img": "https://m.media-amazon.com/images/I/41-0h6mvSYL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B09KHF5YJ1",
+   "name": "Playmobil Dollhouse 70985 Casa de muñecas maletín",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Amazon",
+   "price": 31.99,
+   "was": 39.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B09KHF5YJ1",
+   "img": "https://m.media-amazon.com/images/I/51gNb90guYL._SL400_.jpg",
+   "others": {},
+   "age": "4+"
+  },
+  {
+   "id": "toy-B07P581CK8",
+   "name": "Playmobil Dollhouse 70205 Casa de muñecas con timbre",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Amazon",
+   "price": 149.99,
+   "was": 179.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B07P581CK8",
+   "img": "https://m.media-amazon.com/images/I/61BxSo35flL._SL400_.jpg",
+   "others": {},
+   "age": "4+"
+  },
+  {
+   "id": "toy-B08175VGYQ",
+   "name": "Playmobil 70286 Scooby-Doo La Máquina del Misterio",
+   "cat": "Juguetes",
+   "sub": "Playmobil",
+   "store": "Amazon",
+   "price": 107.97,
+   "was": 125.54,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B08175VGYQ",
+   "img": "https://m.media-amazon.com/images/I/510UliqnUiL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0F1NBKRDX",
+   "name": "Piña Coladice (Devir), juego de dados",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 12.99,
+   "was": 20,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0F1NBKRDX",
+   "img": "https://m.media-amazon.com/images/I/517rBhKZoGL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0CFWWHZW6",
+   "name": "The White Castle (Devir)",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 21.94,
+   "was": 32,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0CFWWHZW6",
+   "img": "https://m.media-amazon.com/images/I/51R0lZytf8L._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0C816CSRW",
+   "name": "Hitster Temazos, juego musical",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 18.51,
+   "was": 24.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0C816CSRW",
+   "img": "https://m.media-amazon.com/images/I/51qQhgYzSyL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0922BL1DD",
+   "name": "Guatafamily, juego de mesa familiar",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 16.08,
+   "was": 29.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0922BL1DD",
+   "img": "https://m.media-amazon.com/images/I/41A+NYZW3TL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B08GMD6ZGK",
+   "name": "7 Wonders (Asmodee)",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 30.69,
+   "was": 47.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B08GMD6ZGK",
+   "img": "https://m.media-amazon.com/images/I/51eOx638-XL._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0CZ7HGLXG",
+   "name": "Talisman 5.ª edición",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 39.99,
+   "was": 59.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0CZ7HGLXG",
+   "img": "https://m.media-amazon.com/images/I/611HKcWzQ7L._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B0FGK4RTC1",
+   "name": "Take Time (Asmodee), cooperativo",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 17.99,
+   "was": 24.99,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0FGK4RTC1",
+   "img": "https://m.media-amazon.com/images/I/51FvNBFpB1L._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "toy-B093PYYM6V",
+   "name": "El Señor de los Anillos cooperativo (Devir)",
+   "cat": "Juguetes",
+   "sub": "Juegos de mesa",
+   "store": "Amazon",
+   "price": 25.99,
+   "was": 36,
+   "min": false,
+   "url": "https://www.amazon.es/dp/B093PYYM6V",
+   "img": "https://m.media-amazon.com/images/I/51FGCV6W+nS._SL400_.jpg",
+   "others": {}
+  },
+  {
+   "id": "amz-b0hnpc5qq3",
+   "name": "Switch 2 + Switch Sports Resort + 3 meses NSO",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 479.99,
+   "was": 529.99,
+   "wasSrc": "PVP Nintendo Store",
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0HNPC5QQ3",
+   "img": "https://i.blogs.es/8cf029/41kw2a31gsl._sl500_/original.jpeg",
+   "others": {
+    "MediaMarkt": 479,
+    "PcComponentes": 499.99
+   }
+  },
+  {
+   "id": "amz-b0flf4cbqh",
+   "name": "Persona 3 Reload (Switch 2)",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 32.99,
+   "was": 72.02,
+   "wasSrc": "precio más bajo 30 días",
+   "min": true,
+   "url": "https://www.amazon.es/dp/B0FLF4CBQH",
+   "img": "https://nintenduo.com/wp-content/uploads/2025/07/Persona-3-Reload-1024x576.webp",
+   "others": {},
+   "why": "Por debajo de su mínimo del año (36,89 €), según Nintenduo.",
+   "hist": {
+    "low": 36.89,
+    "when": "2026",
+    "src": "Nintenduo",
+    "verdict": "low"
+   }
+  },
+  {
+   "id": "amz-b0h7k1xgbs",
+   "name": "EA Sports FC 27 (Switch 2)",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 34.9,
+   "was": 54.9,
+   "wasSrc": "precio más bajo 30 días",
+   "min": true,
+   "url": "https://www.amazon.es/dp/B0H7K1XGBS",
+   "img": "https://nintenduo.com/wp-content/uploads/2026/07/EA-Sports-FC-27-1024x576.avif",
+   "others": {},
+   "why": "Primera bajada de precio del año."
+  },
+  {
+   "id": "amz-b0f2n8lbqn",
+   "name": "Zelda: Breath of the Wild – Switch 2 Edition",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 52.99,
+   "was": 69.9,
+   "wasSrc": "precio más bajo 30 días",
+   "min": true,
+   "url": "https://www.amazon.es/dp/B0F2N8LBQN",
+   "img": "https://nintenduo.com/wp-content/uploads/2026/10/botw-1024x512.avif",
+   "others": {},
+   "hist": {
+    "low": 53.99,
+    "when": "2026",
+    "src": "Nintenduo",
+    "verdict": "low"
+   }
+  },
+  {
+   "id": "amz-b0f2n91dq8",
+   "name": "Donkey Kong Bananza (Switch 2)",
+   "cat": "Gaming",
+   "store": "Amazon",
+   "price": 51.99,
+   "was": 67.9,
+   "wasSrc": "precio más bajo 30 días",
+   "min": false,
+   "url": "https://www.amazon.es/dp/B0F2N91DQ8",
+   "img": "https://nintenduo.com/wp-content/uploads/2025/08/Donkey-Kong-Bananza-768x768.webp",
+   "others": {
+    "MediaMarkt": 66.03
+   },
+   "hist": {
+    "low": 49.3,
+    "when": "2026",
+    "src": "Nintenduo",
+    "verdict": "higher"
+   }
   }
  ]
 }
