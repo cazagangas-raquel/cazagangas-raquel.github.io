@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T07:28:00+00:00",
-"edition": 8,
+"updated": "2026-11-20T07:33:00+00:00",
+"edition": 9,
 "campaigns": [
 {
 "name": "Amazon · Semana Black Friday",
@@ -96,6 +96,12 @@
 "name": "Druni Canarias · Black Week",
 "until": "2026-11-30",
 "note": "perfumes y cosmética hasta -70 %",
+"urgent": false
+},
+{
+"name": "Jugueterías Nikki · Navidad 2026",
+"until": "2026-12-13",
+"note": "LEGO y juguetes en oferta en sus 22 tiendas de Canarias",
 "urgent": false
 }
 ],
@@ -3929,7 +3935,8 @@
 "img": "https://www.druni.es/media/catalog/product/1/7/1796003.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
 "why": "-71 % en Druni Canarias, IGIC incluido.",
 "others": {},
-"min": false
+"min": false,
+"prevDay": 14.95
 },
 {
 "id": "drc-367",
@@ -3943,7 +3950,8 @@
 "img": "https://www.druni.es/media/catalog/product/3/6/367.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
 "why": "Precio \"desde\" (según tamaño), casi a mitad de precio.",
 "others": {},
-"min": false
+"min": false,
+"prevDay": 24.95
 },
 {
 "id": "drc-3787629",
@@ -3956,7 +3964,8 @@
 "url": "https://www.druni.es/estuche-black-honey-clinique",
 "img": "https://www.druni.es/media/catalog/product/3/7/3787629.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
 "others": {},
-"min": false
+"min": false,
+"prevDay": 19.95
 },
 {
 "id": "drc-3731518",
@@ -3969,7 +3978,8 @@
 "url": "https://www.druni.es/estuche-high-fi-volume-impact-black-clinique",
 "img": "https://www.druni.es/media/catalog/product/3/7/3731518.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
 "others": {},
-"min": false
+"min": false,
+"prevDay": 23.95
 },
 {
 "id": "drc-3729472",
@@ -3982,7 +3992,8 @@
 "url": "https://www.druni.es/cofre-more-for-you-urban-decay-spray-fijador-maquillaje",
 "img": "https://www.druni.es/media/catalog/product/3/7/3729472.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
 "others": {},
-"min": false
+"min": false,
+"prevDay": 39.95
 },
 {
 "id": "drc-2729047",
@@ -3995,7 +4006,8 @@
 "url": "https://www.druni.es/estuche-lisse-minute-clarins-prebase-maquillaje-hidratante",
 "img": "https://www.druni.es/media/catalog/product/2/7/2729047.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
 "others": {},
-"min": false
+"min": false,
+"prevDay": 22.95
 },
 {
 "id": "amz-b0h9sp87r7",
@@ -4008,7 +4020,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 979
 },
 {
 "id": "amz-b0cx9ct3zf",
@@ -4023,7 +4036,8 @@
 },
 "why": "20 € menos que en PcComponentes.",
 "min": false,
-"was": null
+"was": null,
+"prevDay": 69
 },
 {
 "id": "amz-b0dl78lc7v",
@@ -4038,7 +4052,8 @@
 },
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "min": false,
-"was": null
+"was": null,
+"prevDay": 1719
 },
 {
 "id": "amz-b0dz75rkzh",
@@ -4053,7 +4068,8 @@
 },
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "min": false,
-"was": null
+"was": null,
+"prevDay": 459
 },
 {
 "id": "amz-b0ggc9fjm7",
@@ -4066,7 +4082,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 499
 },
 {
 "id": "amz-b0h2w1265x",
@@ -4079,7 +4096,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 1099
 },
 {
 "id": "amz-b0h4gyhgzq",
@@ -4092,7 +4110,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 249
 },
 {
 "id": "amz-b0h6xtp3wl",
@@ -4105,7 +4124,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 279.9
 },
 {
 "id": "amz-b0f457mqcq",
@@ -4120,7 +4140,8 @@
 },
 "why": "100 € menos que en la tienda de Xiaomi: tele de 65\" por 339 €.",
 "min": false,
-"was": null
+"was": null,
+"prevDay": 339
 },
 {
 "id": "amz-b09y2myl5c",
@@ -4135,7 +4156,8 @@
 },
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "min": false,
-"was": null
+"was": null,
+"prevDay": 239
 },
 {
 "id": "amz-b08gdc3534",
@@ -4149,7 +4171,8 @@
 "PcComponentes": 42.99
 },
 "min": false,
-"was": null
+"was": null,
+"prevDay": 42.8
 },
 {
 "id": "amz-b0dyf82545",
@@ -4162,7 +4185,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 39.99
 },
 {
 "id": "amz-b0dy1jkjrd",
@@ -4175,7 +4199,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 34.9
 },
 {
 "id": "amz-b0ctcxkl52",
@@ -4188,7 +4213,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 350
 },
 {
 "id": "amz-b0cwh3fx31",
@@ -4203,7 +4229,8 @@
 "why": "Precio visto hoy en el especial Black Friday de Xataka.",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 129.99
 },
 {
 "id": "amz-b09wdprvjj",
@@ -4217,7 +4244,8 @@
 "img": "https://i.blogs.es/17f1ec/51ke4qsm-nl._sl500_/original.jpeg",
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 22.49
 },
 {
 "id": "cm-2072985",
@@ -4231,7 +4259,8 @@
 "price": 29.39,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 29.39
 },
 {
 "id": "cm-2069123",
@@ -4245,7 +4274,8 @@
 "price": 12.99,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 12.99
 },
 {
 "id": "cm-2054411",
@@ -4259,7 +4289,8 @@
 "price": 87.49,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 87.49
 },
 {
 "id": "cm-2069584",
@@ -4274,7 +4305,8 @@
 "price": 19.5,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 19.5
 },
 {
 "id": "cm-2069602",
@@ -4289,7 +4321,8 @@
 "price": 11.5,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 11.5
 },
 {
 "id": "cm-2028598",
@@ -4303,7 +4336,8 @@
 "price": 4.5,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 4.5
 },
 {
 "id": "cm-2068938",
@@ -4317,7 +4351,8 @@
 "price": 15.37,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 15.37
 },
 {
 "id": "cm-2064607",
@@ -4331,7 +4366,621 @@
 "price": 19.79,
 "others": {},
 "min": false,
-"was": null
+"was": null,
+"prevDay": 19.79
+},
+{
+"id": "nk-34763",
+"name": "LEGO Friends Centro deportivo (41744)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 59.95,
+"was": 94.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/34763-lego-friends-centro-deportivo-5702017415277.html",
+"img": "https://www.jugueteriasnikki.es/6781-home_default/lego-friends-centro-deportivo.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-42988",
+"name": "LEGO Icons McLaren MP4/4 y Ayrton Senna (10330)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 79.95,
+"was": 89.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/42988-lego-icons-mclaren-mp44-y-ayrton-senna-5702017583495.html",
+"img": "https://www.jugueteriasnikki.es/6813-home_default/lego-icons-mclaren-mp44-y-ayrton-senna.jpg",
+"others": {}
+},
+{
+"id": "nk-37906",
+"name": "LEGO Technic Kawasaki Ninja H2R (42170)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 79.95,
+"was": 89.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/37906-lego-technic-moto-kawasaki-ninja-h2r-5702017583556.html",
+"img": "https://www.jugueteriasnikki.es/9350-home_default/lego-technic-moto-kawasaki-ninja-h2r.jpg",
+"others": {}
+},
+{
+"id": "nk-43856",
+"name": "LEGO Botanicals Ramo de rosas rosadas (10374)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 59.95,
+"was": 69.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/43856-lego-botanicals-ramo-de-rosas-rosadas-5702017864457.html",
+"img": "https://www.jugueteriasnikki.es/6937-home_default/lego-botanicals-ramo-de-rosas-rosadas.jpg",
+"others": {}
+},
+{
+"id": "nk-42933",
+"name": "LEGO Creator T-Rex (31151)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 59.95,
+"was": 66.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/42933-lego-creator-t-rex-5702017585093.html",
+"img": "https://www.jugueteriasnikki.es/6786-home_default/lego-creator-t-rex.jpg",
+"others": {}
+},
+{
+"id": "nk-37984",
+"name": "LEGO Icons Ramo de rosas (10328)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 59.95,
+"was": 66.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/37984-lego-icons-ramos-de-rosas-5702017583488.html",
+"img": "https://www.jugueteriasnikki.es/6811-home_default/lego-icons-ramos-de-rosas.jpg",
+"others": {}
+},
+{
+"id": "nk-37980",
+"name": "LEGO Icons Ramo de flores (10280)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 59.95,
+"was": 66.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/37980-lego-icons-ramo-de-flores-5702016913767.html",
+"img": "https://www.jugueteriasnikki.es/6796-home_default/lego-icons-ramo-de-flores.jpg",
+"others": {}
+},
+{
+"id": "nk-43799",
+"name": "LEGO Speed Champions Mercedes-AMG G 63 y SL 63 (76924)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 49.95,
+"was": 54.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/43799-lego-speed-champions-mercedes-g-y-sl-63-5702017583976.html",
+"img": "https://www.jugueteriasnikki.es/6800-home_default/lego-speed-champions-mercedes-g-y-sl-63.jpg",
+"others": {}
+},
+{
+"id": "nk-43219",
+"name": "LEGO DUPLO Caja de ladrillos deluxe (10914)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 49.95,
+"was": 54.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/43219-lego-duplo-classic-caja-ladrillos-deluxe-5702016617757.html",
+"img": "https://www.jugueteriasnikki.es/6776-home_default/lego-duplo-classic-caja-ladrillos-deluxe.jpg",
+"others": {}
+},
+{
+"id": "nk-43040",
+"name": "LEGO Icons Bonsái (10281)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 49.95,
+"was": 54.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/43040-lego-icons-bonsai-5702016914177.html",
+"img": "https://www.jugueteriasnikki.es/6790-home_default/lego-icons-bonsai.jpg",
+"others": {}
+},
+{
+"id": "nk-38126",
+"name": "LEGO Classic Caja de ladrillos grandes (10698)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 49.95,
+"was": 54.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/38126-lego-classic-caja-de-ladrillos-grandes-5702015357197.html",
+"img": "https://www.jugueteriasnikki.es/6782-home_default/lego-classic-caja-de-ladrillos-grandes.jpg",
+"others": {}
+},
+{
+"id": "nk-36585",
+"name": "LEGO DUPLO Caja de ladrillos (10913)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 27.95,
+"was": 31.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/primera-infancia/36585-lego-duplo-classic-caja-de-ladrillos-5702016617740.html",
+"img": "https://www.jugueteriasnikki.es/6818-home_default/lego-duplo-classic-caja-de-ladrillos.jpg",
+"others": {}
+},
+{
+"id": "nk-44600",
+"name": "LEGO Technic McLaren MCL39 F1 (42228)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 239.95,
+"was": 259.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/44600-lego-technic-mclaren-mcl39-f1-5702018067697.html",
+"img": "https://www.jugueteriasnikki.es/6798-home_default/lego-technic-mclaren-mcl39-f1.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-40933",
+"name": "LEGO Technic Ferrari SF-24 F1 (42207)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 239.95,
+"was": 259.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/40933-lego-technic-coche-ferrari-sf-24-f1-5702017816302.html",
+"img": "https://www.jugueteriasnikki.es/7465-home_default/lego-technic-coche-ferrari-sf-24-f1.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-40430",
+"name": "LEGO Technic Oracle Red Bull RB20 F1 (42206)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 239.95,
+"was": 259.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/40430-lego-technic-coche-oracle-red-bull-rb20-f1-5702017816296.html",
+"img": "https://www.jugueteriasnikki.es/6907-home_default/lego-technic-coche-oracle-red-bull-rb20-f1.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-42598",
+"name": "LEGO Technic Ducati Panigale V4 (42202)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 209.95,
+"was": 229.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/42598-lego-technic-moto-ducati-panigale-v4-5702017816258.html",
+"img": "https://www.jugueteriasnikki.es/6901-home_default/lego-technic-moto-ducati-panigale-v4.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-44602",
+"name": "LEGO Icons Cachorro Golden Retriever (11384)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 149.95,
+"was": 169.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/44602-lego-icons-cachorro-golden-retriever-5702018063651.html",
+"img": "https://www.jugueteriasnikki.es/6804-home_default/lego-icons-cachorro-golden-retriever.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-43045",
+"name": "LEGO DUPLO Gran tren comunitario interactivo (10428)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 139.95,
+"was": 159.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/43045-lego-duplo-gran-tren-comunitario-interactivo-5702017583044.html",
+"img": "https://www.jugueteriasnikki.es/7445-home_default/lego-duplo-gran-tren-comunitario-interactivo.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-44629",
+"name": "LEGO Harry Potter Casa de Luna Lovegood (76467)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 94.95,
+"was": 119.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/44629-lego-harry-potter-casa-de-luna-lovegood-5702018063439.html",
+"img": "https://www.jugueteriasnikki.es/6778-home_default/lego-harry-potter-casa-de-luna-lovegood.jpg",
+"others": {},
+"why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido."
+},
+{
+"id": "nk-42950",
+"name": "LEGO Friends Casa de apicultores (42669)",
+"cat": "Juguetes",
+"sub": "LEGO",
+"store": "Jugueterías Nikki",
+"price": 99.95,
+"was": 109.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/42950-lego-friends-casa-de-apicultores-y-jardin-de-flores-5702017815329.html",
+"img": "https://www.jugueteriasnikki.es/6852-home_default/lego-friends-casa-de-apicultores-y-jardin-de-flores.jpg",
+"others": {}
+},
+{
+"id": "nk-30619",
+"name": "Crazy Chic Máquina de strass",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 10.95,
+"was": 12.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/juega-a-ser-mayor/30619-crazy-chic-maquina-de-strass-8005125186921.html",
+"img": "https://www.jugueteriasnikki.es/6481-home_default/crazy-chic-maquina-de-strass.jpg",
+"others": {}
+},
+{
+"id": "nk-44577",
+"name": "Clementoni Mechanics NASA vehículo flotante",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 21.95,
+"was": 24.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/construcciones-y-montajes/44577-mechanics-nasa-vehiculo-flotante-8005125554669.html",
+"img": "https://www.jugueteriasnikki.es/6470-home_default/mechanics-nasa-vehiculo-flotante.jpg",
+"others": {}
+},
+{
+"id": "nk-37545",
+"name": "Crazy Chic Neceser con lazo",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 15.95,
+"was": 17.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/juega-a-ser-mayor/37545-crazy-chic-neceser-con-lazo-8005125152230.html",
+"img": "https://www.jugueteriasnikki.es/6458-home_default/crazy-chic-neceser-con-lazo.jpg",
+"others": {}
+},
+{
+"id": "nk-42151",
+"name": "Clementoni Ciencia y juego Crea tus cristales",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 17.95,
+"was": 19.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/educativos/42151-ciencia-y-juego-crea-tus-cristales-8005125555475.html",
+"img": "https://www.jugueteriasnikki.es/7816-home_default/ciencia-y-juego-crea-tus-cristales.jpg",
+"others": {}
+},
+{
+"id": "nk-42254",
+"name": "Crazy Chic Pulseras con mensaje",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 11.95,
+"was": 13.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/educativos/42254-crazy-chic-pulseras-con-mensaje-8005125186341.html",
+"img": "https://www.jugueteriasnikki.es/7812-home_default/crazy-chic-pulseras-con-mensaje.jpg",
+"others": {}
+},
+{
+"id": "nk-43631",
+"name": "Clementoni Descubramos el mundo",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 11.95,
+"was": 13.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/educativos/43631-descubramos-el-mundo-8005125554461.html",
+"img": "https://www.jugueteriasnikki.es/6400-home_default/descubramos-el-mundo.jpg",
+"others": {}
+},
+{
+"id": "nk-37537",
+"name": "Crazy Chic Maquillaje mariposa",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 26.95,
+"was": 29.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/juega-a-ser-mayor/37537-crazy-chic-maquillaje-mariposa-8005125159949.html",
+"img": "https://www.jugueteriasnikki.es/6399-home_default/crazy-chic-maquillaje-mariposa.jpg",
+"others": {}
+},
+{
+"id": "nk-42128",
+"name": "Clementoni Edukit 4 en 1 Patrulla Canina",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 12.95,
+"was": 14.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/educativos/42128-edukit-4-en-1-paw-patrol-8005125182916.html",
+"img": "https://www.jugueteriasnikki.es/7756-home_default/edukit-4-en-1-paw-patrol.jpg",
+"others": {}
+},
+{
+"id": "nk-42109",
+"name": "Clementoni Clemmy Baby vehículo con texturas",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 17.95,
+"was": 19.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/primera-infancia/42109-clemmy-baby-vehiculo-con-texturas-8005125173150.html",
+"img": "https://www.jugueteriasnikki.es/7687-home_default/clemmy-baby-vehiculo-con-texturas.jpg",
+"others": {}
+},
+{
+"id": "nk-45376",
+"name": "Clementoni Cubo formas y colores",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 11.95,
+"was": 13.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/primera-infancia/45376-cubo-formas-y-colores-8005125171064.html",
+"img": "https://www.jugueteriasnikki.es/8346-home_default/cubo-formas-y-colores.jpg",
+"others": {}
+},
+{
+"id": "nk-42811",
+"name": "Clementoni Baby Minnie peluche texturas",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 17.95,
+"was": 19.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/primera-infancia/42811-baby-minnie-peluche-texturas-8005125171644.html",
+"img": "https://www.jugueteriasnikki.es/6254-home_default/baby-minnie-peluche-texturas.jpg",
+"others": {}
+},
+{
+"id": "nk-43308",
+"name": "Falomir Caja de magia 200 trucos",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 21.95,
+"was": 24.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/juegos-de-mesa-y-sociedad/43308-caja-magia-200-trucos-8412553011600.html",
+"img": "https://www.jugueteriasnikki.es/6171-home_default/caja-magia-200-trucos.jpg",
+"others": {}
+},
+{
+"id": "nk-43307",
+"name": "Caja de magia 50 trucos",
+"cat": "Juguetes",
+"sub": "Otros",
+"store": "Jugueterías Nikki",
+"price": 11.95,
+"was": 13.95,
+"wasSrc": "precio anterior en Nikki",
+"min": false,
+"url": "https://www.jugueteriasnikki.es/juegos-de-mesa-y-sociedad/43307-caja-magia-50-trucos-8412553010405.html",
+"img": "https://www.jugueteriasnikki.es/6170-home_default/caja-magia-50-trucos.jpg",
+"others": {}
+},
+{
+"id": "mmc-s26u-256",
+"name": "Samsung Galaxy S26 Ultra 256 GB",
+"cat": "Móviles",
+"store": "MediaMarkt Canarias",
+"price": 1069,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/movil-samsung-galaxy-s26-ultra-negro-256-gb-12-gb-ram-6-9-qhd-qualcomm-snapdragon-8-elite-gen-5-5000-mah-android-16",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1131339c-7b75-4dec-ba8f-ad8e8e1be554.png?v=1772046058&width=600",
+"others": {},
+"why": "Más barato que en Amazon península (1098,35 €), y ya con IGIC."
+},
+{
+"id": "mmc-iphone17-256",
+"name": "Apple iPhone 17 256 GB",
+"cat": "Apple",
+"store": "MediaMarkt Canarias",
+"price": 959,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/apple-iphone-17-negro-256-gb-5g-6-3-oled-super-retina-xdr-chip-a19-ios",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_407da386-d366-4ab4-9589-54782186e025.png?v=1757951863&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-iphone16-128",
+"name": "Apple iPhone 16 128 GB",
+"cat": "Apple",
+"store": "MediaMarkt Canarias",
+"price": 789,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/apple-iphone-16-negro-128-gb-5g-6-1-oled-super-retina-xdr-chip-a18-bionic-ios",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6aa33d2a-f6e0-449e-8204-2228dafdf0fb.png?v=1725925381&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-iphone18pro",
+"name": "Apple iPhone 18 Pro 256 GB",
+"cat": "Apple",
+"store": "MediaMarkt Canarias",
+"price": 1309,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/apple-iphone-18-pro-negro-256-gb-6-3-oled-super-retina-xdr-5g-chip-a20-pro-siri-ai-ios",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_bb1fae48-3b6f-4c1f-a2a6-4e7d426b14ed.png?v=1789211648&width=600",
+"others": {},
+"why": "En PcComponentes península cuesta 1429 €."
+},
+{
+"id": "mmc-s25-128",
+"name": "Samsung Galaxy S25 128 GB",
+"cat": "Móviles",
+"store": "MediaMarkt Canarias",
+"price": 619,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/movil-samsung-galaxy-s25-navy-128-gb-12-gb-ram-6-2-fhd-con-ia-snapdragon-8-4000-mah-android-15",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_666f2d9b-a11a-4354-b1f4-f289acfaefb1.png?v=1737571412&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-rn15pro",
+"name": "Xiaomi Redmi Note 15 Pro 5G 256 GB",
+"cat": "Móviles",
+"store": "MediaMarkt Canarias",
+"price": 309,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/movil-xiaomi-redmi-note-15-pro-5g-negro-256-gb-8-gb-ram-6-83-crystalres-amoled-mediatek-dimensity-7400-ultra-6500-mah",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9e1b39d2-4a92-4b52-86f0-cbaeb7f953ac.png?v=1768480506&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-mba-m4-blanco",
+"name": "MacBook Air 13\" M4 16 GB/256 GB blanco estrella",
+"cat": "Apple",
+"store": "MediaMarkt Canarias",
+"price": 699,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/apple-macbook-air-2025-13-6-retina-chip-m4-apple-cpu-de-10-nucleos-gpu-de-8-nucleos-16-gb-ram-256gb-de-ssd-blanco-estrella",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_e28d43a8-1563-4ba5-9739-3d0c15410b72.png?v=1741269315&width=600",
+"others": {},
+"why": "107 € menos que los otros colores (806 €) en la misma tienda."
+},
+{
+"id": "mmc-mba-m2-16",
+"name": "MacBook Air 13\" M2 16 GB/256 GB",
+"cat": "Apple",
+"store": "MediaMarkt Canarias",
+"price": 649,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/apple-macbook-air-2022-13-6-retina-chip-m2-apple-cpu-de-8-nucleos-gpu-de-8-nucleos-16-gb-ram-256gb-de-ssd-medianoche",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_d5778ad0-456c-4573-a638-b2919f7b8060.png?v=1731602782&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-galaxybook4",
+"name": "Portátil Samsung Galaxy Book4 i5 16 GB/512 GB",
+"cat": "Tecnología",
+"store": "MediaMarkt Canarias",
+"price": 709,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/portatil-samsung-galaxy-book4-15-6-fhd-intel-r-core-5-1335u-16gb-ram-512gb-ssd-intel-r-graphics-w11h-gris",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_ed868f2d-de0f-4e6d-9b0a-fbab6abe3340.png?v=1722950179&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-chromebook314",
+"name": "Acer Chromebook 314 8 GB/128 GB + ratón",
+"cat": "Tecnología",
+"store": "MediaMarkt Canarias",
+"price": 339,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/portatil-acer-chromebook-314-cboa314-1h-c065-14-full-hd-intel-r-celeron-n4500-8gb-ram-128gb-uhd-graphics-google-chrome-os-raton-incluido",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_a872765e-97bd-4f83-b78f-013099479b9c.png?v=1742577956&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
+},
+{
+"id": "mmc-ideapad3-i7",
+"name": "Lenovo IdeaPad Slim 3 i7 16 GB/1 TB",
+"cat": "Tecnología",
+"store": "MediaMarkt Canarias",
+"price": 799,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/portatil-lenovo-ideapad-slim-3-15irh10-15-3-wuxga-intel-r-core-i7-13620h-16gb-ram-1tb-ssd-uhd-graphics-windows-11-home-azul",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_48dd3995-202e-4490-a301-10e99ef69634.png?v=1742577638&width=600",
+"others": {},
+"why": "Precio en Canarias con IGIC incluido (Semanas Black)."
 }
 ]
 }
