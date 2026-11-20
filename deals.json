@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-20T12:18:00+00:00",
-"edition": 12,
+"updated": "2026-11-20T13:16:00+00:00",
+"edition": 13,
 "campaigns": [
 {
 "name": "MediaMarkt Canarias · Semanas Black",
@@ -102,6 +102,18 @@
 "name": "MediaMarkt Canarias · Black Friday",
 "until": "2026-12-01T09:00",
 "note": "ofertas hasta el 1 de diciembre a las 9 h",
+"urgent": false
+},
+{
+"name": "Druni · Black Friday",
+"until": "2026-11-30",
+"note": "Black Week con estuches de perfume hasta -60 %",
+"urgent": false
+},
+{
+"name": "Primor · Black Friday",
+"until": "2026-11-30",
+"note": "perfumes y cosmética hasta -55 %",
 "urgent": false
 }
 ],
@@ -860,7 +872,7 @@
 "min": false,
 "name": "TV LG OLED B6 65\"",
 "others": {},
-"prevDay": 1156,
+"prevDay": 1142.99,
 "price": 1142.99,
 "store": "El Corte Inglés",
 "url": "https://www.elcorteingles.es/electronica/A200791553-8806096768440-pr-tv-oled-164-cm-65-lg-oled65b6elc-4k-smart-tv-ai-b6-gris-oscuro-negro/",
@@ -879,7 +891,7 @@
 "min": false,
 "name": "TV LG QNED evo Mini LED 65\"",
 "others": {},
-"prevDay": 729,
+"prevDay": 699,
 "price": 699,
 "store": "El Corte Inglés",
 "url": "https://www.elcorteingles.es/electronica/A200840953-8806096694787-pr-tv-qned-evo-mini-led-164-cm-65-lg-65qned85b6b-4k-smart-tv-ai-qned85-gris-oscuro-negro/",
@@ -2332,7 +2344,7 @@
 "min": false,
 "name": "Freidora Ninja CRISPi 3,8 L portátil",
 "others": {},
-"prevDay": 95.04,
+"prevDay": 101,
 "price": 101,
 "src": "Chollómetro",
 "store": "Amazon",
@@ -4019,7 +4031,7 @@
 "others": {},
 "min": false,
 "was": 1299,
-"prevDay": 1099,
+"prevDay": 1069,
 "hist": {
 "low": 739,
 "when": "2026 (sin fecha)",
@@ -4812,7 +4824,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1131339c-7b75-4dec-ba8f-ad8e8e1be554.png?v=1772046058&width=600",
 "others": {},
 "why": "Más barato que en Amazon península (1098,35 €), y ya con IGIC.",
-"prevDay": 1069,
+"prevDay": 899,
 "hist": {
 "low": 849,
 "when": "2026 (sin fecha)",
@@ -4832,7 +4844,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6aa33d2a-f6e0-449e-8204-2228dafdf0fb.png?v=1725925381&width=600",
 "others": {},
 "why": "Precio en Canarias con IGIC incluido (Semanas Black).",
-"prevDay": 789
+"prevDay": 729
 },
 {
 "id": "mmc-iphone18pro",
@@ -4874,7 +4886,8 @@
 "url": "https://mandatelo.com/smartwatch/17667-smartwatch-j13-119-amoled-ip68-deportes-dorado-rosa-xo-6975837586239.html",
 "img": "https://mandatelo.com/130123-thickbox_default/smartwatch-j13-119-amoled-ip68-deportes-dorado-rosa-xo.jpg",
 "why": "Smartwatch AMOLED deportivo por menos de 30 € con envío desde Canarias",
-"others": {}
+"others": {},
+"prevDay": 29.52
 },
 {
 "id": "mdt-15677",
@@ -4888,7 +4901,8 @@
 "url": "https://mandatelo.com/smartwatch/15677-smartwatch-watch4-143-amoled-ip68-verde-xo-6920680858828.html",
 "img": "https://mandatelo.com/154129-thickbox_default/smartwatch-watch4-143-amoled-ip68-verde-xo.jpg",
 "why": "Reloj inteligente AMOLED barato, -20% Black Friday",
-"others": {}
+"others": {},
+"prevDay": 26.32
 },
 {
 "id": "mdt-18103",
@@ -4902,7 +4916,8 @@
 "url": "https://mandatelo.com/camaras-ip-motorizadas/18103-camara-motorizada-4g-solar-4mpx-deteccion-movimiento-cr19-xo-6975837588608.html",
 "img": "https://mandatelo.com/79393-thickbox_default/camara-motorizada-4g-solar-4mpx-deteccion-movimiento-cr19-xo.jpg",
 "why": "Vigilancia con placa solar y 4G para finca o casa sin wifi",
-"others": {}
+"others": {},
+"prevDay": 44.0
 },
 {
 "id": "mdt-18020",
@@ -4916,7 +4931,8 @@
 "url": "https://mandatelo.com/camaras-deportivas-fotos/18020-camara-outdoor-full-hd-con-pantalla-13-zf02-xo-6975837589513.html",
 "img": "https://mandatelo.com/79020-thickbox_default/camara-outdoor-full-hd-con-pantalla-13-zf02-xo.jpg",
 "why": "Cámara de acción sencilla para los peques por 15,60 €",
-"others": {}
+"others": {},
+"prevDay": 15.6
 },
 {
 "id": "mdt-12149",
@@ -4930,7 +4946,8 @@
 "url": "https://mandatelo.com/electrodomesticos-freidoras-freidoras-sin-aceite/12149-freidora-aire-caliente-doble-9-litros-2600w-pantalla-tactil-muvip-8436049035673.html",
 "img": "https://mandatelo.com/161139-thickbox_default/freidora-aire-caliente-doble-9-litros-2600w-pantalla-tactil-muvip.jpg",
 "why": "Doble cesta de 9 L para cocinar dos cosas a la vez, -25%",
-"others": {}
+"others": {},
+"prevDay": 74.25
 },
 {
 "id": "mdt-11465",
@@ -4944,7 +4961,8 @@
 "url": "https://mandatelo.com/electrodomesticos-freidoras-freidoras-sin-aceite/11465-freidora-aire-caliente-45-litros-1600w-pantalla-tactil-muvip-8436049034478.html",
 "img": "https://mandatelo.com/158312-thickbox_default/freidora-aire-caliente-45-litros-1600w-pantalla-tactil-muvip.jpg",
 "why": "Airfryer de 4,5 L por 41 € con IGIC",
-"others": {}
+"others": {},
+"prevDay": 41.25
 },
 {
 "id": "mdt-18827",
@@ -4958,7 +4976,8 @@
 "url": "https://mandatelo.com/electrodomesticos-freidoras-freidoras-con-aceite/18827-freidora-5-litros-inox-2000w-desmontable-con-ventana-muvip-8436049044286.html",
 "img": "https://mandatelo.com/152405-thickbox_default/freidora-5-litros-inox-2000w-desmontable-con-ventana-muvip.jpg",
 "why": "Freidora de aceite grande, -30%",
-"others": {}
+"others": {},
+"prevDay": 31.43
 },
 {
 "id": "mdt-18917",
@@ -4972,7 +4991,8 @@
 "url": "https://mandatelo.com/electrodomesticos-hervidores-cafeteras-hervidores/18917-hervidor-de-agua-inox-1-litro-2200w-muvip-8436049047515.html",
 "img": "https://mandatelo.com/139287-thickbox_default/hervidor-de-agua-inox-1-litro-2200w-muvip.jpg",
 "why": "Hervidor básico de acero, -30%",
-"others": {}
+"others": {},
+"prevDay": 15.33
 },
 {
 "id": "mdt-8429",
@@ -4986,7 +5006,8 @@
 "url": "https://mandatelo.com/electrodomesticos-planchas-de-asar-paelleras-cocinas-electricas-planchas-de-asar/8429-plancha-de-asar-66x29cm-1500w-muvip-8436049029849.html",
 "img": "https://mandatelo.com/157208-thickbox_default/plancha-de-asar-66x29cm-1500w-muvip.jpg",
 "why": "Plancha grande para comidas familiares, -25%",
-"others": {}
+"others": {},
+"prevDay": 29.93
 },
 {
 "id": "mdt-3198",
@@ -5000,7 +5021,8 @@
 "url": "https://mandatelo.com/electrodomesticos-planchas-de-asar-paelleras-cocinas-electricas-planchas-de-asar/3198-plancha-de-asar-48x27cm-1500w-muvip-8436049027661.html",
 "img": "https://mandatelo.com/159423-thickbox_default/plancha-de-asar-48x27cm-1500w-muvip.jpg",
 "why": "Plancha mediana por menos de 25 €",
-"others": {}
+"others": {},
+"prevDay": 24.68
 },
 {
 "id": "mdt-17922",
@@ -5014,7 +5036,8 @@
 "url": "https://mandatelo.com/electrodomesticos-sandwicheras-tostadoras-sandwicheras-y-grills/17922-sandwichera-grill-inoxidable-1600w-180-muvip-8436049044644.html",
 "img": "https://mandatelo.com/155174-thickbox_default/sandwichera-grill-inoxidable-1600w-180-muvip.jpg",
 "why": "Grill que se abre a 180º y hace de plancha, -20%",
-"others": {}
+"others": {},
+"prevDay": 22.32
 },
 {
 "id": "mdt-19485",
@@ -5028,7 +5051,8 @@
 "url": "https://mandatelo.com/deshumidificadores/19485-humidificador-con-musica-hf07-xo-6920680855773.html",
 "img": "https://mandatelo.com/130120-thickbox_default/humidificador-con-musica-hf07-xo.jpg",
 "why": "Humidificador con altavoz, detalle barato, -30%",
-"others": {}
+"others": {},
+"prevDay": 11.55
 },
 {
 "id": "mdt-19484",
@@ -5042,7 +5066,8 @@
 "url": "https://mandatelo.com/deshumidificadores/19484-humidificador-lampara-vintage-negro-hf06-xo-6920680855858.html",
 "img": "https://mandatelo.com/141162-thickbox_default/humidificador-lampara-vintage-negro-hf06-xo.jpg",
 "why": "Humidificador y lámpara por menos de 10 €",
-"others": {}
+"others": {},
+"prevDay": 9.45
 },
 {
 "id": "mdt-8535",
@@ -5056,7 +5081,8 @@
 "url": "https://mandatelo.com/tiras-led/8535-tira-de-led-12v-5-metros-rgb-wifi-elbat-8436049031422.html",
 "img": "https://mandatelo.com/151086-thickbox_default/tira-de-led-12v-5-metros-rgb-wifi-elbat.jpg",
 "why": "LED de colores controlable por app, ideal habitación juvenil",
-"others": {}
+"others": {},
+"prevDay": 19.92
 },
 {
 "id": "mdt-19476",
@@ -5070,7 +5096,8 @@
 "url": "https://mandatelo.com/accesorios-smartphone/19476-soporte-con-altavoz-impermeable-para-ducha-f80-xo-6975837589384.html",
 "img": "https://mandatelo.com/120563-thickbox_default/soporte-con-altavoz-impermeable-para-ducha-f80-xo.jpg",
 "why": "Altavoz de ducha con soporte para el móvil, -25%",
-"others": {}
+"others": {},
+"prevDay": 14.63
 },
 {
 "id": "mdt-18099",
@@ -5084,7 +5111,8 @@
 "url": "https://mandatelo.com/auriculares-bluetooth-tws/18099-auriculares-bluetooth-tws-negro-x43-xo-6975837584402.html",
 "img": "https://mandatelo.com/150315-thickbox_default/auriculares-bluetooth-tws-negro-x43-xo.jpg",
 "why": "Auriculares inalámbricos por menos de 10 €",
-"others": {}
+"others": {},
+"prevDay": 9.68
 },
 {
 "id": "mdt-17624",
@@ -5098,7 +5126,8 @@
 "url": "https://mandatelo.com/accesorios-smartphone-coche/17624-soporte-de-coche-control-tactil-con-carga-inalambrica-15w-wx042-xo-6975837585171.html",
 "img": "https://mandatelo.com/134187-thickbox_default/soporte-de-coche-control-tactil-con-carga-inalambrica-15w-wx042-xo.jpg",
 "why": "Soporte de coche que carga el móvil, -25%",
-"others": {}
+"others": {},
+"prevDay": 13.43
 },
 {
 "id": "mdt-18017",
@@ -5114,7 +5143,8 @@
 "url": "https://mandatelo.com/walkie-talkie/18017-pack-2-walkies-talkies-infantiles-con-camara-azul-rosa-djj02-xo-6975837589605.html",
 "img": "https://mandatelo.com/152505-thickbox_default/pack-2-walkies-talkies-infantiles-con-camara-azul-rosa-djj02-xo.jpg",
 "why": "Regalo para niños: walkies con cámara, -25%",
-"others": {}
+"others": {},
+"prevDay": 18.75
 },
 {
 "id": "mdt-18058",
@@ -5128,7 +5158,8 @@
 "url": "https://mandatelo.com/ejercicio-muscular/18058-masajeador-electrico-con-4-niveles-fg16-y-4-cabezales-xo-6975837588745.html",
 "img": "https://mandatelo.com/156397-thickbox_default/masajeador-electrico-con-4-niveles-fg16-y-4-cabezales-xo.jpg",
 "why": "Pistola de masaje por 13,30 €, -30%",
-"others": {}
+"others": {},
+"prevDay": 13.3
 },
 {
 "id": "mdt-18777",
@@ -5142,7 +5173,8 @@
 "url": "https://mandatelo.com/arrancador-de-baterias/18777-arrancador-baterias-inflador-powerstart-pro-5-en-1-blim-8436049044613.html",
 "img": "https://mandatelo.com/158200-thickbox_default/arrancador-baterias-inflador-powerstart-pro-5-en-1-blim.jpg",
 "why": "Arranca el coche e infla ruedas, -25%",
-"others": {}
+"others": {},
+"prevDay": 71.25
 },
 {
 "id": "mmc-xiaomi-75apro",
@@ -5156,7 +5188,8 @@
 "url": "https://canarias.mediamarkt.es/products/tv-qled-75-xiaomi-75-a-pro-qled-4k-quad-cortex-a55-smart-tv-google-tv-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_3e35dce6-3453-469f-837b-c8a8918fcc7f_grande.png?v=1751457536",
 "why": "75 pulgadas QLED por menos de 560 € con IGIC (-34%)",
-"others": {}
+"others": {},
+"prevDay": 559
 },
 {
 "id": "mmc-g34wqi",
@@ -5170,7 +5203,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-xiaomi-g34wqi-2026-34-wqhd-180-hz-1ms-va-curvo-altura-ajustable-freesync-premium-hdr-400-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_796a3ed0-6fb8-47d3-ba0f-addabb93d30d_grande.png?v=1786621525",
 "why": "Ultrapanorámico 34\" 180 Hz, ideal gaming y trabajo",
-"others": {}
+"others": {},
+"prevDay": 229
 },
 {
 "id": "mmc-msi-274qp-oled",
@@ -5184,7 +5218,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-msi-mag-274qp-qd-oled-x24-26-5-wqhd-240-hz-0-03-ms-qd-oled-altura-ajustable-adaptive-sync-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_57c1e342-f3cf-4c30-9742-7a0df837607e_grande.png?v=1785247858",
 "why": "QD-OLED 240 Hz por 329 €: precio muy bajo para OLED",
-"others": {}
+"others": {},
+"prevDay": 329
 },
 {
 "id": "mmc-msi-275qf",
@@ -5213,7 +5248,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-msi-modern-md342cqpw-34-uwqhd-1-ms-mprt-4-ms-gtg-120-hz-1x-usb-b-2x-usb-a-2x-hdmi-1x-displayport-blanco",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f24a7bd4-728c-477d-ac21-d966d6095f9b_grande.png?v=1742572000",
 "why": "-42% en ultrapanorámico blanco con USB-C, para oficina",
-"others": {}
+"others": {},
+"prevDay": 259
 },
 {
 "id": "mmc-legion25-10",
@@ -5227,7 +5263,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-lenovo-legion-25-10-24-5-full-hd-320hz-0-5-ms-ips-2x-hdmi-r-2-1-tmds-1x-dp-1-4-amd-freesync-premium-ajustable-altura",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c28e3c0b-fce4-4b3c-8662-d37cb4f9b20f_grande.png?v=1763397457",
 "why": "320 Hz para shooters competitivos, -29%",
-"others": {}
+"others": {},
+"prevDay": 119
 },
 {
 "id": "mmc-lg-27g610a",
@@ -5241,7 +5278,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-lg-ultragear-27g610a-b-27-qhd-200-hz-1ms-ips-hdr10-altura-ajustable-morado-grisaceo",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_283a62c3-0225-4b11-a489-341d9cd761f7_grande.png?v=1761831598",
 "why": "QHD 200 Hz IPS con altura ajustable, -28% (consultar stock online)",
-"others": {}
+"others": {},
+"prevDay": 149
 },
 {
 "id": "mmc-lg-27g411a",
@@ -5255,7 +5293,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-lg-27g411a-b-27-full-hd-144-hz-1-ms-ips-hdr10-morado-grisaceo",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_349489fb-bc5b-45fc-9736-5cc27c7395a4_grande.png?v=1763395506",
 "why": "Monitor gaming 27\" 144 Hz por 89 €",
-"others": {}
+"others": {},
+"prevDay": 89
 },
 {
 "id": "mmc-msi-g255pf",
@@ -5269,7 +5308,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-gaming-msi-g255pf-e2-24-5-full-hd-1-ms-180-hz-rapid-ips-diseno-sin-marco-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_83dc011e-a205-4d72-93b2-62267f0c3d9a_grande.png?v=1722950176",
 "why": "-44%: 180 Hz Rapid IPS por 89 €",
-"others": {}
+"others": {},
+"prevDay": 89
 },
 {
 "id": "mmc-msi-mp275pg",
@@ -5283,7 +5323,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-msi-pro-mp275pg-27-full-hd-100-hz-4-ms-ips-adaptive-sync-altura-ajustable-hdr-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0319a0ed-6614-4886-96c1-beed482345b3_grande.png?v=1744820516",
 "why": "-47%: monitor de oficina 27\" ergonómico casi a mitad de precio",
-"others": {}
+"others": {},
+"prevDay": 94
 },
 {
 "id": "mmc-lenovo-l27h",
@@ -5297,7 +5338,8 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-lenovo-l27h-4a-27-qhd-100-hz-6-ms-ips-1x-usb-c-4-usb-a-2x-hdmi-r-2-1-tmds-1x-dp-1-4-altura-ajustable-altavoces-incluidos",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_cde14326-8a3b-48d6-b8f6-7cfdf3d75526_grande.png?v=1772732979",
 "why": "QHD con USB-C para teletrabajo, -15% (+Renove -30 €)",
-"others": {}
+"others": {},
+"prevDay": 159
 },
 {
 "id": "mmc-taba11-256",
@@ -5311,7 +5353,8 @@
 "url": "https://canarias.mediamarkt.es/products/tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_cccadf38-d8f2-4dbd-b88b-f21430fcbd36_grande.png?v=1768823474",
 "why": "Tablet familiar con 256 GB, 50 € menos",
-"others": {}
+"others": {},
+"prevDay": 339
 },
 {
 "id": "mmc-redmipad2pro",
@@ -5325,7 +5368,8 @@
 "url": "https://canarias.mediamarkt.es/products/tablet-xiaomi-redmi-pad-2-pro-wifi-12-1-wqhd-6-gb-ram-128-gb-snapdragon-r-7s-gen-4-gray",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0c71dceb-e281-41ea-bd55-f509252c030d_grande.png?v=1760010590",
 "why": "Pantalla 12,1\" 2.5K y Snapdragon 7s Gen 4 por 239 €",
-"others": {}
+"others": {},
+"prevDay": 239
 },
 {
 "id": "mmc-honorpad10",
@@ -5339,7 +5383,8 @@
 "url": "https://canarias.mediamarkt.es/products/tablet-honor-pad-10-12-1-dci-2k-8gb-ram-256gb-fullview-tft-lcd-ips-120-hz-qualcomm-r-snapdragon-r-7-gen-3-android-15-gris-espacial",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c43ef7ea-7b1a-48c0-b91b-e9870d1c26dc_grande.png?v=1755701112",
 "why": "-32%: 8/256 GB y 120 Hz, muy completa por el precio",
-"others": {}
+"others": {},
+"prevDay": 239
 },
 {
 "id": "mmc-honorx9a",
@@ -5353,7 +5398,8 @@
 "url": "https://canarias.mediamarkt.es/products/tablet-honor-pad-x9a-11-5-qhd-6-gb-ram-128-gb-qualcomm-r-snapdragon-r-685-6nm-android-15-magic-os-9-0-8300-mah-gris-espacial",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_333071ba-2715-43fc-9727-08d8341d9526_grande.png?v=1763397288",
 "why": "Tablet para niños y series por menos de 200 €",
-"others": {}
+"others": {},
+"prevDay": 199
 },
 {
 "id": "mmc-ipad11-azul",
@@ -5367,7 +5413,8 @@
 "url": "https://canarias.mediamarkt.es/products/apple-ipad-11agen-128gb-azul-wifi-10-9-retina-chip-a16-bionic-ipados-18-cable-de-carga-usb-c-sin-adaptador-de-corriente",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c806ec31-8c30-49be-8764-d684e2bba5f4_grande.png?v=1741179341",
 "why": "iPad A16 de 128 GB 30 € por debajo de su precio en Canarias",
-"others": {}
+"others": {},
+"prevDay": 419
 },
 {
 "id": "mmc-epson-et2956",
@@ -5396,7 +5443,8 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-philips-ep2225-10-serie-2200-1500-w-15-bares-molinillo-ceramico-espumador-leche-aquaclean-1-8-l-negro-mate",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_96d3e07a-af75-494e-add7-cade8beec519_grande.png?v=1790683022",
 "why": "-32%: café en grano recién molido por 249 €",
-"others": {}
+"others": {},
+"prevDay": 249
 },
 {
 "id": "mmc-delonghi-startmilk",
@@ -5410,7 +5458,8 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-delonghi-magnifica-start-milk-15-bar-1450-w-2-tazas-pantalla-tactil-plata",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6dc92234-1643-4825-8ac1-6cd6a33e2260_grande.png?v=1701427970",
 "why": "-36%: superautomática con jarra de leche",
-"others": {}
+"others": {},
+"prevDay": 349
 },
 {
 "id": "mmc-delonghi-evo290",
@@ -5424,7 +5473,8 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-delonghi-magnifica-evo-ecam290-21-b-molinillo-integrado-sistema-thermoblock-vaporizador-tactil-1450w-15bar-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_509850ff-aaf3-45bf-8c25-762a0bf49ed2_grande.png?v=1730282371",
 "why": "-26% en una de las superautomáticas más vendidas",
-"others": {}
+"others": {},
+"prevDay": 329
 },
 {
 "id": "mmc-delonghi-evonext",
@@ -5438,7 +5488,8 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-delonghi-magnifica-evo-next-ecam-310-80-sb-1450-watt-15-bar-molinillo-integrado-deposito-de-leche-plata-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_ab9767b9-107d-467a-b86b-d3cd466618e7_grande.png?v=1778085766",
 "why": "-29%: 190 € menos, con depósito de leche",
-"others": {}
+"others": {},
+"prevDay": 459
 },
 {
 "id": "amz-b0gzp8zt9r",
@@ -5451,7 +5502,8 @@
 "url": "https://www.amazon.es/dp/B0GZP8ZT9R",
 "img": "https://i.blogs.es/d3a40c/blink-outdoor-4/450_1000.jpeg",
 "why": "Cámara exterior Blink con -82% en la Semana Black Friday",
-"others": {}
+"others": {},
+"prevDay": 24.99
 },
 {
 "id": "amz-b0g62vrgl3",
@@ -5465,7 +5517,8 @@
 "url": "https://www.amazon.es/dp/B0G62VRGL3",
 "img": "https://i.blogs.es/c57549/blink-videotimbre-2k-con-pilas/450_1000.jpeg",
 "why": "Videotimbre 2K sin cables a menos de la mitad",
-"others": {}
+"others": {},
+"prevDay": 34.99
 },
 {
 "id": "amz-b0dtqwyzff",
@@ -5481,7 +5534,8 @@
 "others": {
 "MediaMarkt": 155.0
 },
-"why": "Pantalla con Alexa 90 € más barata; MediaMarkt la tiene a 155 €"
+"why": "Pantalla con Alexa 90 € más barata; MediaMarkt la tiene a 155 €",
+"prevDay": 129.99
 },
 {
 "id": "amz-b0dzxy46hc",
@@ -5504,7 +5558,8 @@
 "src": "Vida Extra",
 "verdict": "low"
 },
-"was": null
+"was": null,
+"prevDay": 39.9
 },
 {
 "id": "amz-b0fvf54935",
@@ -5527,7 +5582,8 @@
 "src": "Vida Extra",
 "verdict": "best"
 },
-"was": null
+"was": null,
+"prevDay": 41.24
 },
 {
 "id": "amz-b0dlgnt4v3",
@@ -5550,7 +5606,8 @@
 "src": "Vida Extra",
 "verdict": "best"
 },
-"was": null
+"was": null,
+"prevDay": 30.5
 },
 {
 "id": "amz-b0d1cn45pt",
@@ -5571,7 +5628,8 @@
 "src": "3DJuegos",
 "verdict": "best"
 },
-"was": null
+"was": null,
+"prevDay": 489.0
 },
 {
 "id": "amz-b0bjqq78by",
@@ -5594,7 +5652,8 @@
 "when": "nov 2026",
 "src": "Directo al Paladar",
 "verdict": "best"
-}
+},
+"prevDay": 207.9
 },
 {
 "id": "amz-b09mwmjg76",
@@ -5616,7 +5675,8 @@
 "when": "nov 2026",
 "src": "Directo al Paladar",
 "verdict": "best"
-}
+},
+"prevDay": 319.99
 },
 {
 "id": "amz-b0brql5y7w",
@@ -5639,7 +5699,8 @@
 "when": "nov 2026",
 "src": "Directo al Paladar",
 "verdict": "best"
-}
+},
+"prevDay": 749.99
 },
 {
 "id": "amz-b0fkt6czpn",
@@ -5655,7 +5716,8 @@
 "others": {
 "El Corte Inglés": 549.99
 },
-"why": "Gama alta de Ufesa con 350 € de descuento"
+"why": "Gama alta de Ufesa con 350 € de descuento",
+"prevDay": 549.99
 },
 {
 "id": "amz-b0dgm8mkzb",
@@ -5678,7 +5740,8 @@
 "when": "nov 2026",
 "src": "Directo al Paladar",
 "verdict": "best"
-}
+},
+"prevDay": 94.99
 },
 {
 "id": "amz-b0dyk9lk3d",
@@ -5692,7 +5755,8 @@
 "url": "https://www.amazon.es/dp/B0DYK9LK3D",
 "img": "https://i.blogs.es/684db5/bosch-freidora-de-aire-serie-6-7.2l-ventana-negro-maf671b0/450_1000.jpeg",
 "why": "Freidora Bosch de 7,2 L con ventana a 99 €",
-"others": {}
+"others": {},
+"prevDay": 99.0
 },
 {
 "id": "amz-b0fnych1vl",
@@ -5706,7 +5770,8 @@
 "url": "https://www.amazon.es/dp/B0FNYCH1VL",
 "img": "https://i.blogs.es/fce592/philips-4000-airfryer---freidora-de-aire-doble/450_1000.jpeg",
 "why": "Doble cesta vertical con 60 € de rebaja",
-"others": {}
+"others": {},
+"prevDay": 135.99
 },
 {
 "id": "amz-b0h9558s91",
@@ -5730,7 +5795,8 @@
 "when": "nov 2026",
 "src": "Directo al Paladar (Carrefour)",
 "verdict": "higher"
-}
+},
+"prevDay": 129.99
 },
 {
 "id": "amz-b07gxs35pg",
@@ -5744,7 +5810,8 @@
 "url": "https://www.amazon.es/dp/B07GXS35PG",
 "img": "https://m.media-amazon.com/images/I/71PEgi0LW+L._AC_.jpg",
 "why": "Limpiador de sofás y alfombras a menos de 100 €",
-"others": {}
+"others": {},
+"prevDay": 99.99
 },
 {
 "id": "amz-b0cldpgtyn",
@@ -5758,7 +5825,8 @@
 "url": "https://www.amazon.es/dp/B0CLDPGTYN",
 "img": "https://m.media-amazon.com/images/I/71aQVGanewL._AC_.jpg",
 "why": "Limpiatapicerías con vapor 100 € más barato",
-"others": {}
+"others": {},
+"prevDay": 179.99
 },
 {
 "id": "amz-b0dd49jnrl",
@@ -5772,7 +5840,8 @@
 "url": "https://www.amazon.es/dp/B0DD49JNRL",
 "img": "https://m.media-amazon.com/images/I/71QHy2dGxQL._AC_.jpg",
 "why": "50 € de descuento en el limpiador de tapicerías de Rowenta",
-"others": {}
+"others": {},
+"prevDay": 139.99
 },
 {
 "id": "amz-b0gswym8q2",
@@ -5786,7 +5855,8 @@
 "url": "https://www.amazon.es/dp/B0GSWYM8Q2",
 "img": "https://m.media-amazon.com/images/I/71je7OCdCGL._AC_.jpg",
 "why": "Tope de gama de Dreame 200 € más barato",
-"others": {}
+"others": {},
+"prevDay": 999.0
 },
 {
 "id": "amz-b0cvh62jz4",
@@ -5800,7 +5870,8 @@
 "url": "https://www.amazon.es/dp/B0CVH62JZ4",
 "img": "https://m.media-amazon.com/images/I/614-3e5ERtL._AC_.jpg",
 "why": "Escoba sin cable por menos de 100 €",
-"others": {}
+"others": {},
+"prevDay": 95.99
 },
 {
 "id": "amz-b0h2fpg8ny",
@@ -5814,7 +5885,8 @@
 "url": "https://www.amazon.es/dp/B0H2FPG8NY",
 "img": "https://m.media-amazon.com/images/I/714TGvLB74L._AC_.jpg",
 "why": "Robot friegasuelos con base autovaciado por 329 €",
-"others": {}
+"others": {},
+"prevDay": 329.0
 },
 {
 "id": "amz-b0gx6qq68p",
@@ -5828,7 +5900,8 @@
 "url": "https://www.amazon.es/dp/B0GX6QQ68P",
 "img": "https://m.media-amazon.com/images/I/61PDXw5y9QL._AC_.jpg",
 "why": "Dyson V10 con 50 € de rebaja",
-"others": {}
+"others": {},
+"prevDay": 329.0
 },
 {
 "id": "amz-b0gvp7xy36",
@@ -5848,7 +5921,8 @@
 "src": "Topes de Gama",
 "verdict": "low"
 },
-"others": {}
+"others": {},
+"prevDay": 249.0
 },
 {
 "id": "amz-b0cn3xd4bs",
@@ -5862,7 +5936,8 @@
 "url": "https://www.amazon.es/dp/B0CN3XD4BS",
 "img": "https://i.blogs.es/80243d/41jhojdjc5l._sl500_/original.webp",
 "why": "Chaqueta acolchada impermeable a casi mitad de precio",
-"others": {}
+"others": {},
+"prevDay": 89.99
 },
 {
 "id": "amz-b0gfpp97jr",
@@ -5876,7 +5951,8 @@
 "url": "https://www.amazon.es/dp/B0GFPP97JR",
 "img": "https://i.blogs.es/c87259/31zelhgtmol._sl500_/original.webp",
 "why": "Plumífero Columbia rebajado para el invierno",
-"others": {}
+"others": {},
+"prevDay": 119.0
 },
 {
 "id": "amz-b0ghmzxx8y",
@@ -5890,7 +5966,8 @@
 "url": "https://www.amazon.es/dp/B0GHMZXX8Y",
 "img": "https://m.media-amazon.com/images/I/51ShyBZyxhL._AC_.jpg",
 "why": "Bálsamo coreano viral por menos de 15 €",
-"others": {}
+"others": {},
+"prevDay": 14.9
 },
 {
 "id": "amz-b0cm2ppnmw",
@@ -5904,7 +5981,8 @@
 "url": "https://www.amazon.es/dp/B0CM2PPNMW",
 "img": "https://m.media-amazon.com/images/I/6154rc1rm2L._AC_.jpg",
 "why": "Crema K-beauty con colágeno rebajada",
-"others": {}
+"others": {},
+"prevDay": 13.9
 },
 {
 "id": "amz-b0d2z3ggcy",
@@ -5918,7 +5996,8 @@
 "url": "https://www.amazon.es/dp/B0D2Z3GGCY",
 "img": "https://m.media-amazon.com/images/I/61rR7R-zsML._AC_.jpg",
 "why": "Crema con vitamina C por 13,40 €",
-"others": {}
+"others": {},
+"prevDay": 13.4
 },
 {
 "id": "amz-b0crhl62xj",
@@ -5932,7 +6011,8 @@
 "url": "https://www.amazon.es/dp/B0CRHL62XJ",
 "img": "https://m.media-amazon.com/images/I/81INxcUQOVL._AC_.jpg",
 "why": "Dos litros de champú anticaspa a buen precio",
-"others": {}
+"others": {},
+"prevDay": 14.99
 },
 {
 "id": "amz-b0d2p1zvz8",
@@ -5946,7 +6026,8 @@
 "url": "https://www.amazon.es/dp/B0D2P1ZVZ8",
 "img": "https://m.media-amazon.com/images/I/714CoD--0WL._AC_.jpg",
 "why": "Dúo antiedad de L’Oréal rebajado",
-"others": {}
+"others": {},
+"prevDay": 15.49
 },
 {
 "id": "amz-b08r9nz65k",
@@ -5960,7 +6041,8 @@
 "url": "https://www.amazon.es/dp/B08R9NZ65K",
 "img": "https://m.media-amazon.com/images/I/71CU32aTfPL._AC_.jpg",
 "why": "Seis desodorantes por unos 2 € cada uno",
-"others": {}
+"others": {},
+"prevDay": 12.95
 },
 {
 "id": "amz-b0dp1q2mkw",
@@ -5973,7 +6055,8 @@
 "img": "https://m.media-amazon.com/images/I/81ZcO4OW6hL._AC_.jpg",
 "why": "Cepillo iO de entrada por menos de 45 €",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 44.95
 },
 {
 "id": "amz-b0dxlbzf4q",
@@ -5986,7 +6069,8 @@
 "img": "https://m.media-amazon.com/images/I/81Zl0YtQt0L._AC_.jpg",
 "why": "OneBlade 360 por menos de 33 €",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 32.99
 },
 {
 "id": "amz-b0fzw7vt6j",
@@ -5999,7 +6083,8 @@
 "img": "https://m.media-amazon.com/images/I/81uB9OI19FL._AC_.jpg",
 "why": "Depiladora tope de gama de Braun a 99,99 €",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 99.99
 },
 {
 "id": "amz-b0b5fhvzd1",
@@ -6012,7 +6097,8 @@
 "img": "https://m.media-amazon.com/images/I/81L5yxKLKEL._AC_.jpg",
 "why": "iO 6 con sensor de presión por menos de 120 €",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 119.95
 },
 {
 "id": "amz-b0gl2l4f2q",
@@ -6028,7 +6114,8 @@
 "others": {
 "MediaMarkt": 194.21
 },
-"why": "Freidora de cubetas de cristal, la más deseada de Ninja"
+"why": "Freidora de cubetas de cristal, la más deseada de Ninja",
+"prevDay": 189.0
 },
 {
 "id": "amz-b0dppwn31x",
@@ -6042,7 +6129,8 @@
 "url": "https://www.amazon.es/dp/B0DPPWN31X",
 "img": "https://m.media-amazon.com/images/I/61KR1kOWpWL._SL400_.jpg",
 "why": "Torre de dos niveles para cocinar para toda la familia",
-"others": {}
+"others": {},
+"prevDay": 206.98
 },
 {
 "id": "amz-b0gbxy2ykk",
@@ -6064,7 +6152,8 @@
 "when": "nov 2026",
 "src": "MediaMarkt hoy",
 "verdict": "meh"
-}
+},
+"prevDay": 149.98
 },
 {
 "id": "crf-31758844",
@@ -6078,7 +6167,8 @@
 "url": "https://www.carrefour.es/freidora-de-aire-sin-aceite-portatil-ninja-cripi-fn101eugy/VC4A-31758844/p",
 "img": "https://i.blogs.es/f4e0ef/ninja-crispi-freidora-de-aire-4-en-1/450_1000.jpeg",
 "why": "Recipientes de cristal que van del frigo a la mesa, -39%",
-"others": {}
+"others": {},
+"prevDay": 109.0
 },
 {
 "id": "mm-1574555",
@@ -6095,7 +6185,8 @@
 "PcComponentes": 69.0,
 "Carrefour": 79.0
 },
-"why": "9 litros divisibles en dos cubetas por menos de 70 €"
+"why": "9 litros divisibles en dos cubetas por menos de 70 €",
+"prevDay": 69.0
 },
 {
 "id": "mm-1579693",
@@ -6109,7 +6200,8 @@
 "url": "https://www.mediamarkt.es/es/product/_robot-de-cocina-cecotec-mambo-cooking-total-gourmet-2200w-45-l-45-funciones-1000-recetas-dispensador-panel-tactil-autolimpieza-wi-fi-inox-1579693.html",
 "img": "https://i.blogs.es/14b7ce/blob/original.jpeg",
 "why": "Mambo tope de gama con pantalla, recetas guiadas y autolimpieza",
-"others": {}
+"others": {},
+"prevDay": 509.0
 },
 {
 "id": "amz-b0bwsfgq49",
@@ -6125,7 +6217,8 @@
 "others": {
 "MediaMarkt (ECAM22.113.B)": 255.37
 },
-"why": "Café recién molido con un botón, la superautomática más vendida"
+"why": "Café recién molido con un botón, la superautomática más vendida",
+"prevDay": 259.0
 },
 {
 "id": "mm-1583204",
@@ -6139,7 +6232,8 @@
 "url": "https://www.mediamarkt.es/es/product/_secadora-bomba-de-calor-bosch-wqg245d0es-serie-6-9-kg-15-programas-autodry-condensador-autolimpiante-blanco-1583204.html",
 "img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_157425024/?direct",
 "why": "Condensador autolimpiable, 299 € de descuento",
-"others": {}
+"others": {},
+"prevDay": 599.0
 },
 {
 "id": "mm-1548620",
@@ -6153,7 +6247,8 @@
 "url": "https://www.mediamarkt.es/es/product/_secadora-haier-i-pro-series-3-hd90-a3939-ib-9kg-bomba-de-calor-motor-inverter-antiarrugas-15-programas-blanco-1548620.html",
 "img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_157831253/?direct",
 "why": "Bomba de calor con motor inverter al -40%",
-"others": {}
+"others": {},
+"prevDay": 449.0
 },
 {
 "id": "mm-1600920",
@@ -6167,7 +6262,8 @@
 "url": "https://www.mediamarkt.es/es/product/_secadora-bomba-de-calor-beko-bm3t49240w-motor-prosmart-inverter-9-kg-15-programas-display-digital-blanco-1600920.html",
 "img": "https://assets.mmsrg.com/ada/166325/c1/-/-/ASSET_MMS_159032824/?direct",
 "why": "Secadora de bajo consumo por menos de 400 €",
-"others": {}
+"others": {},
+"prevDay": 399.0
 },
 {
 "id": "lm-93287720",
@@ -6181,7 +6277,8 @@
 "url": "https://www.leroymerlin.es/productos/amoladora-dexter-power-x-change-18-v-disco-125-mm-1-bateria-4-0-ah-cargador-93287720.html",
 "img": "https://media.adeo.com/media/4870691/media.jpg?width=640",
 "why": "Radial a batería compatible con Einhell Power X-Change",
-"others": {}
+"others": {},
+"prevDay": 89.0
 },
 {
 "id": "lm-71569268",
@@ -6195,7 +6292,8 @@
 "url": "https://www.leroymerlin.es/productos/martillo-perforador-1650w-5-5-j-sds-plus-dnipro-m-percutor-y-demoledor-3-modos-4500-golpes-min-hormigon-36-mm-con-maletin-y-accesorios-bh-20-71569268.html",
 "img": "https://media.adeo.com/mkp/5131ba8851d6c7bed939c083fc074223/media.jpg?width=640",
 "why": "Perfora y demuele hormigón, con brocas y cinceles, -42%",
-"others": {}
+"others": {},
+"prevDay": 79.99
 },
 {
 "id": "lm-92722637",
@@ -6208,7 +6306,8 @@
 "img": "https://media.adeo.com/media/4737504/media.png?width=640",
 "why": "Kit completo con dos baterías Power X-Change en el Black Friday de Leroy",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 123.0
 },
 {
 "id": "lm-90122137",
@@ -6221,7 +6320,8 @@
 "img": "https://media.adeo.com/media/4958517/media.jpg?width=640",
 "why": "Profesional sin escobillas con maletín TStak",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 209.0
 },
 {
 "id": "ta-cec135704",
@@ -6235,7 +6335,8 @@
 "url": "https://www.tiendanimal.es/cecotec-pumba-7200-cleankitty-connect-arenero-inteligente-y-autolimpiable-para-gatos/CEC135704_M.html",
 "img": "https://www.tiendanimal.es/dw/image/v2/BDLQ_PRD/on/demandware.static/-/Sites-kiwoko-master-catalog/default/dw3264d0ad/images/cecotec_7200_cleankitty_arenero_automatico_CEC135704.jpg?sw=275&sh=275&sm=fit",
 "why": "Arenero que se limpia solo y avisa en el móvil",
-"others": {}
+"others": {},
+"prevDay": 199.99
 },
 {
 "id": "ta-mrk000441111",
@@ -6249,7 +6350,8 @@
 "url": "https://www.tiendanimal.es/nobleza---sl04-arenero-autolimpiable-para-gatos-72l-caja-de-arena-automatica-con-control-por-app-triple-desodorizacion-y-sensor-de-seguridad-antiatascos-para-multiples-gatos/MRK000441111_M.html",
 "img": "https://www.tiendanimal.es/dw/image/v2/BDLQ_PRD/on/demandware.static/-/Sites-kiwoko-master-catalog/default/dw62015ad3/images/large/30b98ebd76f94baaaa41a99e0eecc72b.jpg?sw=275&sh=275&sm=fit",
 "why": "Para casas con varios gatos, con triple desodorización",
-"others": {}
+"others": {},
+"prevDay": 220.99
 },
 {
 "id": "bb-6279",
@@ -6263,7 +6365,8 @@
 "url": "https://www.sillasparabebes.com/jane/6279-coche-silla-muum-jane-2024.html",
 "img": "https://www.sillasparabebes.com/52036-home_default/coche-silla-muum-jane-2024.jpg",
 "why": "Carrito dúo de Jané con 150 € de descuento",
-"others": {}
+"others": {},
+"prevDay": 399.0
 },
 {
 "id": "bb-4663",
@@ -6277,7 +6380,8 @@
 "url": "https://www.sillasparabebes.com/ofertas/4663-kidfix-i-size-britax-roemer.html",
 "img": "https://www.sillasparabebes.com/27506-home_default/kidfix-i-size-britax-roemer.jpg",
 "why": "Elevador con respaldo de 3,5 a 12 años, de las más seguras",
-"others": {}
+"others": {},
+"prevDay": 179.95
 },
 {
 "id": "bb-6069",
@@ -6291,7 +6395,8 @@
 "url": "https://www.sillasparabebes.com/ofertas-sillas-coche/6069-besafe-izi-flex-fix-2.html",
 "img": "https://www.sillasparabebes.com/43921-home_default/besafe-izi-flex-fix-2.jpg",
 "why": "Silla escandinava con Isofix para niños mayores, -29%",
-"others": {}
+"others": {},
+"prevDay": 195.0
 },
 {
 "id": "bb-5803",
@@ -6305,7 +6410,8 @@
 "url": "https://www.sillasparabebes.com/britax-romer/5803-dualfix-plus-britax-roemer.html",
 "img": "https://www.sillasparabebes.com/40222-home_default/dualfix-plus-britax-roemer.jpg",
 "why": "Giratoria 360º a contramarcha, 120 € menos",
-"others": {}
+"others": {},
+"prevDay": 289.0
 },
 {
 "id": "bb-7029",
@@ -6319,7 +6425,8 @@
 "url": "https://www.sillasparabebes.com/bugaboo/7029-silla-bugaboo-butterfly-2.html",
 "img": "https://www.sillasparabebes.com/65984-home_default/silla-bugaboo-butterfly-2.jpg",
 "why": "Silla ultracompacta para viajar en avión, con accesorios de regalo",
-"others": {}
+"others": {},
+"prevDay": 499.95
 },
 {
 "id": "bb-1376",
@@ -6333,7 +6440,8 @@
 "url": "https://www.sillasparabebes.com/comer/1376-babycook-solo-beaba.html",
 "img": "https://www.sillasparabebes.com/46259-home_default/babycook-solo-beaba.jpg",
 "why": "Cuece al vapor y tritura papillas en un solo aparato",
-"others": {}
+"others": {},
+"prevDay": 129.0
 },
 {
 "id": "kk-foldee",
@@ -6346,7 +6454,8 @@
 "img": "https://kinderkraft.es/media/catalog/product/b/b/bb5247b8-d914-49f0-8981-1a8bb4e80285.jpg?width=360&height=360&store=es&image-type=small_image",
 "why": "Trona que se pliega del todo; -10% extra con el código BLACK10",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 74.9
 },
 {
 "id": "kk-niteeye",
@@ -6359,7 +6468,8 @@
 "img": "https://kinderkraft.es/media/catalog/product/a/d/adc34f6b-43ad-4c47-85a7-577e288ff2c0.jpg?width=360&height=360&store=es&image-type=small_image",
 "why": "Vigilabebés con cámara y luz nocturna; código BLACK10 del 9 al 30 nov",
 "others": {},
-"was": null
+"was": null,
+"prevDay": 99.9
 },
 {
 "id": "amz-b0fpxg53k5",
@@ -6381,7 +6491,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 21.99
 },
 {
 "id": "amz-b0fpxfhx1b",
@@ -6403,7 +6514,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 20.99
 },
 {
 "id": "amz-b0fpvt6l4x",
@@ -6425,7 +6537,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 55.99
 },
 {
 "id": "amz-b08g4s2yjd",
@@ -6447,7 +6560,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 10.5
 },
 {
 "id": "amz-b0cfvwtssb",
@@ -6469,7 +6583,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 49.9
 },
 {
 "id": "amz-b08wwykvpy",
@@ -6491,7 +6606,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 29.99
 },
 {
 "id": "amz-b08gpktn2b",
@@ -6513,7 +6629,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 25.49
 },
 {
 "id": "amz-b0dwdjpvc8",
@@ -6535,7 +6652,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 29.99
 },
 {
 "id": "amz-b0dwdwk591",
@@ -6557,7 +6675,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 24.99
 },
 {
 "id": "amz-b0fpxf2j99",
@@ -6579,7 +6698,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 29.67
 },
 {
 "id": "amz-b0fpxdnxzh",
@@ -6601,7 +6721,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 42.99
 },
 {
 "id": "amz-b0fpxdlc39",
@@ -6623,7 +6744,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 32.63
 },
 {
 "id": "amz-b0fpxdyk3m",
@@ -6645,7 +6767,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 66.49
 },
 {
 "id": "amz-b0dwdh32m8",
@@ -6667,7 +6790,8 @@
 "src": "brickfact (sin Amazon)",
 "verdict": "best"
 },
-"others": {}
+"others": {},
+"prevDay": 16.55
 },
 {
 "id": "amz-b0cwh3tbgb",
@@ -6683,7 +6807,8 @@
 "img": "https://m.media-amazon.com/images/I/41+L9HD0ayL._SL400_.jpg",
 "why": "−120 € en el gran Technic para adultos",
 "age": "18+",
-"others": {}
+"others": {},
+"prevDay": 329.99
 },
 {
 "id": "amz-b0ggv33fb9",
@@ -6699,7 +6824,8 @@
 "img": "https://m.media-amazon.com/images/I/41quk8LCY5L._SL400_.jpg",
 "why": "−23 % en la novedad Ideas de E.T.",
 "age": "18+",
-"others": {}
+"others": {},
+"prevDay": 99.99
 },
 {
 "id": "amz-b0dwf6vkyb",
@@ -6715,7 +6841,8 @@
 "img": "https://m.media-amazon.com/images/I/41vtLel+qOL._SL400_.jpg",
 "why": "Regalo para adultos, −15 %",
 "age": "18+",
-"others": {}
+"others": {},
+"prevDay": 50.99
 },
 {
 "id": "amz-b0dwf6xwx3",
@@ -6730,7 +6857,8 @@
 "url": "https://www.amazon.es/dp/B0DWF6XWX3",
 "img": "https://m.media-amazon.com/images/I/41PtXPiW5YL._SL400_.jpg",
 "why": "−20 € en la lámpara de Pixar",
-"others": {}
+"others": {},
+"prevDay": 49.99
 },
 {
 "id": "amz-b0fpnfcq24",
@@ -6745,7 +6873,8 @@
 "url": "https://www.amazon.es/dp/B0FPNFCQ24",
 "img": "https://m.media-amazon.com/images/I/410PSniaP6L._SL400_.jpg",
 "why": "Funko a menos de 5 €",
-"others": {}
+"others": {},
+"prevDay": 4.8
 },
 {
 "id": "amz-b08hgkznfw",
@@ -6760,7 +6889,8 @@
 "url": "https://www.amazon.es/dp/B08HGKZNFW",
 "img": "https://m.media-amazon.com/images/I/41gZI9tjl2L._SL400_.jpg",
 "why": "−70 %, Funko a 4,80 €",
-"others": {}
+"others": {},
+"prevDay": 4.8
 },
 {
 "id": "amz-b08hjd3j9s",
@@ -6775,7 +6905,8 @@
 "url": "https://www.amazon.es/dp/B08HJD3J9S",
 "img": "https://m.media-amazon.com/images/I/41X4IRAX2sL._SL400_.jpg",
 "why": "Mitad de precio, lo más pedido este año",
-"others": {}
+"others": {},
+"prevDay": 8.0
 },
 {
 "id": "amz-b07zycnztz",
@@ -6790,7 +6921,8 @@
 "url": "https://www.amazon.es/dp/B07ZYCNZTZ",
 "img": "https://m.media-amazon.com/images/I/41062qUr-YL._SL400_.jpg",
 "why": "Nerf por menos de 7 €",
-"others": {}
+"others": {},
+"prevDay": 6.99
 },
 {
 "id": "amz-b087z9pdcm",
@@ -6805,7 +6937,8 @@
 "url": "https://www.amazon.es/dp/B087Z9PDCM",
 "img": "https://m.media-amazon.com/images/I/51g6nqxxA5L._SL400_.jpg",
 "why": "Recambio a mitad de precio",
-"others": {}
+"others": {},
+"prevDay": 4.99
 },
 {
 "id": "amz-b09q8ck8yx",
@@ -6820,7 +6953,8 @@
 "url": "https://www.amazon.es/dp/B09Q8CK8YX",
 "img": "https://m.media-amazon.com/images/I/41eI+nwF+1L._SL400_.jpg",
 "why": "−42 %, lanzador de tambor",
-"others": {}
+"others": {},
+"prevDay": 7.49
 },
 {
 "id": "amz-b07p5pqn7s",
@@ -6835,7 +6969,8 @@
 "url": "https://www.amazon.es/dp/B07P5PQN7S",
 "img": "https://m.media-amazon.com/images/I/51MX7pf4UmL._SL400_.jpg",
 "why": "−43 % en la caja de pistas",
-"others": {}
+"others": {},
+"prevDay": 32.13
 },
 {
 "id": "amz-b0bn15gcb7",
@@ -6850,7 +6985,8 @@
 "url": "https://www.amazon.es/dp/B0BN15GCB7",
 "img": "https://m.media-amazon.com/images/I/51FOvGYZnTL._SL400_.jpg",
 "why": "−32 % en el T-Rex gigante",
-"others": {}
+"others": {},
+"prevDay": 57.52
 },
 {
 "id": "amz-b01bmw645o",
@@ -6865,7 +7001,8 @@
 "url": "https://www.amazon.es/dp/B01BMW645O",
 "img": "https://m.media-amazon.com/images/I/51IyC7dJyGL._SL400_.jpg",
 "why": "Menos de 1 € por coche",
-"others": {}
+"others": {},
+"prevDay": 18.89
 },
 {
 "id": "amz-b0c34rz84m",
@@ -6880,7 +7017,8 @@
 "url": "https://www.amazon.es/dp/B0C34RZ84M",
 "img": "https://m.media-amazon.com/images/I/51A3Q0Ug+dL._SL400_.jpg",
 "why": "−61 %, de lo mejor de Play-Doh",
-"others": {}
+"others": {},
+"prevDay": 8.99
 },
 {
 "id": "amz-b099zy7xlv",
@@ -6895,7 +7033,8 @@
 "url": "https://www.amazon.es/dp/B099ZY7XLV",
 "img": "https://m.media-amazon.com/images/I/516e2HYl0HL._SL400_.jpg",
 "why": "−42 %",
-"others": {}
+"others": {},
+"prevDay": 14.49
 },
 {
 "id": "amz-b0cp417fbd",
@@ -6910,7 +7049,8 @@
 "url": "https://www.amazon.es/dp/B0CP417FBD",
 "img": "https://m.media-amazon.com/images/I/51oJvAEuiGL._SL400_.jpg",
 "why": "Recarga de plastilina barata",
-"others": {}
+"others": {},
+"prevDay": 7.99
 },
 {
 "id": "amz-b003fw0yzg",
@@ -6927,7 +7067,8 @@
 "img": "https://static.chollometro.com/threads/raw/3DxDG/2026416_1/re/300x300/qt/60/2026416_1.jpg",
 "why": "Más barato que en los Días Prime (68 €)",
 "src": "Chollómetro",
-"others": {}
+"others": {},
+"prevDay": 62.49
 },
 {
 "id": "amz-b09bw4htm9",
@@ -6943,7 +7084,8 @@
 "url": "https://www.amazon.es/dp/B09BW4HTM9",
 "img": "https://cdn.ofertitas.es/wp-content/uploads/2026/10/barbie-dreamcamper-set-acampada.webp",
 "why": "−53 %; en octubre estaba a 66,48 €",
-"others": {}
+"others": {},
+"prevDay": 62.99
 },
 {
 "id": "eci-a55685184",
@@ -6956,7 +7098,8 @@
 "url": "https://www.elcorteingles.es/electronica/A55685184-tv-qled-165-cm-65-haier-h65q80fux-uhd-4k-peana-central-smart-google-tv-hdr10-dolby-atmos-and-vision-gaming-120hz/",
 "img": "https://i.blogs.es/3c46a2/blob/original.webp",
 "others": {},
-"why": "Más de un 55 % de descuento en una 65\" QLED 120 Hz."
+"why": "Más de un 55 % de descuento en una 65\" QLED 120 Hz.",
+"prevDay": 415.36
 },
 {
 "id": "eci-samrgb55",
@@ -6968,7 +7111,8 @@
 "min": false,
 "url": "https://www.elcorteingles.es/electronica/A200834655-8806099113612-pr-tv-micro-rgb-138cm-55-samsung-tmr55r85hauxxc-4k-smart-tv-con-vision-ai-y-football-mode-negro/",
 "img": "https://i.blogs.es/b3520c/blob/original.webp",
-"others": {}
+"others": {},
+"prevDay": 799
 },
 {
 "id": "eci-lg100qned",
@@ -6980,7 +7124,8 @@
 "min": false,
 "url": "https://www.elcorteingles.es/electronica/A55484373-8806096421659-pr-tv-qned-evo-miniled-ai-254cm-100-lg-100qned86a6-4k-smart-tv-negro/",
 "img": "https://i.blogs.es/a6d663/blob/original.webp",
-"others": {}
+"others": {},
+"prevDay": 1999
 },
 {
 "id": "eci-tclq75he",
@@ -6992,7 +7137,8 @@
 "min": false,
 "url": "https://www.elcorteingles.es/electronica/A56087676-8720568106045-pr-barra-de-sonido-tcl-q75he-512-canales-titanio/",
 "img": "https://i.blogs.es/b5f357/blob/original.webp",
-"others": {}
+"others": {},
+"prevDay": 299
 },
 {
 "id": "eci-sam98q7f",
@@ -7004,7 +7150,8 @@
 "min": false,
 "url": "https://www.elcorteingles.es/electronica/A57188183-8806097895534-pr-tv-qled-2489cm-98-samsung-tq98q7f-uhd-4k-upscaling-smart-tv-con-inteligencia-artificial-negro/",
 "img": "https://i.blogs.es/76c7e3/blob/original.webp",
-"others": {}
+"others": {},
+"prevDay": 1799
 },
 {
 "id": "eci-tcl65c8l",
@@ -7016,7 +7163,8 @@
 "min": false,
 "url": "https://www.elcorteingles.es/electronica/A200946899-5901292529901-pr-tv-sqd-miniled-164cm-65-tcl-65c8l-4k-hdr-5000-nits-google-tv-144hz-dolby-vision-and-atmos-audio-by-bang-and-olufsen-acero-oscuro/",
 "img": "https://i.blogs.es/17d055/41gfktbf8xl._sl500_/original.webp",
-"others": {}
+"others": {},
+"prevDay": 1099
 },
 {
 "id": "eci-samqn73-65",
@@ -7028,7 +7176,8 @@
 "min": false,
 "url": "https://www.elcorteingles.es/electronica/A200860158-8806099120955-pr-tv-neo-qled-mini-led-163cm-65-samsung-tq65qn73hauxxc-4k-smart-tv-con-vision-ai-football-mode-negro/",
 "img": "https://i.blogs.es/e04b5f/smart-tv-samsung-tq65qn73hauxxc/450_1000.jpeg",
-"others": {}
+"others": {},
+"prevDay": 649
 },
 {
 "id": "mmc-koenic-mw",
@@ -7040,7 +7189,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/microondas-con-grill-koenic-kmwg-2322-db-900-w-5-potencias-8-programas-automaticos-23-l-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b1d5e24a-b535-4ef7-bcd3-61fbbdc91864_large.png?v=1715247611",
-"others": {}
+"others": {},
+"prevDay": 45.99
 },
 {
 "id": "mmc-airpodspro3",
@@ -7052,7 +7202,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/apple-airpods-pro-3-2025-3a-gen-inalambricos-cancelacion-de-ruido-medicion-frecuencia-cardiaca-live-translation-chip-h2-usb-c-blanco",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_93993618-55ea-45e2-9c12-08e1e30a4c6d_large.png?v=1757493656",
-"others": {}
+"others": {},
+"prevDay": 189
 },
 {
 "id": "mmc-rn15pro",
@@ -7064,7 +7215,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/movil-xiaomi-redmi-note-15-pro-5g-negro-256-gb-8-gb-ram-6-83-crystalres-amoled-mediatek-dimensity-7400-ultra-6500-mah",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9e1b39d2-4a92-4b52-86f0-cbaeb7f953ac_large.png?v=1768480506",
-"others": {}
+"others": {},
+"prevDay": 275
 },
 {
 "id": "mmc-xiaomi32fpro",
@@ -7076,7 +7228,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/tv-qled-32-xiaomi-32-f-pro-hd-ready-arm-cortex-a55-smart-tv-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_78debfaa-b5af-42bb-ac3e-dd129d22f6ea_large.png?v=1790694613",
-"others": {}
+"others": {},
+"prevDay": 119
 },
 {
 "id": "mmc-xiaomi55apro",
@@ -7088,7 +7241,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/tv-qled-55-xiaomi-55-a-pro-qled-4k-quad-cortex-a55-smart-tv-google-tv-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_dd58888b-a08d-4adf-b597-bdbf5ccb3b95_large.png?v=1746616594",
-"others": {}
+"others": {},
+"prevDay": 299
 },
 {
 "id": "mmc-redmipad2",
@@ -7100,7 +7254,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/tablet-xiaomi-redmi-pad-2-hyperos-9-7-2k-crystal-clear-4gb-ram-64gb-gran-bateria-de-7600-mah-graphite-gray",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_70195e9f-4852-46ff-9542-d8af7b7a18ca_large.png?v=1782923649",
-"others": {}
+"others": {},
+"prevDay": 139
 },
 {
 "id": "mmc-kindle2026",
@@ -7112,7 +7267,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/ebook-amazon-kindle-2026-16-gb-ultima-generacion-pantalla-6-16gb-wifi-5-fino-ligero-y-rapido-grafito",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c0b78959-f362-41a2-84f9-5bf62fa5b191_large.png?v=1790940233",
-"others": {}
+"others": {},
+"prevDay": 114
 },
 {
 "id": "mmc-g923",
@@ -7124,7 +7280,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/volante-logitech-g-g923-palanca-de-cambios-force-shifter-force-feedback-trueforce-ps-4-5-pc-pedales-personalizables-usb-6-velocidades-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_fd2d28bb-4823-43fa-9f90-043a6dd135fe_large.png?v=1726559545",
-"others": {}
+"others": {},
+"prevDay": 209
 },
 {
 "id": "mmc-watchse3",
@@ -7136,7 +7293,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/apple-watch-se-3-2026-gps-40-mm-caja-de-aluminio-blanco-estrella-correa-deportiva-arena-talla-s-m-siri-ai",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_34370796-58b7-46b0-9158-7c13c0dbdad9_large.png?v=1789211649",
-"others": {}
+"others": {},
+"prevDay": 209
 },
 {
 "id": "mmc-congam10",
@@ -7148,7 +7306,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/robot-friegasuelos-cecotec-conga-m10-120-m2-sin-enredos-doble-cepillo-lateral-plan-de-limpieza-personalizado-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_bbf7f7ca-14b3-4fae-816c-0b1ee1168223_large.png?v=1760015290",
-"others": {}
+"others": {},
+"prevDay": 64.99
 },
 {
 "id": "mmc-ideatabplus",
@@ -7160,7 +7319,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/tablet-lenovo-idea-tab-plus-wi-fi-12-1-wqxga-8gb-ram-256gb-incluye-teclado-y-lapiz-no-incluye-cargador-gris",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_cf2a0113-166d-47fb-8dfd-50da0575b8bd_large.png?v=1782923672",
-"others": {}
+"others": {},
+"prevDay": 299
 },
 {
 "id": "mmc-et2915",
@@ -7172,7 +7332,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/impresora-multifuncion-tinta-epson-ecotank-et-2915-impresion-escaneo-copia-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1de343e9-8c09-4a6b-8e4d-b0a8aac6e9fd_large.png?v=1790694669",
-"others": {}
+"others": {},
+"prevDay": 159
 },
 {
 "id": "mmc-tapotc72",
@@ -7184,7 +7345,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/camara-vigilancia-ip-tp-link-tapo-tc72-2k-qhd-vision-nocturna-deteccion-inteligente-ia-360o",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_67b6f7f9-8af3-45a9-8c63-6e42198252cc_large.png?v=1718382971",
-"others": {}
+"others": {},
+"prevDay": 27
 },
 {
 "id": "mmc-dreamel10s",
@@ -7196,7 +7358,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/robot-friegasuelos-dreame-l10s-ultra-gen-2-75w-base-autovaciado-300-ml-deposito-de-polvo-succion-10000-pa-blanco",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_53004af4-bd3e-4d7e-a6f4-5ae060d3babf_large.png?v=1763378111",
-"others": {}
+"others": {},
+"prevDay": 249
 },
 {
 "id": "mmc-iphone17-256",
@@ -7208,7 +7371,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/apple-iphone-17-blanco-256-gb-5g-6-3-oled-super-retina-xdr-chip-a19-ios",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9fa13356-e680-49bf-8356-1c010e4dc1c7_large.png?v=1757952398",
-"others": {}
+"others": {},
+"prevDay": 899
 },
 {
 "id": "mmc-a57",
@@ -7220,7 +7384,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/movil-samsung-galaxy-a57-azul-oscuro-256-gb-8-gb-ram-6-7-fhd-exynos-1680-5000-mah-android-16",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_78a75728-49f0-4c6d-999d-e9c8083ce6b3_large.png?v=1774451129",
-"others": {}
+"others": {},
+"prevDay": 439
 },
 {
 "id": "mmc-magnificas",
@@ -7232,7 +7397,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-de-longhi-magnifica-s-ecam-22-113-b-1450-w-1-8-l-250-g-13-programas-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_72230ec6-2902-4864-8cb0-3adc977ac475_large.png?v=1656500986",
-"others": {}
+"others": {},
+"prevDay": 239
 },
 {
 "id": "mmc-magnificastart",
@@ -7244,7 +7410,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-delonghi-magnifica-start-ecam220-21-bg-molinillo-integrado-15-bar-1450-w-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_b3684562-8d15-4cc2-805c-b7138d588183_large.png?v=1683727901",
-"others": {}
+"others": {},
+"prevDay": 279
 },
 {
 "id": "mmc-taba11p",
@@ -7256,7 +7423,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-gris",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0c0453fd-cef7-46cc-88ee-cdd312c56a7d_large.png?v=1768825124",
-"others": {}
+"others": {},
+"prevDay": 219
 },
 {
 "id": "mmc-dualsense",
@@ -7268,7 +7436,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/mando-sony-dualsense-v2-para-playstation-5-bluetooth-retroalimentacion-haptica-blanco",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b0706582-d519-41fb-b666-0af51fc6cd9d_1_large.png?v=1748443452",
-"others": {}
+"others": {},
+"prevDay": 52.9
 },
 {
 "id": "mmc-bombastik6000",
@@ -7280,7 +7449,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/freidora-de-aire-cecotec-cecofry-bombastik-6000-1700-w-6-l-80-200-oc-12-modos-temporizador-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_7d1dcf1d-899e-47aa-81d8-4f7717a27024_large.png?v=1684421149",
-"others": {}
+"others": {},
+"prevDay": 44.99
 },
 {
 "id": "mmc-pencilusbc",
@@ -7292,7 +7462,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/apple-pencil-usb-c-bluetooth-r-se-acopla-y-enlaza-magneticamente-carga-por-usb-c-blanco",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7f15c696-ec76-4127-a161-5ff7964bb533_large.png?v=1700496712",
-"others": {}
+"others": {},
+"prevDay": 75
 },
 {
 "id": "mmc-s26u-512",
@@ -7304,7 +7475,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/movil-samsung-galaxy-s26-ultra-negro-512-gb-12-gb-ram-6-9-qhd-qualcomm-snapdragon-8-elite-gen-5-5000-mah-android-16",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9b2f419c-3f9c-4c66-a140-20d8256e56f5_large.png?v=1772046085",
-"others": {}
+"others": {},
+"prevDay": 1149
 },
 {
 "id": "mmc-book4edge",
@@ -7316,7 +7488,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/portatil-samsung-galaxy-book4-edge-copilot-pc-15-6-fhd-snapdragon-r-x126100-45-tops-16-gb-ram-512-gb-ssd-adreno-full-ia-w11h-sin-cargador",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_ca7206d1-dd46-4e5e-aa03-b7cb2a9dea71_large.png?v=1782923649",
-"others": {}
+"others": {},
+"prevDay": 549
 },
 {
 "id": "mmc-s25-128",
@@ -7328,7 +7501,8 @@
 "min": false,
 "url": "https://canarias.mediamarkt.es/products/movil-samsung-galaxy-s25-navy-128-gb-12-gb-ram-6-2-fhd-con-ia-snapdragon-8-4000-mah-android-15",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_666f2d9b-a11a-4354-b1f4-f289acfaefb1_large.png?v=1737571412",
-"others": {}
+"others": {},
+"prevDay": 519
 },
 {
 "id": "nk-45196",
@@ -7342,7 +7516,8 @@
 "img": "https://www.jugueteriasnikki.es/7551-home_default/anton-zampon.jpg",
 "others": {},
 "sub": "Juegos de mesa",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 29.95
 },
 {
 "id": "nk-41805",
@@ -7356,7 +7531,8 @@
 "img": "https://www.jugueteriasnikki.es/4567-home_default/apestosillo.jpg",
 "others": {},
 "sub": "Juegos de mesa",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 19.95
 },
 {
 "id": "nk-32972",
@@ -7370,7 +7546,8 @@
 "img": "https://www.jugueteriasnikki.es/1024-home_default/cocodrilo-sacamuelas.jpg",
 "others": {},
 "sub": "Juegos de mesa",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 19.95
 },
 {
 "id": "nk-35097",
@@ -7385,7 +7562,8 @@
 "others": {},
 "sub": "Juegos de mesa",
 "age": "+6",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 16.95
 },
 {
 "id": "nk-41564",
@@ -7399,7 +7577,8 @@
 "img": "https://www.jugueteriasnikki.es/9059-home_default/mike-el-ahorcado.jpg",
 "others": {},
 "sub": "Juegos de mesa",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 27.95
 },
 {
 "id": "nk-42332",
@@ -7414,7 +7593,8 @@
 "others": {},
 "sub": "Otros",
 "age": "+3",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 71.95
 },
 {
 "id": "nk-38817",
@@ -7428,7 +7608,8 @@
 "img": "https://www.jugueteriasnikki.es/753-home_default/nancy-aitana-alphahouse.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 14.95
 },
 {
 "id": "nk-35927",
@@ -7442,7 +7623,8 @@
 "img": "https://www.jugueteriasnikki.es/2471-home_default/nancy-super-melena.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 39.95
 },
 {
 "id": "nk-42794",
@@ -7456,7 +7638,8 @@
 "img": "https://www.jugueteriasnikki.es/4906-home_default/peppa-pig-nueva-casa-de-la-familia.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 34.95
 },
 {
 "id": "nk-41553",
@@ -7471,7 +7654,8 @@
 "others": {},
 "sub": "Otros",
 "age": "+5",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 36.95
 },
 {
 "id": "nk-43711",
@@ -7486,7 +7670,8 @@
 "others": {},
 "sub": "Otros",
 "age": "+8",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 21.95
 },
 {
 "id": "nk-41484",
@@ -7500,7 +7685,8 @@
 "img": "https://www.jugueteriasnikki.es/2229-home_default/vtech-kidisecrets-taquilla-secreta-negra.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 44.95
 },
 {
 "id": "nk-41349",
@@ -7515,7 +7701,8 @@
 "others": {},
 "sub": "Otros",
 "age": "+2",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 36.95
 },
 {
 "id": "nk-45195",
@@ -7529,7 +7716,8 @@
 "img": "https://www.jugueteriasnikki.es/7549-home_default/animagic-waggles-mi-perrito-salchicha.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 36.95
 },
 {
 "id": "nk-42369",
@@ -7544,7 +7732,8 @@
 "others": {},
 "sub": "Otros",
 "age": "+4",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 14.95
 },
 {
 "id": "nk-16190",
@@ -7558,7 +7747,8 @@
 "img": "https://www.jugueteriasnikki.es/5320-home_default/educa-touch-junior-cuenta-cuentos.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 22.95
 },
 {
 "id": "nk-42435",
@@ -7573,7 +7763,8 @@
 "others": {},
 "sub": "Otros",
 "age": "+3",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 11.95
 },
 {
 "id": "nk-37880",
@@ -7587,7 +7778,8 @@
 "img": "https://www.jugueteriasnikki.es/8080-home_default/aprender-es-divertido-las-horas.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 11.95
 },
 {
 "id": "nk-45279",
@@ -7601,7 +7793,367 @@
 "img": "https://www.jugueteriasnikki.es/8081-home_default/aprender-es-divertido-el-cuerpo-humano.jpg",
 "others": {},
 "sub": "Otros",
-"wasSrc": "precio anterior en Nikki"
+"wasSrc": "precio anterior en Nikki",
+"prevDay": 11.95
+},
+{
+"id": "dru-1617018",
+"name": "Estuche Scalpers The Club EDP hombre",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 44.5,
+"was": 89.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-the-club-scalpers-eau-parfum-hombre",
+"img": "https://www.druni.es/media/catalog/product/1/6/1617018.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "-50 %, oferta 'solo hoy' en Druni.",
+"others": {},
+"min": false
+},
+{
+"id": "dru-1619049",
+"name": "Estuche Rochas Man EDT hombre",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 39.95,
+"was": 107.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/rochas-man-estuche-eau-toilette-hombre",
+"img": "https://www.druni.es/media/catalog/product/1/6/1619049.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "-63 % sobre su precio habitual.",
+"others": {},
+"min": false
+},
+{
+"id": "dru-1603011",
+"name": "Estuche Hugo Boss Bottled EDT hombre",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 59.95,
+"was": 142.8,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/boss-bottled-estuche-hugo-boss-eau-toilette-hombre",
+"img": "https://www.druni.es/media/catalog/product/1/6/1603011.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "Estuche a menos de la mitad.",
+"others": {},
+"min": false
+},
+{
+"id": "dru-1603010",
+"name": "Estuche Hugo Man EDT hombre",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 54.95,
+"was": 119.7,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/hugo-man-estuche-hugo-boss-eau-toilette-hombre",
+"img": "https://www.druni.es/media/catalog/product/1/6/1603010.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "dru-5321",
+"name": "Clinique Moisture Surge 100H gel-crema",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 18.6,
+"was": 31.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/moisture-surge-100h-auto-replenishing-hydrator-clinique-gel-crema-hidratante-larga-duracion",
+"img": "https://www.druni.es/media/catalog/product/5/3/5321.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "Desde 18,60 € según tamaño.",
+"others": {},
+"min": false
+},
+{
+"id": "dru-1796003",
+"name": "Elizabeth Arden Visible Difference crema",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 14.95,
+"was": 52.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/visible-difference-refining-complex-elizabeth-arden-crema-hidratante-rostro",
+"img": "https://www.druni.es/media/catalog/product/1/7/1796003.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "-71 %: la crema clásica a menos de 15 €.",
+"others": {},
+"min": false
+},
+{
+"id": "dru-367",
+"name": "Lancôme Tonique Confort tónico",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 24.95,
+"was": 47.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/tonique-confort-lancome-tonico-facial-reconfortante",
+"img": "https://www.druni.es/media/catalog/product/3/6/367.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"why": "Desde 24,95 € según tamaño.",
+"others": {},
+"min": false
+},
+{
+"id": "dru-3787629",
+"name": "Clinique set maquillaje High Impact",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 19.95,
+"was": 34.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-black-honey-clinique",
+"img": "https://www.druni.es/media/catalog/product/3/7/3787629.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "dru-3731518",
+"name": "Clinique set máscara High Impact Hi-Fi",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 23.95,
+"was": 38.5,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-high-fi-volume-impact-black-clinique",
+"img": "https://www.druni.es/media/catalog/product/3/7/3731518.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "dru-3729472",
+"name": "Urban Decay All Nighter Duo fijador",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 39.95,
+"was": 67.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/cofre-more-for-you-urban-decay-spray-fijador-maquillaje",
+"img": "https://www.druni.es/media/catalog/product/3/7/3729472.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "dru-2729047",
+"name": "Estuche Clarins Lisse Minute prebase",
+"cat": "Cuidado personal",
+"store": "Druni",
+"price": 22.95,
+"was": 36.0,
+"wasSrc": "precio habitual Druni",
+"url": "https://www.druni.es/estuche-lisse-minute-clarins-prebase-maquillaje-hidratante",
+"img": "https://www.druni.es/media/catalog/product/2/7/2729047.jpg?quality=80&fit=bounds&height=408&width=408&canvas=408:408",
+"others": {},
+"min": false
+},
+{
+"id": "prm-112376",
+"name": "YSL Y Eau de Parfum hombre",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 50.84,
+"was": 113.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/yves-saint-laurent-y-eau-de-parfum-hombre-112376.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3614272050341_1_4b9f.jpg",
+"why": "-55 % en el Black Friday de Primor.",
+"others": {},
+"min": false
+},
+{
+"id": "prm-151388",
+"name": "YSL Skin Affair Soft Glow Cushion",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 29.65,
+"was": 60.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/yves-saint-laurent-skin-affair-soft-glow-cushion-foundation-151388.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/4/9/4936968888328_1_95f3.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "prm-138664",
+"name": "Estée Lauder Double Wear base maquillaje",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 27.7,
+"was": 56.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/estee-lauder-double-wear-stay-in-place-base-de-maquillaje-mate-larga-duracion-spf10-138664.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/887167495074_1_a5d5.jpg",
+"why": "La base Double Wear a mitad de precio.",
+"others": {},
+"min": false
+},
+{
+"id": "prm-104283",
+"name": "Clarins Double Serum",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 52.94,
+"was": 106.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/clarins-double-serum-104283.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057202445_1_588d.jpg",
+"why": "-50 % en el sérum estrella de Clarins.",
+"others": {},
+"min": false
+},
+{
+"id": "prm-154276",
+"name": "Lancôme set Hydra Zen crema en gel",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 33.66,
+"was": 65.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/lancome-set-de-regalo-hydra-zen-crema-en-gel-154276.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3614274983753_1_39da.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "prm-111918",
+"name": "Loewe Aire Sutileza EDT",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 58.94,
+"was": 105.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/loewe-aire-sutileza-edt-111918.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/4/A/4AF06990_1_dda2.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "prm-149915",
+"name": "Jean Paul Gaultier La Favorite EDP",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 45.95,
+"was": 78.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/jean-paul-gaultier-la-favorite-eau-de-parfum-149915.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/4/8410225597780_1_b002.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "prm-106309",
+"name": "Kiehl's contorno de ojos con aguacate",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 23.39,
+"was": 36.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/kiehl-s-contorno-de-ojos-con-aguacate-creamy-eye-treatment-with-avocado-106309.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/7/3700194714413_1_b0b7.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "prm-143104",
+"name": "Kérastase Genesis sérum anticaída",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 39.94,
+"was": 54.9,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/kerastase-serum-fortifiant-antichute-genesis-anticaida-y-fortalecedor-para-cabellos-debilitados-143104.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/4/3474636858002_1_632f.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "prm-39738",
+"name": "Maybelline Sky High máscara waterproof",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 7.94,
+"was": 11.5,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/maybelline-new-york-mascara-de-pestanas-waterproof-lash-sensational-sky-high-39738.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/0/0000030167223_1_d69b.jpg",
+"others": {},
+"min": false
+},
+{
+"id": "amz-b0d37h1t6h",
+"name": "Sonos Ace auriculares con cancelación de ruido",
+"cat": "TV y audio",
+"store": "Amazon",
+"price": 199,
+"was": 449,
+"wasSrc": "PVP",
+"url": "https://www.amazon.es/dp/B0D37H1T6H",
+"img": "https://i.blogs.es/55de1b/auriculares-inalambricos-sonos-ace/450_1000.webp",
+"others": {
+"El Corte Inglés": 199,
+"MediaMarkt": 239
+},
+"why": "Mismo precio en El Corte Inglés; -56 %.",
+"min": false
+},
+{
+"id": "amz-b08cbjcq39",
+"name": "Cafetera Philips Serie 5400 LatteGo",
+"cat": "Cocina",
+"store": "Amazon",
+"price": 415.06,
+"was": 669.99,
+"wasSrc": "PVP",
+"url": "https://www.amazon.es/dp/B08CBJCQ39",
+"img": "https://i.blogs.es/0d7157/cafetera-superautomatica-philips-serie-5400/450_1000.webp",
+"others": {
+"PcComponentes": 557.54
+},
+"min": false
+},
+{
+"id": "amz-b0f9wrkns3",
+"name": "TV TCL 65Q8C 65\" QD-Mini LED 4K",
+"cat": "TV y audio",
+"store": "Amazon",
+"price": 999,
+"was": 1599,
+"wasSrc": "PVP",
+"url": "https://www.amazon.es/dp/B0F9WRKNS3",
+"img": "https://i.blogs.es/4b51bb/smart-tv-tcl-65q8c/450_1000.webp",
+"others": {},
+"min": false
+},
+{
+"id": "amz-b0h4h1td7f",
+"name": "Xiaomi Redmi Note 17 Pro 5G 8/512 GB",
+"cat": "Móviles",
+"store": "Amazon",
+"price": 349.9,
+"was": 549.9,
+"wasSrc": "PVP",
+"url": "https://www.amazon.es/dp/B0H4H1TD7F",
+"img": "https://i.blogs.es/9b7265/smartphone-xiaomi-redmi-note-17-pro/450_1000.webp",
+"others": {
+"PcComponentes": 370.91,
+"MediaMarkt": 396.99
+},
+"min": false
+},
+{
+"id": "amz-b0djgcx6q2",
+"name": "Fire TV Stick HD (última generación)",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 23.99,
+"was": 64.99,
+"wasSrc": "PVP",
+"url": "https://www.amazon.es/dp/B0DJGCX6Q2",
+"img": "https://i.blogs.es/23604f/dispositivo-multimedia-amazon-fire-tv-stick-hd/450_1000.webp",
+"others": {
+"MediaMarkt": 27.9
+},
+"why": "-63 %, ofertas de dispositivos Amazon de la Semana Black Friday.",
+"min": false
 }
 ]
 }
