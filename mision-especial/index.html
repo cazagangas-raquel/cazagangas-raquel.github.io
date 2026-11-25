@@ -12,7 +12,7 @@
    PICTURE: escenas pixel art con planos y zooms; los dos chibis siempre protagonistas
    COLOUR and TYPE: rosa frambuesa de Vane, verde de Cristo, oro de logro sobre noche; Pixelify Sans para el juego, Nunito para leer
    LAYOUT: animación arriba, panel de diálogo fijo abajo; al final, carta de misión centrada */
-:root{color-scheme:dark;--rasp:#c2185b;--gold:#ffd23f;--ink:#2a1830;--night:#070b24;--dh:clamp(124px,20vh,164px)}
+:root{--u:1;color-scheme:dark;--rasp:#c2185b;--gold:#ffd23f;--ink:#2a1830;--night:#070b24;--dh:clamp(124px,20vh,164px)}
 @media (max-height:520px){:root{--dh:112px}}
 *{box-sizing:border-box;min-width:0}
 html,body{margin:0;height:100%;background:#000;overflow:hidden;color:#fff;font-family:'Pixelify Sans',ui-monospace,monospace;-webkit-tap-highlight-color:transparent;user-select:none;-webkit-user-select:none}
@@ -221,6 +221,29 @@ canvas#cv{display:block;image-rendering:pixelated;image-rendering:crisp-edges}
   #carta .hd img{width:36px;height:36px}#carta .hd b{font-size:26px}
   #carta .tx{font-size:18px;min-height:0}#carta .pd{font-size:16px;margin-top:4px}#carta .sg{font-size:17px;margin-top:2px}
 }
+
+/* Escala de interfaz para teles y pantallas grandes */
+#pwrap,#dbody,#banner>div,#lvl>div,#menu>*,#selc>small,#selc>b,#selc>.st,.toast,#carta .paper,#pola .p,#invite .card,#invite .env,#start>div{zoom:var(--u)}
+#panel{padding:calc(12px*var(--u)) max(16px,env(safe-area-inset-right)) calc(10px*var(--u) + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));gap:calc(14px*var(--u))}
+#menu{width:min(calc(360px*var(--u)),calc(100% - 32px));padding:calc(18px*var(--u))}
+#selc{width:min(calc(360px*var(--u)),calc(100% - 24px));padding:calc(12px*var(--u)) calc(14px*var(--u))}
+#toasts{width:min(calc(400px*var(--u)),calc(100% - 24px))}
+#hud{transform:translateX(-50%) scale(var(--u));transform-origin:top center}
+.ctl{transform:scale(var(--u))}
+#mute,#fs{transform-origin:top left}#skip{transform-origin:top right}
+#fs{left:calc(8px + 48px*var(--u))}
+#mont .mp span{font-size:calc(17px*var(--u))}
+#pause{font-size:calc(clamp(34px,10vw,60px)*var(--u))}
+#cue{zoom:var(--u)}
+@media (orientation:landscape) and (min-height:521px){
+  #selc{left:auto;right:calc(14px*var(--u));bottom:auto;top:50%;transform:translateY(-50%);width:min(calc(320px*var(--u)),46%);animation:none}
+  #toasts{bottom:calc(10px*var(--u));left:auto;right:calc(12px*var(--u));transform:none;width:min(calc(360px*var(--u)),48%)}
+  #mont .mp{width:min(30vw,calc((100vh - var(--dh) - 90px)*1.15))}
+  #mont .mp.big{width:min(38vw,calc((100vh - var(--dh) - 80px)*1.22))}
+  #mont .mp img,#pola img{aspect-ratio:4/3}
+  #lvl{padding-top:5%}
+  #menu{top:50%}
+}
 </style>
 </head>
 <body>
@@ -307,7 +330,11 @@ window.FOTOS={"pesca": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDA
 const $=s=>document.querySelector(s);
 const cv=$('#cv');let ctx=cv.getContext('2d');
 let H=200,W=320,VH=200;const stage=$('#stage');
-function resize(){const iw=innerWidth,ih=innerHeight,land=ih<=520&&iw>ih,base=land?84:Math.max(124,Math.min(164,ih*.2));let dh=base;if(iw<ih){const sh=Math.min(ih-base,iw*200/128);dh=Math.max(base,ih-sh)}document.documentElement.style.setProperty('--dh',Math.round(dh)+'px');const r=stage.getBoundingClientRect();
+let UI=1;
+function resize(){const iw=innerWidth,ih=innerHeight,land=iw>ih*1.15,small=ih<=520;
+  UI=land&&!small?Math.max(1,Math.min(2.4,ih/560)):1;document.documentElement.style.setProperty('--u',UI.toFixed(3));
+  const base=land?(small?84:Math.round(112*UI)):Math.max(124,Math.min(164,ih*.2));let dh=base;if(iw<ih){const sh=Math.min(ih-base,iw*200/128);dh=Math.max(base,ih-sh)}document.documentElement.style.setProperty('--dh',Math.round(dh)+'px');
+  const r=stage.getBoundingClientRect();
   H=200;if(land){W=260;VH=Math.max(56,Math.min(200,Math.round(W*r.height/r.width)))}else{W=Math.round(Math.max(92,Math.min(260,H*r.width/r.height)));VH=H}
   cv.width=W;cv.height=VH;const sc=Math.min(r.width/W,r.height/VH);cv.style.width=Math.round(W*sc)+'px';cv.style.height=Math.round(VH*sc)+'px';ctx.imageSmoothingEnabled=false}
 addEventListener('resize',resize);resize();
