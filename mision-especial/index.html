@@ -838,10 +838,18 @@ function letter(c,name,text,pd){const el=$('#carta');el.style.setProperty('--c',
   let i=0;clearInterval(cartaT);cartaT=setInterval(()=>{i++;$('#ctx').textContent=text.slice(0,i);if(i%3===0)SFX.pen();if(i>=text.length){clearInterval(cartaT);setTimeout(()=>{$('#cpd').classList.add('on');SFX.blip('n')},500);setTimeout(()=>$('#csg').classList.add('on'),1300)}},34)}
 S.cartas={fy:()=>H/2,dur:31,next:'ask',
   init(){play('famBox');famOut();mont.style.display='none';mont.innerHTML='';hideDlg()},
-  ev:[[.6,()=>letter(RA,'Para Raquel','Gracias por estar siempre, en cada momento en que te hemos necesitado. Has sido hermana, amiga y, muchas veces, casi madre. Ahora queremos sumarte un título más: madrina.','(Tranquila: este cargo es gratis. Ni 50 céntimos al mes.)')],
-      [15.4,()=>letter(ME,'Para Melchor','Gracias por estar siempre y por no decir nunca que no cuando hace falta una mano. Sabemos que juraste no volver a ser padrino de nada… pero esta es nuestra venganza por hacernos padrinos de Ares.','(Tranquilo: la ceremonia dura menos que una de tus siestas.)')],
+  ev:[[.6,()=>letter(RA,'Para Raquel','Gracias por estar siempre, en cada momento en que te hemos necesitado. Has sido hermana, amiga y, muchas veces, casi madre. Por eso hoy tenemos algo muy importante que pediros…','(Y sí: seguimos riéndonos con lo de los 50 céntimos.)')],
+      [15.4,()=>letter(ME,'Para Melchor','Gracias por estar siempre y por no decir nunca que no cuando hace falta una mano. Así que esperamos que esta vez tampoco digas que no…','(Si te has dormido leyendo, despierta: ahora viene lo importante.)')],
       [30.4,()=>show('#carta',0,'grid')]],
   draw(t){bands(['#1a1230','#21173a','#281c44']);stars(t,.7);for(let k=0;k<6;k++){const x=(k*53+20)%W,y=H-20-Math.round(Math.sin(t*1.3+k)*4);ctx.globalAlpha=.25+.15*Math.sin(t*5+k);ctx.fillStyle='#ffd27a';ctx.fillRect(x-3,y-3,6,6);ctx.globalAlpha=1;ctx.fillStyle='#fff6c2';ctx.fillRect(x,y,1,2)}}};
+
+/* --- Cartas secretas (solo tras el SÍ) --- */
+S.secreta={fy:()=>H/2,dur:24,next:'invite',
+  init(){hideDlg();menu.style.display='none';toast('Logro desbloqueado','Cartas secretas','+1');SFX.achieve()},
+  ev:[[1,()=>letter(RA,'Para la madrina','Hermana, amiga, casi madre… y desde hoy, también madrina. Gracias por decir que sí (sabíamos que no podías decir que no).','(Tranquila: este cargo es gratis. Ni 50 céntimos al mes.)')],
+      [12,()=>letter(ME,'Para el padrino','Sabemos que juraste no volver a ser padrino de nada… pero esta es nuestra venganza por hacernos padrinos de Ares.','(Tranquilo: la ceremonia dura menos que una de tus siestas.)')],
+      [23.4,()=>show('#carta',0,'grid')]],
+  draw(t){S.cartas.draw(t);if(R()<.04)confetti(6)}};
 
 /* --- La pregunta --- */
 S.ask={iris:1,fy:()=>H-58,
@@ -887,7 +895,7 @@ function accept(){if(!menuOn)return;menuOn=false;yes.classList.add('press');SFX.
   later(12.6,()=>{S.ask.arras=ct;SFX.sparkle();SFX.coin();say('v','Nefali: tú serás el guardián de la jarra de la ceremonia.')});
   later(15.2,()=>{toast('Misión desbloqueada','Nefali, guardián de la jarra','+∞');burst(S.ask._nx||W/2,H-60,30);say('f','Bro… es la misión más importante de mi vida, bro.')});
   later(18.2,()=>{hideDlg();banner('¡EQUIPO COMPLETO!','Listos para el nivel final');confetti(60);SFX.clear()});
-  later(21.6,()=>go('invite'))}
+  later(21.6,()=>go('secreta'))}
 yes.addEventListener('click',accept);
 no.addEventListener('pointerenter',()=>menuOn&&dodge());no.addEventListener('click',e=>{e.preventDefault();if(!menuOn)return;dodge();sel(no);no.disabled=true;say('f','Bro, ese botón también dice que sí.');setTimeout(accept,900)});
 addEventListener('keydown',e=>{if(menuOn&&(e.key==='Enter'||e.key===' ')){e.preventDefault();accept()}});
