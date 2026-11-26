@@ -698,6 +698,38 @@ S.select={dur:28.5,next:'i_r1',
 intro('i_r1','r1',1,'El drama de los 50 céntimos','Un día cualquiera en casa','casa');
 intro('i_r2','r2',2,'Noche de juegos','Lucha, siestas y un Bizum','casa');
 intro('i_r3','r3',3,'Tarde de puerto y helado','Nuestro plan de siempre','casa');
+function rc(x,y,w,h,c){ctx.fillStyle=c;ctx.fillRect(x,y,w,h)}
+function dayRoom(t,doorOpen){const G=H-30;
+  bands(['#f3d996','#eed08a','#e9c97f'],0,G);
+  for(let y=G-82;y<G-38;y+=8)for(let x=(y/8%2)*6;x<W;x+=12){rc(x+2,y,1,2,'#e2bd72');rc(x+1,y+1,3,1,'#e2bd72')}
+  rc(0,G-38,W,2,'#c99a5a');rc(0,G-36,W,1,'#f6dfa6');for(let x=0;x<W;x+=10)rc(x,G-35,1,33,'#e0b974');
+  // ventana con cortinas
+  const wx=Math.round(W*.36),wy=G-74,ww=Math.min(46,Math.round(W*.2)),wh=34;
+  rc(wx-2,wy-2,ww+4,wh+4,'#7a5a3a');const sk=ctx.createLinearGradient(0,wy,0,wy+wh);sk.addColorStop(0,'#7ec8ff');sk.addColorStop(1,'#cdeeff');ctx.fillStyle=sk;ctx.fillRect(wx,wy,ww,wh);
+  rc(wx+((t*2)%(ww+12))-8,wy+6,8,2,'#fff');rc(wx+((t*2)%(ww+12))-6,wy+5,4,1,'#fff');rc(wx,wy+wh-8,ww,8,'#6fbf73');rc(wx+4,wy+wh-12,6,4,'#4f9f5a');rc(wx+ww-14,wy+wh-11,8,3,'#4f9f5a');
+  rc(wx+ww/2-1|0,wy,2,wh,'#7a5a3a');rc(wx,wy+wh/2-1|0,ww,2,'#7a5a3a');rc(wx-4,wy+wh+2,ww+8,2,'#9a7448');
+  for(const sd of[-1,1]){const cx=sd<0?wx-7:wx+ww+1;rc(cx,wy-4,6,wh+6,'#c4475a');for(let k=0;k<wh+6;k+=3)rc(cx+(k%6?1:3),wy-4+k,1,2,'#a43448')}
+  rc(wx-9,wy-6,ww+18,2,'#6b4a2a');
+  // cuadros y estantería
+  const fx=Math.round(W*.66),fy=G-66;rc(fx-1,fy-1,22,18,'#6b4a2a');rc(fx+1,fy+1,18,14,'#d9e2ea');rc(fx+3,fy+7,6,8,'#2f5a4a');rc(fx+11,fy+7,6,8,'#f2d24a');rc(fx+4,fy+3,4,4,'#f2c9aa');rc(fx+12,fy+3,4,4,'#d9a27c');rc(fx+9,fy+10,2,2,'#ff4f6d');
+  const sx=Math.round(W*.06),sy=G-56;rc(sx,sy,30,2,'#7a5a3a');rc(sx+2,sy+2,2,3,'#5a3a22');rc(sx+26,sy+2,2,3,'#5a3a22');
+  rc(sx+2,sy-6,5,6,'#c96a3a');rc(sx+1,sy-11,7,5,'#3f8f5a');rc(sx+3,sy-13,2,2,'#5fb070');rc(sx+10,sy-8,3,8,'#3a7ac4');rc(sx+13,sy-7,3,7,'#e2558c');rc(sx+16,sy-9,2,9,'#f2d24a');rc(sx+21,sy-7,6,7,'#6b4a2a');rc(sx+22,sy-6,4,4,'#bfe3f2');
+  // lámpara de pie
+  const lx=Math.round(W*.46);rc(lx,G-34,1,34,'#3a2a22');rc(lx-3,G-1,7,1,'#3a2a22');rc(lx-5,G-40,11,7,'#f6e3b0');rc(lx-4,G-34,9,1,'#e0c888');ctx.globalAlpha=.12;ctx.fillStyle='#fff3c0';ctx.beginPath();ctx.moveTo(lx-5,G-33);ctx.lineTo(lx+6,G-33);ctx.lineTo(lx+16,G);ctx.lineTo(lx-15,G);ctx.fill();ctx.globalAlpha=1;
+  // puerta de entrada
+  const dx=Math.round(W*.9),dw=18,dh=40;rc(dx-2,G-dh-2,dw+4,dh+2,'#6b4a2a');
+  if(doorOpen){rc(dx,G-dh,dw,dh,'#2a2030');rc(dx,G-8,dw,8,'#3a3040');rc(dx-6,G-dh,6,dh,'#a8784a');rc(dx-6,G-dh,1,dh,'#8a5a32')}
+  else{rc(dx,G-dh,dw,dh,'#a8784a');rc(dx+3,G-dh+4,dw-6,14,'#9a6a3e');rc(dx+3,G-dh+21,dw-6,14,'#9a6a3e');rc(dx+dw-4,G-20,2,2,'#ffd23f')}
+  // suelo de madera y alfombra
+  rc(0,G,W,H-G,'#c9a074');for(let y=G;y<H;y+=5){rc(0,y,W,1,'#b48a60');for(let x=(y/5%2)*17;x<W;x+=34)rc(x,y,1,5,'#b48a60')}
+  rc(0,G,W,1,'#8a6440');rc(0,G-2,W,2,'#f6e6c0');
+  const ru=Math.round(W*.04);rc(ru,G+3,Math.round(W*.46),9,'#5a6ab0');rc(ru+2,G+5,Math.round(W*.46)-4,5,'#7a8ad0');rc(ru+4,G+7,Math.round(W*.46)-8,1,'#f2d24a');
+  return G}
+function sofa(G,front){const sx=Math.round(W*.035),sw=Math.round(W*.36);
+  if(!front){rc(sx,G-24,sw,14,O);rc(sx+1,G-23,sw-2,12,'#7a3a4a');rc(sx+1,G-23,sw-2,2,'#9a4a5c');for(let k=1;k<3;k++)rc(sx+Math.round(sw*k/3),G-22,1,10,'#5a2a36');return}
+  rc(sx,G-11,sw,9,O);rc(sx+1,G-10,sw-2,7,'#8a4252');rc(sx+1,G-10,sw-2,1,'#aa5a6c');rc(sx+3,G-2,2,2,'#3a2a22');rc(sx+sw-5,G-2,2,2,'#3a2a22');
+  for(const ax of[sx-3,sx+sw-4]){rc(ax,G-17,7,15,O);rc(ax+1,G-16,5,13,'#7a3a4a');rc(ax+1,G-16,5,2,'#9a4a5c')}
+  rc(sx+6,G-19,8,7,'#f2d24a');rc(sx+7,G-18,6,1,'#fff0a0')}
 function livingRoom(t,night,shakeFrame,noSofa){const G=H-30;
   bands(night?['#a88a4a','#9a7e44','#8e7240']:['#f0d38c','#ebcb7e','#e6c372'],0,G);
   {const ry=40;for(let x=4;x<W;x+=16){ctx.fillStyle='#3f8f5a';ctx.fillRect(x+3,ry+2,4,1);ctx.fillRect(x+9,ry+1,3,1);ctx.fillStyle='#a8323a';ctx.fillRect(x,ry,3,3);ctx.fillRect(x+7,ry-1,3,3);ctx.fillStyle='#d24a52';ctx.fillRect(x+1,ry,1,1);ctx.fillRect(x+8,ry-1,1,1)}}
@@ -718,17 +750,18 @@ S.r1={fy:()=>H-52,dur:23,next:'i_r2',iris:1,
       [16,()=>{S.r1.fury=ct;RA.expr=null;SFX.power();shake();play('boss');say('r','¿Para qué quieres TÚ mi tarjeta? ¡FUERA DE AQUÍ!')}],
       [18.6,()=>say('n','(Lo de pelearse con los timadores debe de ser cosa de familia.)')],
       [20.6,()=>{levelClear('Detectora de estafas (casi)')}],[22.4,()=>hideDlg()]],
-  draw(t){const G0=H-30;if(t>6&&t<8.2)cam(2,W*.55,G0-16);else if(t>14&&t<16)cam(2,W*.68,G0-16);else if(t>16&&t<18.4)cam(2,W*.62,G0-16);else if(t>8.4&&t<10.4)cam(2,W*.22,G0-14);const G=livingRoom(t,false);
-    const vx=Math.round(W*.13),cx=Math.round(W*.29),rx=Math.round(W*.55);
-    chibi(vx,G-4,VA,'idle',t+.3,1,speaker==='v');chibi(cx,G-4,CR,t>8.4&&t<10.4?'cheer':'idle',t,1,speaker==='c');
+  draw(t){const G0=H-30;if(t>6&&t<8.2)cam(2,W*.6,G0-22);else if(t>14&&t<16)cam(2,W*.69,G0-16);else if(t>16&&t<18.4)cam(2,W*.66,G0-16);else if(t>8.4&&t<10.4)cam(2,W*.22,G0-14);const G=dayRoom(t,this.rep>=0&&ct-this.rep>.3);
+    const vx=Math.round(W*.12),cx=Math.round(W*.29),rx=Math.round(W*.6),lau=t>8.4&&t<10.4;
+    sofa(G,0);chibi(vx,G-7-(lau&&Math.floor(t*8)%2?1:0),VA,lau?'cover':'idle',t+.3,1,speaker==='v');chibi(cx,G-7-(lau&&Math.floor(t*8+1)%2?1:0),CR,lau?'cheer':'idle',t,1,speaker==='c');sofa(G,1);
     const fury=this.fury>=0;
     if(fury)for(let k=0;k<10;k++){ctx.fillStyle=['#ff3b3b','#ff9b3b','#ffd23f'][k%3];ctx.fillRect(rx-8+R()*16|0,G-24+R()*24|0,1+(R()*2|0),1+(R()*2|0))}
-    chibi(rx+(fury&&ct-this.fury<2?(R()*2|0):0),G,RA,fury?'throw':(this.drama>=0&&ct-this.drama<2?'cheer':'sip'),t+.5,-1,speaker==='r');
-    if(!fury||ct-this.fury>2){const px=rx-6,py=G-14;ctx.fillStyle=O;ctx.fillRect(px-2,py-4,5,8);ctx.fillStyle=this.rep>=0&&!fury?'#5dff8a':'#7ee0ff';ctx.fillRect(px-1,py-3,3,6)}
-    if(this.drama>=0&&ct-this.drama<2.2){ctx.fillStyle='#000';ctx.textAlign='center';ctx.fillText('0,50 €',rx+1,G-31);ctx.fillStyle='#ff4f6d';ctx.fillText('0,50 €',rx,G-32)}
-    if(this.rep>=0){let k=ct-this.rep,x;if(this.fury<0)x=W+10-Math.min(1,k/1.2)*(W+10-Math.round(W*.8));else{const f=ct-this.fury;x=Math.round(W*.8)+(f>.6?(f-.6)*(f-.6)*300:0)}
+    const dram=this.drama>=0&&ct-this.drama<2,pose=fury?'throw':dram?'cheer':this.rep>=0?'idle':'hand';
+    chibi(rx+(fury&&ct-this.fury<2?(R()*2|0):0)+(dram&&Math.floor(t*10)%2?1:0),G,RA,pose,t+.5,-1,speaker==='r');
+    if(pose==='hand'){const px=rx-9;rc(px,G-11,4,6,O);rc(px+1,G-10,2,4,'#7ee0ff');if(Math.floor(t*3)%2)rc(px+1,G-9,2,1,'#fff');ctx.globalAlpha=.22;rc(rx-5,G-14,3,3,'#7ee0ff');ctx.globalAlpha=1}
+    if(dram){const k=Math.min(1,(ct-this.drama)/.25),ty=G-29-Math.round(k*3);rc(rx-14,ty-6,28,10,O);rc(rx-13,ty-5,26,8,'#ff4f6d');rc(rx-13,ty-5,26,1,'#ff8fa3');ctx.fillStyle='#fff';ctx.textAlign='center';ctx.textBaseline='alphabetic';ctx.fillText('0,50 €',rx,ty+2)}
+    if(this.rep>=0){let k=ct-this.rep,x;const dX=Math.round(W*.9)+9;if(this.fury<0)x=dX-Math.min(1,k/1.4)*(dX-Math.round(W*.78));else{const f=ct-this.fury;x=Math.round(W*.78)+(f>.6?(f-.6)*(f-.6)*300:0)}
       chibi(x,G,REP,this.fury>=0&&ct-this.fury>.6?'run':'idle',t,this.fury>=0&&ct-this.fury>.6?1:-1);
-      const bx=this.fury>=0?Math.round(W*.8)-8:x-9;ctx.fillStyle=O;ctx.fillRect(bx-5,G-9,11,9);ctx.fillStyle='#c8925a';ctx.fillRect(bx-4,G-8,9,7);ctx.fillStyle='#e8c98e';ctx.fillRect(bx,G-8,1,7)}}};
+      const bx=this.fury>=0?Math.round(W*.78)-8:x-9;ctx.fillStyle=O;ctx.fillRect(bx-5,G-9,11,9);ctx.fillStyle='#c8925a';ctx.fillRect(bx-4,G-8,9,7);ctx.fillStyle='#e8c98e';ctx.fillRect(bx,G-8,1,7)}}};
 S.r2={dur:26,next:'i_r3',iris:1,
   init(){play('arcade');famOut();show('#hud',1);this.wake=-1;this.biz=-1;this.ko=-1;this.hits=0},
   ev:[[1,()=>{SFX.select();say('f','Bro, revancha. Papá contra mamá, bro.')}],
@@ -843,14 +876,6 @@ S.cartas={fy:()=>H/2,dur:31,next:'ask',
       [30.4,()=>show('#carta',0,'grid')]],
   draw(t){bands(['#1a1230','#21173a','#281c44']);stars(t,.7);for(let k=0;k<6;k++){const x=(k*53+20)%W,y=H-20-Math.round(Math.sin(t*1.3+k)*4);ctx.globalAlpha=.25+.15*Math.sin(t*5+k);ctx.fillStyle='#ffd27a';ctx.fillRect(x-3,y-3,6,6);ctx.globalAlpha=1;ctx.fillStyle='#fff6c2';ctx.fillRect(x,y,1,2)}}};
 
-/* --- Cartas secretas (solo tras el SÍ) --- */
-S.secreta={fy:()=>H/2,dur:24,next:'invite',
-  init(){hideDlg();menu.style.display='none';toast('Logro desbloqueado','Cartas secretas','+1');SFX.achieve()},
-  ev:[[1,()=>letter(RA,'Para la madrina','Hermana, amiga, casi madre… y desde hoy, también madrina. Gracias por decir que sí (sabíamos que no podías decir que no).','(Tranquila: este cargo es gratis. Ni 50 céntimos al mes.)')],
-      [12,()=>letter(ME,'Para el padrino','Sabemos que juraste no volver a ser padrino de nada… pero esta es nuestra venganza por hacernos padrinos de Ares.','(Tranquilo: la ceremonia dura menos que una de tus siestas.)')],
-      [23.4,()=>show('#carta',0,'grid')]],
-  draw(t){S.cartas.draw(t);if(R()<.04)confetti(6)}};
-
 /* --- La pregunta --- */
 S.ask={iris:1,fy:()=>H-58,
   init(){play('famBox');famOut();mont.style.display='none';mont.innerHTML='';this.acc=-1;this.ring=-1;this.arras=-1},
@@ -895,7 +920,7 @@ function accept(){if(!menuOn)return;menuOn=false;yes.classList.add('press');SFX.
   later(12.6,()=>{S.ask.arras=ct;SFX.sparkle();SFX.coin();say('v','Nefali: tú serás el guardián de la jarra de la ceremonia.')});
   later(15.2,()=>{toast('Misión desbloqueada','Nefali, guardián de la jarra','+∞');burst(S.ask._nx||W/2,H-60,30);say('f','Bro… es la misión más importante de mi vida, bro.')});
   later(18.2,()=>{hideDlg();banner('¡EQUIPO COMPLETO!','Listos para el nivel final');confetti(60);SFX.clear()});
-  later(21.6,()=>go('secreta'))}
+  later(21.6,()=>go('invite'))}
 yes.addEventListener('click',accept);
 no.addEventListener('pointerenter',()=>menuOn&&dodge());no.addEventListener('click',e=>{e.preventDefault();if(!menuOn)return;dodge();sel(no);no.disabled=true;say('f','Bro, ese botón también dice que sí.');setTimeout(accept,900)});
 addEventListener('keydown',e=>{if(menuOn&&(e.key==='Enter'||e.key===' ')){e.preventDefault();accept()}});
