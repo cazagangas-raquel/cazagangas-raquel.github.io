@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-26T17:40:00+00:00",
-"edition": 32,
+"updated": "2026-11-27T02:08:00+00:00",
+"edition": 33,
 "campaigns": [
 {
 "name": "MediaMarkt Canarias · Semanas Black",
@@ -48,7 +48,7 @@
 "name": "Black Friday oficial",
 "note": "viernes 27 de noviembre",
 "until": "2026-11-27",
-"urgent": false
+"urgent": true
 },
 {
 "name": "AliExpress · Black Friday",
@@ -138,7 +138,7 @@
 "sub": "Otros",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 14.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-26916668",
@@ -152,7 +152,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_0053b65b-5825-4885-b900-a1eed66bd6de.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 36.9
 },
@@ -170,7 +170,7 @@
 "others": {},
 "min": false,
 "prevDay": 14.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-64475452",
@@ -184,7 +184,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_944a86f0-d106-4a65-9040-4c8a6280ef85.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 27.99
 },
@@ -200,7 +200,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_9ba2dc1c-16af-481f-92d6-2069c04e3ea4.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -215,7 +215,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_be2a9b1a-4d7f-4dbd-9af3-cc070545df6d.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -230,7 +230,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_89da9472-89cd-41b5-ba86-e0fb00b71496.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -245,7 +245,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_93e3c57c-891b-4004-8cad-313891d76c98.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -260,7 +260,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_d1aa5020-e274-492d-987b-f8e5597fa78f.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -275,7 +275,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_7105bd71-5c16-40d8-9e83-f4166a651d96.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -290,7 +290,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_002db86a-1b82-40a1-a4cd-cb39549a2279.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -307,7 +307,7 @@
 "others": {},
 "min": false,
 "prevDay": 39.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-45240391",
@@ -321,7 +321,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_7f8c094d-8cb8-4307-90e2-ac45b450d917.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -336,7 +336,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_88348349-0266-4000-97a3-a59cbfda54ce.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 26.99
 },
@@ -352,7 +352,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_413df8fa-9f7f-40e5-adb4-4a8abfc41e7f.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -367,7 +367,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_b2d71df0-3b0c-4439-a275-80d3276debaf.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -382,7 +382,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_aadc00df-447f-4722-a8d9-8407b9dfece5.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 36.9
 },
@@ -398,7 +398,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_11b86f92-f95e-4a08-a715-8e4da47f3229.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 36.9
 },
@@ -414,7 +414,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_73ec416b-4dba-45b5-9127-1116e9a94b73.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -429,7 +429,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_eaadbdd7-f046-4955-938f-761cb0b1e48f.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -446,7 +446,7 @@
 "others": {},
 "min": false,
 "prevDay": 59.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-74014535",
@@ -460,7 +460,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a21580d8-a354-4890-9ded-68316a5d9558.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -475,22 +475,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a623b3a6-4313-4a21-96e5-b75c2ade61f2.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
-"added": "2026-11-20"
-},
-{
-"id": "mmc-53482567",
-"name": "Sony WH-CH520",
-"cat": "TV y audio",
-"store": "MediaMarkt Canarias",
-"price": 29.99,
-"was": 69.99,
-"min": false,
-"url": "https://canarias.mediamarkt.es/products/auriculares-inalambricos-sony-wh-ch520-bluetooth-50-horas-de-autonomia-carga-rapida-360-audio-conexion-multipunto-cascos-diadema-amarillo",
-"img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a341fee3-c86e-4937-a6a0-469423580dea.png",
-"others": {},
-"wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T02:08:05+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -505,7 +490,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_caba720c-71f8-4fec-a3eb-2737e817a4f8.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 69.0
 },
@@ -521,7 +506,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a27dea42-30b7-481d-82b2-5b0b02f14d31.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -536,7 +521,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a806fc9f-3b05-489b-bded-13f75be652d4.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -550,7 +535,7 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-cecotec-cremmaet-cube-1350w-19-bares-molinillo-integrado-panel-tactil-thermoblock-sistema-pre-infusion-multicolor",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f2fcafca-62c2-4685-8036-7604c7cfd944_large.png?v=1765371688",
 "others": {},
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-hugo-boss-dark-blue-eau",
@@ -563,7 +548,7 @@
 "url": "https://www.primor.eu/es_es/hugo-boss-dark-blue-eau-de-toilette-130376.html",
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/7/3/737052031415_1_cc18.jpg",
 "others": {},
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-18071623",
@@ -577,7 +562,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_369ab9de-c14d-4a96-8fe1-01113e5dd315.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24",
 "prevDay": 29.9
 },
@@ -593,7 +578,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_7dd227d3-9b91-4715-8aff-5e6d3ab0833e.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-22"
 },
 {
@@ -608,7 +593,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_0df27767-7f07-4ab0-ba96-759ddb2e7d88.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -623,7 +608,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_0a9cc714-343c-4899-bc52-886465fef566.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 109.0
 },
@@ -639,7 +624,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_c758d6f4-5167-4e3b-b189-3112e2c3c53b.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 69.0
 },
@@ -655,7 +640,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_6b2b286c-677f-48bc-8a1c-dfd22ab1462a.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-22"
 },
 {
@@ -670,7 +655,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_bd101f2d-c497-4c5c-bb04-af6ef7e93daf.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -685,7 +670,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_89272ec8-3ea5-435d-bfbf-8ac56f40e857.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -700,7 +685,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_04e2e2ac-125e-453c-b944-cb862fa48adc.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -716,7 +701,7 @@
 "others": {},
 "min": false,
 "prevDay": 54.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-64813895",
@@ -730,7 +715,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_3c2e03e5-3422-475b-89f3-02b44fbd2374.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -745,7 +730,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_d5978396-39bc-43f2-a3e9-fedca12b1b8b.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -760,7 +745,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_8eccbf0e-9755-44ce-bec8-79ee5c8b017f.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -775,7 +760,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_be801c37-9c22-4a2d-8d75-936f10c7abc3.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 559.0
 },
@@ -793,7 +778,7 @@
 "why": "-47%: monitor de oficina 27\" ergonómico casi a mitad de precio",
 "others": {},
 "prevDay": 89,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-13253948",
@@ -807,7 +792,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_e4f02527-826a-42a5-a965-e446a0197b7c.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -822,7 +807,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_93e62e9e-767a-4d16-b037-985b1c6289af.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -837,7 +822,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_440829f3-f37f-4ef3-b06a-7e2c2fa887a1.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -852,7 +837,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_bbf7f7ca-14b3-4fae-816c-0b1ee1168223_large.png?v=1760015290",
 "others": {},
 "prevDay": 64.99,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-12225863",
@@ -866,7 +851,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_10989701-caac-41d9-8263-d6e474bce343.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -881,7 +866,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_6c6bae09-feab-4ff1-9c0e-d99b984b72f4.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-26"
 },
 {
@@ -896,7 +881,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_28d800f4-d1dd-4d9f-a354-ba094f897397.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -911,7 +896,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_7a67e1b1-166b-4e27-ae0f-51ece3fbfbb8.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -926,7 +911,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_027de021-375d-416a-a282-cfd72c760eeb.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -941,7 +926,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_553b2d21-1ff1-4ad5-ab96-44b2804b6502.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-22"
 },
 {
@@ -956,7 +941,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_1a0d8c3f-0e20-45c5-bbc1-3ff18cc48ebc.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 17.99
 },
@@ -972,7 +957,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_d3903714-f6cb-4fd0-bd07-b6ce6e65a4f4.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-26"
 },
 {
@@ -987,7 +972,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_b7ca6b7e-a14a-4b8e-9f45-ea5f923eac26.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1002,7 +987,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_dc159fe5-36d3-4d04-b7b8-7763fb0cbc4f.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1017,7 +1002,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_a9aa93a6-e922-45ec-a23f-5b7f3f9e660a.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 239.0
 },
@@ -1033,7 +1018,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_32538f10-004b-4c85-a5ab-c9293fc6728a.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-25"
 },
 {
@@ -1048,7 +1033,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_274ff492-5dc6-45eb-abd6-5fe5e68775c1.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-25"
 },
 {
@@ -1063,7 +1048,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_ddb90e81-2f4e-47af-a788-2e363f34f415.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1078,7 +1063,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_022de3b5-5bfe-4687-a6e1-96ee8513ea2b.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1093,7 +1078,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_110aac3a-26f7-4955-97a0-b709ad2669fb.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1108,7 +1093,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a022d814-9200-443f-8aca-88473f25c937.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1123,7 +1108,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_c1e0579e-1eeb-4355-98f8-53e6e5daa388.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 75.99
 },
@@ -1139,7 +1124,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_a2db6656-8948-4260-88f0-970087c99273.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-23"
 },
 {
@@ -1154,7 +1139,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_48a5a92a-34e9-4d81-9eb6-3acbac0225a3.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -1169,7 +1154,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_6932bebc-18b2-42b0-9565-c963c40909b3.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -1186,7 +1171,7 @@
 "why": "75 pulgadas QLED por menos de 560 € con IGIC (-34%)",
 "others": {},
 "prevDay": 559,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-85281095",
@@ -1200,7 +1185,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_09e55508-1dc3-47e1-815c-e8d5d4b165ab.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -1215,7 +1200,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_70d3af7f-bd11-420d-af6e-81bea49e1a35.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1230,7 +1215,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_03c6e7f4-fdc5-4df8-bb98-1ac51916f9cd.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 85.0
 },
@@ -1246,7 +1231,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_c5e697f4-bb8a-4bd7-ba69-69006c19e0f4.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 25.0
 },
@@ -1262,7 +1247,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a67dc763-921f-4621-b137-0298f2ce9fc0.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1277,7 +1262,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_5771e529-0b01-4f63-b03a-bdaad6ebdd0e.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -1292,7 +1277,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_f3c27d03-01b3-461c-9292-dc33fa5515d9.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1307,7 +1292,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_2e788db9-d4ee-4f1f-b6f6-e69e3907ecca.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-26"
 },
 {
@@ -1322,7 +1307,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_8205a92d-b967-4ffe-9c2a-256a8dde089f.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1337,7 +1322,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_1e153e6a-78ac-46c3-a68a-46164b1b4489.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1352,7 +1337,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_836f3e42-b4e7-490b-b1d1-8a620170a52d.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1369,7 +1354,7 @@
 "others": {},
 "min": false,
 "prevDay": 44.5,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-75292487",
@@ -1383,7 +1368,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_de0d48c2-c0ca-4f74-a8a0-322bdecb7ec8.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1398,7 +1383,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_1b599480-c859-4ce2-ae5e-77d382d69520.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1413,7 +1398,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_23394b27-74b4-4040-98dc-9908c6423196.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1428,7 +1413,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_f8f1822f-7e65-41ce-9c41-3c0d83e769ce.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1443,7 +1428,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_7d1dcf1d-899e-47aa-81d8-4f7717a27024_large.png?v=1684421149",
 "others": {},
 "prevDay": 44.99,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-80948295",
@@ -1457,7 +1442,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_9f37dc4e-614c-4f97-91c4-5d0ded9a6fee.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1472,7 +1457,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_93a5ce3d-e7c3-4a67-91e3-e7b56cb15c35.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1487,7 +1472,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_90ca29c2-0dea-45ce-b0b9-1e9cabb57e48.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1504,7 +1489,7 @@
 "why": "-42% en ultrapanorámico blanco con USB-C, para oficina",
 "others": {},
 "prevDay": 239.0,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-74453319",
@@ -1518,7 +1503,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_05f526a0-6ebc-4c24-9c1a-9bcd29889385.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1533,7 +1518,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b1d5e24a-b535-4ef7-bcd3-61fbbdc91864_large.png?v=1715247611",
 "others": {},
 "prevDay": 45.99,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-30766151",
@@ -1547,7 +1532,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_11148401-3741-433d-a674-1e0979ff7550.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-24"
 },
 {
@@ -1562,7 +1547,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_f3ed82b2-06a0-400f-a1c5-e415453517ba.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1577,7 +1562,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_7ead03c4-a456-4956-9582-9a3b438f707a.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-23"
 },
 {
@@ -1592,7 +1577,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_2dae360e-12b4-4794-ab0c-56f54717e799.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1607,7 +1592,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/products/fee_786_587_png_cc8fede4-45c4-4994-986a-3acc26acc62d.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -1669,7 +1654,7 @@
 "sub": "Otros",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 39.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-dkny-be-delicious-latte",
@@ -1683,7 +1668,7 @@
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/d/p/dp1_6ca6.JPG",
 "others": {},
 "why": "Oferta flash de 24 h",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "prevDay": 25.86
 },
 {
@@ -1806,7 +1791,7 @@
 "others": {},
 "min": false,
 "prevDay": 24.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-g923",
@@ -1836,7 +1821,7 @@
 "others": {},
 "min": false,
 "prevDay": 48.29,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-msi-275qf",
@@ -1896,7 +1881,7 @@
 "others": {},
 "why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido.",
 "prevDay": 59.95,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-legion25-10",
@@ -1955,7 +1940,7 @@
 "others": {},
 "min": false,
 "prevDay": 18.6,
-"seen": "2026-11-26T17:40:04+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-estuche-gucci-guilty-pou",
@@ -1969,7 +1954,7 @@
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3616307101493_5f9a.jpg",
 "others": {},
 "why": "Precio «desde» (según variante); Oferta flash de 24 h",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "prevDay": 64.9
 },
 {
@@ -1984,7 +1969,7 @@
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/7/6/7640233340622_E._SAAB_L_Homme_EDP_INTENSE_50ml_BOTELLA_519a.jpg",
 "others": {},
 "why": "Precio «desde» (según variante); Oferta flash de 24 h",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "prevDay": 38.6
 },
 {
@@ -1999,7 +1984,7 @@
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/P/T/PT01_3616305947277_64b6.jpeg",
 "others": {},
 "why": "Precio «desde» (según variante); Oferta flash de 24 h",
-"seen": "2026-11-26T17:40:04+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "prevDay": 39.9
 },
 {
@@ -2237,7 +2222,21 @@
 "why": "-29%: 190 € menos, con depósito de leche",
 "others": {},
 "prevDay": 459,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
+},
+{
+"id": "mmc-taba11p",
+"name": "Samsung Galaxy Tab A11+ 11\" 6/128 GB",
+"cat": "Tecnología",
+"store": "MediaMarkt Canarias",
+"price": 218.0,
+"was": 329.0,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-gris",
+"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0c0453fd-cef7-46cc-88ee-cdd312c56a7d_large.png?v=1768825124",
+"others": {},
+"prevDay": 219,
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-02231623",
@@ -2251,7 +2250,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_39491970-1bee-4c9a-85ad-92af0d1f8a7c.png",
 "others": {},
 "wasSrc": "precio anterior en MediaMarkt Canarias",
-"seen": "2026-11-25T17:55:23+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20",
 "prevDay": 127.2
 },
@@ -2267,21 +2266,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_78debfaa-b5af-42bb-ac3e-dd129d22f6ea_large.png?v=1790694613",
 "others": {},
 "prevDay": 119,
-"seen": "2026-11-25T17:55:23+00:00"
-},
-{
-"id": "mmc-taba11p",
-"name": "Samsung Galaxy Tab A11+ 11\" 6/128 GB",
-"cat": "Tecnología",
-"store": "MediaMarkt Canarias",
-"price": 219,
-"was": 329.0,
-"min": false,
-"url": "https://canarias.mediamarkt.es/products/tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-gris",
-"img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0c0453fd-cef7-46cc-88ee-cdd312c56a7d_large.png?v=1768825124",
-"others": {},
-"prevDay": 219,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-philips-ep2225",
@@ -2297,7 +2282,7 @@
 "why": "-32%: café en grano recién molido por 249 €",
 "others": {},
 "prevDay": 249,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-lg-27g610a",
@@ -2313,7 +2298,7 @@
 "why": "QHD 200 Hz IPS con altura ajustable, -28% (consultar stock online)",
 "others": {},
 "prevDay": 149,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-taba11-256",
@@ -2329,7 +2314,7 @@
 "why": "Tablet familiar con 256 GB, 50 € menos",
 "others": {},
 "prevDay": 339,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-estuche-est-e-lauder-la",
@@ -2372,7 +2357,7 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-krups-sensation-milk-ea912b-15-bar-1450-w-1-7-l-6-modos-2-tazas-deposito-de-leche-0-3-l-tactil-gris",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_848175ac-b282-4e0c-befe-000691970a40_large.png?v=1760024682",
 "others": {},
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-delonghi-evo290",
@@ -2388,7 +2373,7 @@
 "why": "-26% en una de las superautomáticas más vendidas",
 "others": {},
 "prevDay": 329,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-24e1n1100a-00",
@@ -2401,7 +2386,7 @@
 "url": "https://canarias.mediamarkt.es/products/monitor-philips-24e1n1100a-00-24-full-hd-4-ms-mprt-de-1-ms-100-hz-vga-hdmi-audio-negro",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b8663d96-4bc0-41a0-9585-a09dd5e7ae36.png?v=1729608846&width=600",
 "others": {},
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-ideatabplus",
@@ -2415,7 +2400,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_cf2a0113-166d-47fb-8dfd-50da0575b8bd_large.png?v=1782923672",
 "others": {},
 "prevDay": 299,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-estuche-shiseido-benefia",
@@ -2444,7 +2429,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_b3684562-8d15-4cc2-805c-b7138d588183_large.png?v=1683727901",
 "others": {},
 "prevDay": 279,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-redmipad2",
@@ -2458,7 +2443,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_70195e9f-4852-46ff-9542-d8af7b7a18ca_large.png?v=1782923649",
 "others": {},
 "prevDay": 139,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-19484",
@@ -2614,7 +2599,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_93993618-55ea-45e2-9c12-08e1e30a4c6d_large.png?v=1757493656",
 "others": {},
 "prevDay": 189,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-a57",
@@ -2628,7 +2613,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_78a75728-49f0-4c6d-999d-e9c8083ce6b3_large.png?v=1774451129",
 "others": {},
 "prevDay": 439,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-estuche-carolina-herrera",
@@ -2655,7 +2640,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9e1b39d2-4a92-4b52-86f0-cbaeb7f953ac_large.png?v=1768480506",
 "others": {},
 "prevDay": 275,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-samsung-galaxy-a17-5g-25",
@@ -2668,7 +2653,7 @@
 "url": "https://canarias.mediamarkt.es/products/movil-samsung-galaxy-a17-azul-256-gb-8-gb-ram-6-7-fhd-super-amoled-exynos-1330-octa-core-5000-mah-android-15",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_3c95a101-8248-4057-a5db-481d81a32186.png?v=1755700256&width=600",
 "others": {},
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-olaplex-n-5-acondicionad",
@@ -2699,7 +2684,7 @@
 "why": "QD-OLED 240 Hz por 329 €: precio muy bajo para OLED",
 "others": {},
 "prevDay": 329,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-carolina-herrera-bad-boy",
@@ -2727,7 +2712,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c0b78959-f362-41a2-84f9-5bf62fa5b191_large.png?v=1790940233",
 "others": {},
 "prevDay": 124.0,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-149915",
@@ -2756,7 +2741,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_34370796-58b7-46b0-9158-7c13c0dbdad9_large.png?v=1789211649",
 "others": {},
 "prevDay": 209.0,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-44629",
@@ -2803,7 +2788,7 @@
 "why": "Monitor gaming 27\" 144 Hz por 89 €",
 "others": {},
 "prevDay": 95.9,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-urban-decay-primer-potio",
@@ -2894,7 +2879,7 @@
 "why": "Plancha grande para comidas familiares, -25%",
 "others": {},
 "prevDay": 29.93,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-3198",
@@ -2910,7 +2895,7 @@
 "why": "Plancha mediana por menos de 25 €",
 "others": {},
 "prevDay": 24.68,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-19476",
@@ -2926,7 +2911,7 @@
 "why": "Altavoz de ducha con soporte para el móvil, -25%",
 "others": {},
 "prevDay": 14.63,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-17624",
@@ -2942,7 +2927,7 @@
 "why": "Soporte de coche que carga el móvil, -25%",
 "others": {},
 "prevDay": 13.43,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-18099",
@@ -2958,7 +2943,7 @@
 "why": "Auriculares inalámbricos por menos de 10 €",
 "others": {},
 "prevDay": 9.68,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-78367815",
@@ -2977,6 +2962,21 @@
 "prevDay": 199.99
 },
 {
+"id": "prm-106309",
+"name": "Kiehl's contorno de ojos con aguacate",
+"cat": "Cuidado personal",
+"store": "Primor",
+"price": 21.9,
+"was": 36.0,
+"wasSrc": "precio habitual Primor",
+"url": "https://www.primor.eu/es_es/kiehl-s-contorno-de-ojos-con-aguacate-creamy-eye-treatment-with-avocado-106309.html",
+"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/7/3700194714413_1_b0b7.jpg",
+"others": {},
+"min": false,
+"prevDay": 23.39,
+"seen": "2026-11-27T02:08:03+00:00"
+},
+{
 "id": "mmc-honorx9a",
 "name": "Honor Pad X9a 11.5\" 6GB/128GB",
 "cat": "Tecnología",
@@ -2990,7 +2990,7 @@
 "why": "Tablet para niños y series por menos de 200 €",
 "others": {},
 "prevDay": 199,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Deporte",
@@ -3004,7 +3004,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/gXMwJ2g",
 "was": 280.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-tapotc72",
@@ -3018,7 +3018,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_67b6f7f9-8af3-45a9-8c63-6e42198252cc_large.png?v=1718382971",
 "others": {},
 "prevDay": 27,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Deporte",
@@ -3032,7 +3032,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/nd8Cbw1",
 "was": 39.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-pencilusbc",
@@ -3059,7 +3059,7 @@
 "url": "https://canarias.mediamarkt.es/products/cafetera-superautomatica-krups-coffee-crush-cafe-en-grano-y-molido-15-bares-4-recetas-de-cafe-tactil-compacta-5-niveles-de-molienda-inox",
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_ccc95b74-05be-4e24-bd77-d4b8940192c2_large.png?v=1779278313",
 "others": {},
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42794",
@@ -3075,7 +3075,7 @@
 "sub": "Otros",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 34.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-la-roche-posay-mela-b3-c",
@@ -3104,7 +3104,7 @@
 "why": "QHD con USB-C para teletrabajo, -15% (+Renove -30 €)",
 "others": {},
 "prevDay": 159,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-et2915",
@@ -3118,7 +3118,7 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1de343e9-8c09-4a6b-8e4d-b0a8aac6e9fd_large.png?v=1790694669",
 "others": {},
 "prevDay": 159,
-"seen": "2026-11-25T17:55:23+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-30619",
@@ -3134,7 +3134,7 @@
 "img": "https://www.jugueteriasnikki.es/6481-home_default/crazy-chic-maquina-de-strass.jpg",
 "others": {},
 "prevDay": 10.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-redmipad2pro",
@@ -3150,22 +3150,7 @@
 "why": "Pantalla 12,1\" 2.5K y Snapdragon 7s Gen 4 por 239 €",
 "others": {},
 "prevDay": 239,
-"seen": "2026-11-24T18:48:39+00:00"
-},
-{
-"id": "prm-106309",
-"name": "Kiehl's contorno de ojos con aguacate",
-"cat": "Cuidado personal",
-"store": "Primor",
-"price": 23.39,
-"was": 36.0,
-"wasSrc": "precio habitual Primor",
-"url": "https://www.primor.eu/es_es/kiehl-s-contorno-de-ojos-con-aguacate-creamy-eye-treatment-with-avocado-106309.html",
-"img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/7/3700194714413_1_b0b7.jpg",
-"others": {},
-"min": false,
-"prevDay": 23.39,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-18020",
@@ -3181,7 +3166,7 @@
 "why": "Cámara de acción sencilla para los peques por 15,60 €",
 "others": {},
 "prevDay": 15.6,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-17667",
@@ -3197,7 +3182,7 @@
 "why": "Smartwatch AMOLED deportivo por menos de 30 € con envío desde Canarias",
 "others": {},
 "prevDay": 29.52,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-15677",
@@ -3213,7 +3198,7 @@
 "why": "Reloj inteligente AMOLED barato, -20% Black Friday",
 "others": {},
 "prevDay": 26.32,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-18103",
@@ -3229,7 +3214,7 @@
 "why": "Vigilancia con placa solar y 4G para finca o casa sin wifi",
 "others": {},
 "prevDay": 44.0,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mdt-17922",
@@ -3245,7 +3230,7 @@
 "why": "Grill que se abre a 180º y hace de plancha, -20%",
 "others": {},
 "prevDay": 22.32,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "cm-2086364",
@@ -3291,7 +3276,7 @@
 "why": "LED de colores controlable por app, ideal habitación juvenil",
 "others": {},
 "prevDay": 19.92,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42254",
@@ -3307,7 +3292,7 @@
 "img": "https://www.jugueteriasnikki.es/7812-home_default/crazy-chic-pulseras-con-mensaje.jpg",
 "others": {},
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-43631",
@@ -3323,7 +3308,7 @@
 "img": "https://www.jugueteriasnikki.es/6400-home_default/descubramos-el-mundo.jpg",
 "others": {},
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-45376",
@@ -3339,7 +3324,7 @@
 "img": "https://www.jugueteriasnikki.es/8346-home_default/cubo-formas-y-colores.jpg",
 "others": {},
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-43307",
@@ -3355,7 +3340,7 @@
 "img": "https://www.jugueteriasnikki.es/6170-home_default/caja-magia-50-trucos.jpg",
 "others": {},
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42435",
@@ -3372,7 +3357,7 @@
 "age": "+3",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-37880",
@@ -3388,7 +3373,7 @@
 "sub": "Otros",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-45279",
@@ -3404,7 +3389,7 @@
 "sub": "Otros",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 11.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-45196",
@@ -3420,7 +3405,7 @@
 "sub": "Juegos de mesa",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 29.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-43856",
@@ -3436,7 +3421,7 @@
 "img": "https://www.jugueteriasnikki.es/6937-home_default/lego-botanicals-ramo-de-rosas-rosadas.jpg",
 "others": {},
 "prevDay": 59.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42128",
@@ -3452,7 +3437,7 @@
 "img": "https://www.jugueteriasnikki.es/7756-home_default/edukit-4-en-1-paw-patrol.jpg",
 "others": {},
 "prevDay": 12.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-32972",
@@ -3468,7 +3453,7 @@
 "sub": "Juegos de mesa",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 19.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-36585",
@@ -3484,7 +3469,7 @@
 "img": "https://www.jugueteriasnikki.es/6818-home_default/lego-duplo-classic-caja-de-ladrillos.jpg",
 "others": {},
 "prevDay": 27.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-41564",
@@ -3868,7 +3853,7 @@
 "img": "https://www.jugueteriasnikki.es/6399-home_default/crazy-chic-maquillaje-mariposa.jpg",
 "others": {},
 "prevDay": 26.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-41484",
@@ -3884,7 +3869,7 @@
 "sub": "Otros",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 44.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42332",
@@ -3901,7 +3886,7 @@
 "age": "+3",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 71.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-cerave-skin-renewing-cre",
@@ -3914,7 +3899,7 @@
 "url": "https://www.primor.eu/es_es/cerave-skin-renewing-night-cream-139375.html",
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3337875903509_0_23d9.png",
 "others": {},
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-41805",
@@ -3930,7 +3915,7 @@
 "sub": "Juegos de mesa",
 "wasSrc": "precio anterior en Nikki",
 "prevDay": 19.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-43799",
@@ -3946,7 +3931,7 @@
 "img": "https://www.jugueteriasnikki.es/6800-home_default/lego-speed-champions-mercedes-g-y-sl-63.jpg",
 "others": {},
 "prevDay": 49.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-43219",
@@ -3962,7 +3947,7 @@
 "img": "https://www.jugueteriasnikki.es/6776-home_default/lego-duplo-classic-caja-ladrillos-deluxe.jpg",
 "others": {},
 "prevDay": 49.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-43040",
@@ -3978,7 +3963,7 @@
 "img": "https://www.jugueteriasnikki.es/6790-home_default/lego-icons-bonsai.jpg",
 "others": {},
 "prevDay": 49.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-38126",
@@ -3994,7 +3979,7 @@
 "img": "https://www.jugueteriasnikki.es/6782-home_default/lego-classic-caja-de-ladrillos-grandes.jpg",
 "others": {},
 "prevDay": 49.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42950",
@@ -4010,7 +3995,7 @@
 "img": "https://www.jugueteriasnikki.es/6852-home_default/lego-friends-casa-de-apicultores-y-jardin-de-flores.jpg",
 "others": {},
 "prevDay": 99.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-42598",
@@ -4027,7 +4012,7 @@
 "others": {},
 "why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido.",
 "prevDay": 209.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-samsung-galaxy-s26-256-g",
@@ -4054,7 +4039,7 @@
 "url": "https://www.primor.eu/es_es/la-roche-posay-effaclar-duo-m-14372.html",
 "img": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3337875863377_0780.jpg",
 "others": {},
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-44600",
@@ -4071,7 +4056,7 @@
 "others": {},
 "why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido.",
 "prevDay": 239.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-40933",
@@ -4088,7 +4073,7 @@
 "others": {},
 "why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido.",
 "prevDay": 239.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "nk-40430",
@@ -4105,7 +4090,7 @@
 "others": {},
 "why": "En oferta en Jugueterías Nikki (Canarias), IGIC incluido.",
 "prevDay": 239.95,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-apple-macbook-air-m5-13",
@@ -4119,6 +4104,22 @@
 "img": "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5ae38fd5-0101-418a-9050-12ac8ee69c87.png?v=1773156436&width=600",
 "others": {},
 "seen": "2026-11-26T02:08:05+00:00"
+},
+{
+"id": "mmc-53482567",
+"name": "Sony WH-CH520",
+"cat": "TV y audio",
+"store": "MediaMarkt Canarias",
+"price": 69.99,
+"was": null,
+"min": false,
+"url": "https://canarias.mediamarkt.es/products/auriculares-inalambricos-sony-wh-ch520-bluetooth-50-horas-de-autonomia-carga-rapida-360-audio-conexion-multipunto-cascos-diadema-amarillo",
+"img": "https://cdn.shopify.com/s/files/1/0285/3702/8668/files/fee_786_587_png_a341fee3-c86e-4937-a6a0-469423580dea.png",
+"others": {},
+"wasSrc": "precio anterior en MediaMarkt Canarias",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-20",
+"prevDay": 29.99
 },
 {
 "id": "mmc-iphone18pro",
@@ -4176,7 +4177,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/lwVEXCs",
 "was": 219.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "prm-k-rastase-k-nutritive-8h",
@@ -4203,7 +4204,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/cOHKZ2K",
 "was": 39.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Deporte",
@@ -4217,7 +4218,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/3vxB0Ro",
 "was": 99.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Deporte",
@@ -4231,7 +4232,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/rCZuJYn",
 "was": 279.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Deporte",
@@ -4245,7 +4246,7 @@
 "store": "Decathlon",
 "url": "https://afiliacion.decathlon.es/tracking/clk/ZdsVZAR",
 "was": 79.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "mmc-tu65m73hauxxc",
@@ -4274,7 +4275,7 @@
 "why": "Para casas con varios gatos, con triple desodorización",
 "others": {},
 "prevDay": 220.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Juguetes",
@@ -4290,7 +4291,7 @@
 "url": "https://www.chollometro.com/ofertas/playmobil-junior-disney-mickey-y-minnie-casa-en-las-nubes-2067340",
 "was": null,
 "prevDay": 24.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Juguetes",
@@ -4306,7 +4307,7 @@
 "url": "https://www.chollometro.com/ofertas/playmobil-collector-cars-ferrari-250-gto-2069121",
 "was": null,
 "prevDay": 13.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "cat": "Juguetes",
@@ -4322,7 +4323,7 @@
 "url": "https://www.chollometro.com/ofertas/set-playmobil-pinguinos-2070459",
 "was": null,
 "prevDay": 13.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "cm-2067343",
@@ -4338,7 +4339,7 @@
 "others": {},
 "src": "Chollómetro",
 "prevDay": 12.49,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "cm-2072985",
@@ -4354,7 +4355,7 @@
 "min": false,
 "was": null,
 "prevDay": 29.39,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "cm-2069123",
@@ -4370,7 +4371,7 @@
 "min": false,
 "was": null,
 "prevDay": 12.99,
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "cm-2080468",
@@ -4385,7 +4386,7 @@
 "others": {},
 "sub": "Otros",
 "src": "Chollómetro",
-"seen": "2026-11-26T02:08:05+00:00"
+"seen": "2026-11-27T02:08:03+00:00"
 },
 {
 "id": "cm-2080559",
@@ -4400,7 +4401,7 @@
 "others": {},
 "src": "Chollómetro",
 "sub": "Playmobil",
-"seen": "2026-11-26T02:08:05+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -4416,7 +4417,7 @@
 "others": {},
 "src": "Chollómetro",
 "sub": "Playmobil",
-"seen": "2026-11-26T02:08:05+00:00",
+"seen": "2026-11-27T02:08:03+00:00",
 "added": "2026-11-20"
 },
 {
@@ -4434,22 +4435,6 @@
 "sub": "Playmobil",
 "seen": "2026-11-26T17:40:04+00:00",
 "added": "2026-11-21"
-},
-{
-"id": "cm-2084601",
-"name": "190° - Perplexus Rebel Bola Laberinto 3D con 70 Obstáculos…",
-"cat": "Juguetes",
-"store": "Amazon",
-"price": 15.19,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/perplexus-rebel-bola-laberinto-3d-con-70-obstaculos-rompecabezas-8-anos-2084601",
-"img": "https://static.chollometro.com/threads/raw/hFFae/2084601_1/re/300x300/qt/55/2084601_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"sub": "Otros",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
 },
 {
 "id": "cm-2084481",
@@ -4852,6 +4837,134 @@
 "added": "2026-11-26"
 },
 {
+"id": "cm-2092378",
+"name": "199° - LEGO 72051 Super Mario Máquina recreativa de Donkey…",
+"cat": "Juguetes",
+"store": "Miravia",
+"price": 115.49,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/lego-72051-super-mario-maquina-recreativa-de-donkey-kong-2092378",
+"img": "https://static.chollometro.com/threads/raw/nM2dc/2092378_1/re/300x300/qt/55/2092378_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "LEGO",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092470",
+"name": "208° - Exit Puzzle: El Templo Perdido",
+"cat": "Juguetes",
+"store": "Devir",
+"price": 3.0,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/exit-puzzle-el-templo-perdido-2092470",
+"img": "https://static.chollometro.com/threads/raw/EaLxw/2092470_1/re/300x300/qt/55/2092470_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "Otros",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092250",
+"name": "186° - DJ Furby – Peluche interactivo con música, luces y j…",
+"cat": "Juguetes",
+"store": "Amazon",
+"price": 39.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/dj-furby-peluche-interactivo-con-musica-luces-y-juegos-5-modosmas-de-1000-combinaciones-habla-espanol-y-furbish-para-mayores-de-6-anos-2092250",
+"img": "https://static.chollometro.com/threads/raw/ntHBb/2092250_1/re/300x300/qt/55/2092250_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "Otros",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092100",
+"name": "182° - Puzzle Educa \"El Maravilloso Mundo de Disney II\" (10…",
+"cat": "Juguetes",
+"store": "Amazon",
+"price": 8.79,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/puzzle-educa-el-maravilloso-mundo-de-disney-ii-1000-piezas-2092100",
+"img": "https://static.chollometro.com/threads/raw/s0WqK/2092100_1/re/300x300/qt/55/2092100_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "Otros",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092393",
+"name": "236° - Juego de mesa - Metro",
+"cat": "Juguetes",
+"store": "Devir",
+"price": 9.0,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/juego-de-mesa-metro-2092393",
+"img": "https://static.chollometro.com/threads/raw/o4hag/2092393_1/re/300x300/qt/55/2092393_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "Juegos de mesa",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2091819",
+"name": "197° - LEGO Disney Pixar WALL-E y EVE - Kit de Maquetas par…",
+"cat": "Juguetes",
+"store": "Miravia",
+"price": 42.6,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/lego-disney-pixar-wall-e-y-eve-kit-de-maquetas-para-adultos-robots-de-ladrillos-con-figuras-de-m-o-y-hal-43279-2091819",
+"img": "https://static.chollometro.com/threads/raw/BHOyT/2091819_1/re/300x300/qt/55/2091819_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "LEGO",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2091916",
+"name": "188° - LEGO 75455 Star Wars Boba Fett",
+"cat": "Juguetes",
+"store": "Miravia",
+"price": 115.8,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/lego-75455-star-wars-boba-fett-2091916",
+"img": "https://static.chollometro.com/threads/raw/2kzIE/2091916_1/re/300x300/qt/55/2091916_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "LEGO",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2091879",
+"name": "193° - LEGO 43296 Disney Stitch y Scrump de Juguete - 2 Fig…",
+"cat": "Juguetes",
+"store": "Miravia",
+"price": 44.57,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/lego-43296-disney-stitch-y-scrump-de-juguete-2-figuras-y-ukelele-2091879",
+"img": "https://static.chollometro.com/threads/raw/BMgm1/2091879_1/re/300x300/qt/55/2091879_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"sub": "LEGO",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
 "cat": "Deporte",
 "id": "dec-patinete",
 "img": "img/dec-patinete.webp",
@@ -4910,396 +5023,6 @@
 "was": null,
 "prevDay": 99.9,
 "seen": "2026-11-26T17:40:04+00:00"
-},
-{
-"id": "cm-2084673",
-"name": "201° - Zapatillas Nike ACG Pegasus Trail - Mujer",
-"cat": "Moda",
-"store": "Pro:Direct Sport",
-"price": 55.0,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/zapatillas-nike-acg-pegasus-trail-mujer-2084673",
-"img": "https://static.chollometro.com/threads/raw/AObN9/2084673_1/re/300x300/qt/55/2084673_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084781",
-"name": "220° - Set de 3 sartenes de acero inoxidable sin antiadhere…",
-"cat": "Cocina",
-"store": "El Corte Inglés",
-"price": 34.95,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/set-de-3-sartenes-de-acero-inoxidable-sin-antiadherente-smart-acero-2084781",
-"img": "https://static.chollometro.com/threads/raw/cDbhf/2084781_1/re/300x300/qt/55/2084781_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2081831",
-"name": "213° - Set de taladro atornillador recargable de 20 V »PABS…",
-"cat": "Hogar",
-"store": "Lidl",
-"price": 41.24,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/set-de-taladro-atornillador-recargable-de-20-v-pabs-20-li-g8-con-bateria-y-cargador-incl-juego-de-accesorios-2081831",
-"img": "https://static.chollometro.com/threads/raw/c8n5f/2081831_1/re/300x300/qt/55/2081831_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2077071",
-"name": "194° - Assassin's Creed Mirage",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 16.99,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/assassins-creed-mirage-2077071",
-"img": "https://static.chollometro.com/threads/raw/RBinM/2077071_1/re/300x300/qt/55/2077071_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084797",
-"name": "229° - Philips Ambilight TV 50 Inch 4K QLED Smart TV Pixel…",
-"cat": "TV y audio",
-"store": "Amazon",
-"price": 321.49,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/philips-ambilight-tv-50pqs850112-50-inch-4k-qled-smart-tv-pixel-precise-ultra-hd-titan-os-dolby-atmos-sound-2084797",
-"img": "https://static.chollometro.com/threads/raw/WHuyR/2084797_1/re/300x300/qt/55/2084797_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084753",
-"name": "187° - Nike Vomero Plus SE hombre zapatillas running. Talla…",
-"cat": "Moda",
-"store": "SportsShoes",
-"price": 91.19,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/nike-vomero-plus-se-hombre-zapatillas-running-tallas-38-a-43-2084753",
-"img": "https://static.chollometro.com/threads/raw/FTk87/2084753_1/re/300x300/qt/55/2084753_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084800",
-"name": "285° - Pala de pádel HACK 04 CMF 26 Bullpadel - Gris",
-"cat": "Tecnología",
-"store": "El Corte Inglés",
-"price": 89.99,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/pala-de-padel-hack-04-cmf-26-bullpadel-gris-2084800",
-"img": "https://static.chollometro.com/threads/raw/1LhzJ/2084800_1/re/300x300/qt/55/2084800_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084809",
-"name": "195° - Palas de pádel VERTEX 05 HYB Bullpadel - Negro",
-"cat": "Tecnología",
-"store": "El Corte Inglés",
-"price": 139.99,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/palas-de-padel-vertex-05-hyb-bullpadel-negro-2084809",
-"img": "https://static.chollometro.com/threads/raw/jSVyO/2084809_1/re/300x300/qt/55/2084809_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084828",
-"name": "429° - Kingdom Come Deliverance Royal Edition PlayStation 5",
-"cat": "Gaming",
-"store": "El Corte Inglés",
-"price": 14.9,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/kingdom-come-deliverance-royal-edition-playstation-5-2084828",
-"img": "https://static.chollometro.com/threads/raw/ZxbNX/2084828_1/re/300x300/qt/55/2084828_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084750",
-"name": "221° - Aquabeads 31520 Set Abalorios Joya Recarga Colores J…",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 2.4,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/aquabeads-31520-set-abalorios-joya-recarga-colores-juego-de-manualidades-2084750",
-"img": "https://static.chollometro.com/threads/raw/u34FT/2084750_1/re/300x300/qt/55/2084750_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084401",
-"name": "226° - NirvanaShape Toalla de Microfibra 14 Colores Toalla…",
-"cat": "Hogar",
-"store": "Amazon",
-"price": 4.44,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/nirvanashape-toalla-de-microfibra-14-colores-toalla-de-viaje-ligera-para-gym-absorbente-y-de-secado-rapido-varios-tamanos-2084401",
-"img": "https://static.chollometro.com/threads/raw/4wBHq/2084401_1/re/300x300/qt/55/2084401_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084782",
-"name": "204° - Final Fantasy Tactics: Ivalice Chronicles PS5",
-"cat": "Gaming",
-"store": "Amazon",
-"price": 24.9,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/final-fantasy-tactics-ivalice-chronicles-2084782",
-"img": "https://static.chollometro.com/threads/raw/ypVVw/2084782_1/re/300x300/qt/55/2084782_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084747",
-"name": "224° - Fuente de agua para mascotas Rojeco RYSJ-11 2 litros…",
-"cat": "Hogar",
-"store": "PcComponentes",
-"price": 18.56,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/fuente-de-agua-para-mascotas-rojeco-rysj-11-2-litros-acero-inoxidable-2084747",
-"img": "https://static.chollometro.com/threads/raw/hMKjc/2084747_1/re/300x300/qt/55/2084747_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084761",
-"name": "223° - 1 Million Black 100ml",
-"cat": "Tecnología",
-"store": "Notino",
-"price": 57.6,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/1-million-black-100ml-2084761",
-"img": "https://static.chollometro.com/threads/raw/4zbHt/2084761_1/re/300x300/qt/55/2084761_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2083092",
-"name": "200° - Dragon ball Sparking Zero",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 24.71,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/dragon-ball-sparking-zero-2083092",
-"img": "https://static.chollometro.com/threads/raw/8xh6I/2083092_1/re/300x300/qt/55/2083092_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084755",
-"name": "197° - Mochila Infantil Sevilla FC",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 15.68,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/mochila-infantil-sevilla-fc-2084755",
-"img": "https://static.chollometro.com/threads/raw/1Hwz4/2084755_1/re/300x300/qt/55/2084755_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084668",
-"name": "219°",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 4.76,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/238eur-botella-2-botellas-finish-abrillantador-para-lavavajillas-500-ml-125-lavados-sin-marcas-2084668",
-"img": "https://static.chollometro.com/threads/raw/mPinl/2084668_1/re/300x300/qt/55/2084668_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084778",
-"name": "697° - Star Wars Outlaws Limited Edition (Exclusive to Amaz…",
-"cat": "Gaming",
-"store": "Amazon",
-"price": 14.9,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/star-wars-outlaws-limited-edition-exclusive-to-amazones-ps5-2084778",
-"img": "https://static.chollometro.com/threads/raw/DXnZu/2084778_1/re/300x300/qt/55/2084778_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084237",
-"name": "196° - Music Star - Micrófono Karaoke",
-"cat": "Tecnología",
-"store": "Toys \"R\" Us",
-"price": 9.99,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/music-star-microfono-karaoke-2084237",
-"img": "https://static.chollometro.com/threads/raw/a3p8M/2084237_1/re/300x300/qt/55/2084237_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084658",
-"name": "204° - Adaptador de enchufe Philips CHP4010W/10 con 1 toma…",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 9.48,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/adaptador-de-enchufe-philips-chp4010w10-con-1-toma-de-corriente-2-usb-24-a-proteccion-contra-sobretension-y-led-2084658",
-"img": "https://static.chollometro.com/threads/raw/Y7bFB/2084658_1/re/300x300/qt/55/2084658_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084620",
-"name": "218° - Frozen Olaf Fuzzy Mug Taza de Cerámica con Funda Ext…",
-"cat": "Tecnología",
-"store": "Outlet PC",
-"price": 3.99,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/frozen-olaf-fuzzy-mug-taza-de-ceramica-con-funda-extraible-440-ml-2084620",
-"img": "https://static.chollometro.com/threads/raw/nrJwq/2084620_1/re/300x300/qt/55/2084620_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084764",
-"name": "246° - Zapatillas adidas Terrex Eastrail 3 Climaproof (Tall…",
-"cat": "Moda",
-"store": "Privé by Zalando",
-"price": 44.9,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/zapatillas-adidas-terrex-eastrail-3-climaproof-tallas-40-a-49-13-2084764",
-"img": "https://static.chollometro.com/threads/raw/1X9tY/2084764_1/re/300x300/qt/55/2084764_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084026",
-"name": "220° - Ginebra Premium Ampersand Sabor Melón - 1 Botella de…",
-"cat": "Tecnología",
-"store": "Amazon",
-"price": 9.85,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/ginebra-premium-ampersand-sabor-melon-1-botella-de-70-cl-2084026",
-"img": "https://static.chollometro.com/threads/raw/uoJEr/2084026_1/re/300x300/qt/55/2084026_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2083978",
-"name": "194° - TATAY Cesta de Ducha 28x12,8x38,5cm Instalación sin…",
-"cat": "Hogar",
-"store": "Amazon",
-"price": 12.66,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/tatay-cesta-de-ducha-28x128x385cm-instalacion-sin-taladro-diseno-moderno-2083978",
-"img": "https://static.chollometro.com/threads/raw/KJTi2/2083978_1/re/300x300/qt/55/2083978_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084662",
-"name": "199° - ZZapatillas Nike Flex Runner 3 bebé (Tallas 18,5 y 1…",
-"cat": "Moda",
-"store": "Zalando",
-"price": 11.55,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/zzapatillas-nike-flex-runner-3-bebe-tallas-185-y-195-disponibles-2084662",
-"img": "https://static.chollometro.com/threads/raw/c8km4/2084662_1/re/300x300/qt/55/2084662_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
-},
-{
-"id": "cm-2084677",
-"name": "195° - Crocs x Superman Unisex (tallas pequeñas)",
-"cat": "Tecnología",
-"store": "Zalando",
-"price": 20.99,
-"was": null,
-"min": false,
-"url": "https://www.chollometro.com/ofertas/crocs-x-superman-unisex-tallas-pequenas-2084677",
-"img": "https://static.chollometro.com/threads/raw/XvWSg/2084677_1/re/300x300/qt/55/2084677_1.jpg",
-"others": {},
-"src": "Chollómetro",
-"seen": "2026-11-22T22:23:54+00:00",
-"added": "2026-11-22"
 },
 {
 "id": "cm-2084903",
@@ -7895,6 +7618,321 @@
 "src": "Chollómetro",
 "seen": "2026-11-26T17:40:04+00:00",
 "added": "2026-11-26"
+},
+{
+"id": "cm-2092097",
+"name": "180° - X2. Café soluble natural Nescafe Classic 300 g Café…",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 16.3,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/x2-cafe-soluble-natural-nescafe-classic-300-g-cafe-soluble-natural-en-tarro-grande-ideal-para-el-consumo-diario-2092097",
+"img": "https://static.chollometro.com/threads/raw/bifFP/2092097_1/re/300x300/qt/55/2092097_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092536",
+"name": "184° - Tefal Secure 5 Neo - Olla a presión de 6L + Cestillo",
+"cat": "Cocina",
+"store": "Amazon",
+"price": 54.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/tefal-secure-5-neo-olla-a-presion-de-6l-cestillo-2092536",
+"img": "https://static.chollometro.com/threads/raw/4xzZa/2092536_1/re/300x300/qt/55/2092536_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092387",
+"name": "195° - Skechers Garlan Deno Botas cortas al tobillo Hombre…",
+"cat": "Moda",
+"store": "Amazon",
+"price": 58.95,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/skechers-garlan-deno-botas-cortas-al-tobillo-hombre-tallas-41-al-485-2092387",
+"img": "https://static.chollometro.com/threads/raw/gvRAn/2092387_1/re/300x300/qt/55/2092387_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092417",
+"name": "190° - REPSOL lubricante sintético para coche LEADER C2 C3…",
+"cat": "Tecnología",
+"store": "Miravia",
+"price": 22.31,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/repsol-lubricante-sintetico-para-coche-leader-c2-c3-5w-30-5l-2092417",
+"img": "https://static.chollometro.com/threads/raw/roePM/2092417_1/re/300x300/qt/55/2092417_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2091777",
+"name": "202° - Turtle Beach VelocityOne Flight Simulation Yoke Syst…",
+"cat": "Gaming",
+"store": "Amazon",
+"price": 239.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/turtle-beach-velocityone-flight-simulation-yoke-system-xbox-pc-negro-xbox-series-x-s-xbox-one-windows-pc-control-completo-2091777",
+"img": "https://static.chollometro.com/threads/raw/y2QK6/2091777_1/re/300x300/qt/55/2091777_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2077442",
+"name": "199° - Móvil Xiaomi Redmi Note 17 4G NFC 6,99\" 128GB+4 GB R…",
+"cat": "Móviles",
+"store": "Miravia",
+"price": 136.98,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/movil-xiaomi-redmi-note-17-4g-nfc-699-128gb4-gb-ram-snapdragon-6s-gen-2-bateria-7700-mah-2077442",
+"img": "https://static.chollometro.com/threads/raw/FDX3T/2077442_1/re/300x300/qt/55/2077442_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2091762",
+"name": "220° - Xiaomi 17T Pro 12GB+512GB [Envío desde España]",
+"cat": "Móviles",
+"store": "AliExpress",
+"price": 518.0,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/xiaomi-17t-pro-12gb512gb-envio-desde-espana-2091762",
+"img": "https://static.chollometro.com/threads/raw/FyjFZ/2091762_1/re/300x300/qt/55/2091762_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092253",
+"name": "190° - adidas Squadra25 Training Jacket Sudadera Hombre en…",
+"cat": "Moda",
+"store": "Amazon",
+"price": 20.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/adidas-squadra25-training-jacket-sudadera-hombre-en-negro-azul-amarillo-todas-las-tallas-2092253",
+"img": "https://static.chollometro.com/threads/raw/TbalS/2092253_1/re/300x300/qt/55/2092253_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092251",
+"name": "240° - Recopilatorio Xiaomi Black Friday: Xiaomi 18 Pro, PO…",
+"cat": "Móviles",
+"store": "Mi",
+"price": 49.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/recopilatorio-xiaomi-black-friday-xiaomi-18-pro-poco-f9-poco-x8-pro-max-pad-8-pro-con-teclado-de-regalo-patinetes-y-mas-2092251",
+"img": "https://static.chollometro.com/threads/raw/U4Adf/2092251_1/re/300x300/qt/55/2092251_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092212",
+"name": "181° - 3 packs Calvo Atún Claro al Natural, 3 x 80g",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 6.16,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/3-packs-calvo-atun-claro-al-natural-3-x-80g-2092212",
+"img": "https://static.chollometro.com/threads/raw/tBUMr/2092212_1/re/300x300/qt/55/2092212_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092146",
+"name": "192° - DKNY Be Delicious Eau de Parfum Spray for Women. 50ml",
+"cat": "Cuidado personal",
+"store": "Amazon",
+"price": 22.03,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/dkny-be-delicious-eau-de-parfum-spray-for-women-50ml-2092146",
+"img": "https://static.chollometro.com/threads/raw/62Vpt/2092146_1/re/300x300/qt/55/2092146_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092153",
+"name": "196° - Watchmen - [Blu-ray]",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 7.79,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/watchmen-blu-ray-2092153",
+"img": "https://static.chollometro.com/threads/raw/aqGoG/2092153_1/re/300x300/qt/55/2092153_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092131",
+"name": "205° - Vinilo Color The Beatles: 1958-1962",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 14.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/vinilo-color-the-beatles-1958-1962-2092131",
+"img": "https://static.chollometro.com/threads/raw/fdHwf/2092131_1/re/300x300/qt/55/2092131_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092126",
+"name": "196° - Tommy Jeans RETRO RUNNER ARCHIVE",
+"cat": "Moda",
+"store": "Amazon",
+"price": 32.95,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/tommy-jeans-retro-runner-archive-2092126",
+"img": "https://static.chollometro.com/threads/raw/SnRz8/2092126_1/re/300x300/qt/55/2092126_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092106",
+"name": "203° - Teclado Gaming Mecánico Logitech G413 TKL SE, QWERTY…",
+"cat": "Gaming",
+"store": "Amazon",
+"price": 39.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/teclado-gaming-mecanico-logitech-g413-tkl-se-qwerty-espanol-negro-2092106",
+"img": "https://static.chollometro.com/threads/raw/5MCkI/2092106_1/re/300x300/qt/55/2092106_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092095",
+"name": "189° - Pulp Fiction - Blu-ray",
+"cat": "Tecnología",
+"store": "Fnac",
+"price": 7.79,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/pulp-fiction-blu-ray-2092095",
+"img": "https://static.chollometro.com/threads/raw/MTpkB/2092095_1/re/300x300/qt/55/2092095_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092358",
+"name": "198° - GRILLMEISTER Barbacoa de gas con 6 + 1 quemadores la…",
+"cat": "Tecnología",
+"store": "Lidl",
+"price": 112.49,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/grillmeister-barbacoa-de-gas-con-6-1-quemadores-lateral-2092358",
+"img": "https://static.chollometro.com/threads/raw/zJbqd/2092358_1/re/300x300/qt/55/2092358_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092510",
+"name": "291° - Realme GT 7T 5G (12GB + 512GB) Envio desde España",
+"cat": "Móviles",
+"store": "AliExpress",
+"price": 237.8,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/realme-gt-7t-5g-12gb-512gb-envio-desde-espana-2092510",
+"img": "https://static.chollometro.com/threads/raw/VcCPn/2092510_1/re/300x300/qt/55/2092510_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092490",
+"name": "260° - Joma - Camiseta Deportiva Manga Corta Hombre , 6XS…",
+"cat": "Moda",
+"store": "Amazon",
+"price": 4.99,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/joma-camiseta-deportiva-manga-corta-hombre-6xs-3xl-transpirable-y-secado-rapido-ideal-para-running-y-gym-combi-2092490",
+"img": "https://static.chollometro.com/threads/raw/EezFP/2092490_1/re/300x300/qt/55/2092490_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2082949",
+"name": "237° - Nintendo Switch 2 + Sports Resort por 403,20 € con c…",
+"cat": "Gaming",
+"store": "AliExpress",
+"price": 366.0,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/nintendo-switch-2-sports-resort-por-40320-eur-con-cupon-2082949",
+"img": "https://static.chollometro.com/threads/raw/dzA84/2082949_1/re/300x300/qt/55/2082949_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
+},
+{
+"id": "cm-2092182",
+"name": "214° - Botella térmica Stanley 0.47l",
+"cat": "Tecnología",
+"store": "Amazon",
+"price": 19.5,
+"was": null,
+"min": false,
+"url": "https://www.chollometro.com/ofertas/botella-termica-stanley-047l-2092182",
+"img": "https://static.chollometro.com/threads/raw/5o8cF/2092182_1/re/300x300/qt/55/2092182_1.jpg",
+"others": {},
+"src": "Chollómetro",
+"seen": "2026-11-27T02:08:03+00:00",
+"added": "2026-11-27"
 }
 ]
 }
